@@ -153,6 +153,3 @@ if st.sidebar.button('Create Story'):
     html(story._repr_html_(), width=width, height=height)
 
     st.download_button('Download HTML export', story.to_html(), file_name=f'demographics-{selected_country}.html', mime='text/html')
-
-
-
