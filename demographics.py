@@ -30,8 +30,8 @@ selected_subregion = st.sidebar.selectbox('Region:', subregion)
 gender_list = df['Gender'].drop_duplicates()
 selected_gender = st.sidebar.selectbox('Gender:', gender_list)
 
-year_list = df['Year'].drop_duplicates()
-selected_year = st.sidebar.selectbox('Year Born', year_list)
+# Change selectbox for year to number_input with range
+selected_year = st.sidebar.number_input('Year Born', min_value=1950, max_value=2024, value=1950, step=1)
 
 # Create a button to generate the story
 if st.sidebar.button('Create Story'):
