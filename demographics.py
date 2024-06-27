@@ -33,8 +33,11 @@ selected_gender = st.sidebar.selectbox('Gender:', gender_list)
 # Change selectbox for year to number_input with range
 selected_year = st.sidebar.number_input('Year Born (1950-2024)', min_value=1950, max_value=2024, value=1950, step=1)
 
-# Create a button to generate the story
-if st.sidebar.button('Create Story'):
+# Create button
+button = st.sidebar.form_submit_button(label='Create Story')
+
+# Generate story when button or enter is pressed
+if button:
     # Filter data based on selections
     filtered_data = df[(df['Year'] == selected_year)]
 
