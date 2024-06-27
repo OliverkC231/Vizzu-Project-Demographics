@@ -25,7 +25,7 @@ with st.sidebar.form(key='filter_form'):
     selected_country = st.selectbox('Country:', country_list)
     
     # Determine the subregion for the selected country
-    subregion = df['Type'].loc[df['Country'] == selected_country]
+    subregion = df['Type'].loc[df['Country'] == selected_country].drop_duplicates()
     selected_subregion = st.selectbox('Region:', subregion)
 
     gender_list = df['Gender'].drop_duplicates()
