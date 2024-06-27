@@ -19,22 +19,23 @@ height = 450
 # Load and prepare the data
 df = pd.read_csv('data.csv', encoding='ISO-8859-1')
 
-# Sidebar filters
-country_list = df['Country'].drop_duplicates()
-selected_country = st.sidebar.selectbox('Country:', country_list)
+# Sidebar filters within a form
+with st.sidebar.form(key='filter_form'):
+    country_list = df['Country'].drop_duplicates()
+    selected_country = st.selectbox('Country:', country_list)
+    
+    # Determine the subregion for the selected country
+    subregion = df['Type'].loc[df['Country'] == selected_country]
+    selected_subregion = st.selectbox('Region:', subregion)
 
-# Determine the subregion for the selected country
-subregion = df['Type'].loc[df['Country'] == selected_country]
-selected_subregion = st.sidebar.selectbox('Region:', subregion)
+    gender_list = df['Gender'].drop_duplicates()
+    selected_gender = st.selectbox('Gender:', gender_list)
 
-gender_list = df['Gender'].drop_duplicates()
-selected_gender = st.sidebar.selectbox('Gender:', gender_list)
+    # Change selectbox for year to number_input with range
+    selected_year = st.number_input('Year Born', min_value=1950, max_value=2024, value=1950, step=1)
 
-# Change selectbox for year to number_input with range
-selected_year = st.sidebar.number_input('Year Born (1950-2024)', min_value=1950, max_value=2024, value=1950, step=1)
-
-# Create button
-button = st.sidebar.form_submit_button(label='Create Story')
+    # Create the submit button
+    button = st.form_submit_button(label='Create Story')
 
 # Generate story when button or enter is pressed
 if button:
