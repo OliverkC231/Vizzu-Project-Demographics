@@ -24,7 +24,7 @@ country_list = df['Country'].drop_duplicates()
 selected_country = st.sidebar.selectbox('Country:', country_list)
 
 # Determine the subregion for the selected country
-subregion = df['Type'].loc[df['Country'] == selected_country]
+subregion = df['Type'].loc[df['Country'] == selected_country].drop_duplicates()
 selected_subregion = st.sidebar.selectbox('Region:', subregion)
 
 gender_list = df['Gender'].drop_duplicates()
