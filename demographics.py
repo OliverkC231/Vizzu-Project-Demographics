@@ -17,14 +17,14 @@ width = 600
 height = 450
 
 # Load and prepare the data
-df = pd.read_csv('data.csv', encoding='ISO-8859-1')
+df = pd.read_csv('population.csv', encoding='ISO-8859-1')
 
 # Sidebar filters
 country_list = df['Country'].drop_duplicates()
 selected_country = st.sidebar.selectbox('Country:', country_list)
 
 # Determine the subregion for the selected country
-subregion = df['Type'].loc[df['Country'] == selected_country].drop_duplicates()
+subregion = df['Subregion'].loc[df['Country'] == selected_country].drop_duplicates()
 selected_subregion = st.sidebar.selectbox('Region:', subregion)
 
 gender_list = df['Gender'].drop_duplicates()
@@ -98,7 +98,7 @@ if st.sidebar.button('Create Story'):
 
     slide4 = Slide(
         Step(
-            Data.filter(f"record['Type'] == '{selected_subregion}'"),
+            Data.filter(f"record['Subregion'] == '{selected_subregion}'"),
             Config(
                 {
                     'size': 'Population',
@@ -115,7 +115,7 @@ if st.sidebar.button('Create Story'):
 
     slide5 = Slide(
         Step(
-            Data.filter(f"record['Type'] == '{selected_subregion}'"),
+            Data.filter(f"record['Subregion'] == '{selected_subregion}'"),
             Config(
                 {
                     'size': 'Population',
@@ -137,7 +137,7 @@ if st.sidebar.button('Create Story'):
                 {
                     'size': 'Population',
                     'geometry': 'circle',
-                    'color': 'Type',
+                    'color': 'Subregion',
                     'label': 'Population',
                     'title': f"Total Number of People Born In The World In {selected_year}"
 
