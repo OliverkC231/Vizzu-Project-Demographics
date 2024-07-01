@@ -132,7 +132,7 @@ if st.sidebar.button('Create Story'):
 
     slide6 = Slide(
         Step(
-            Data.filter(f"record['Year'] == '{selected_year}'"),
+            Data.filter(f"record['Year'] == '{selected_year}' && record['Type']"),
             Config(
                 {
                     'size': 'Population',
