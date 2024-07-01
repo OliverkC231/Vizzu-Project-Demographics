@@ -137,7 +137,7 @@ if st.sidebar.button('Create Story'):
                 {
                     'size': 'Population',
                     'geometry': 'circle',
-                    'color': 'Subregion',
+                    'color': 'Continent',
                     'label': 'Population',
                     'title': f"Total Number of People Born In The World In {selected_year}"
 
