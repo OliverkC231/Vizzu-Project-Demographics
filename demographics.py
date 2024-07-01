@@ -17,7 +17,7 @@ width = 600
 height = 450
 
 # Load and prepare the data
-df = pd.read_csv('population.csv', encoding='ISO-8859-1')
+df = pd.read_csv('data.csv', encoding='ISO-8859-1')
 
 # Sidebar filters
 country_list = df['Country'].drop_duplicates()
