@@ -132,6 +132,22 @@ if st.sidebar.button('Create Story'):
 
     slide6 = Slide(
         Step(
+            Config(
+                {
+                    'size': 'Population',
+                    'geometry': 'circle',
+                    'color': 'Type',
+                    'label': 'Population',
+                    'title': f"Total Number of People Born In The World In {selected_year}"
+
+                }
+            )
+        )
+    )
+    story.add_slide(slide6)
+
+    slide7 = Slide(
+        Step(
             Data.filter(f"record['Year'] == '{selected_year}'"),
             Config(
                 {
@@ -145,7 +161,7 @@ if st.sidebar.button('Create Story'):
             )
         )
     )
-    story.add_slide(slide6)
+    story.add_slide(slide7)
 
     # Switch on the tooltip that appears when the user hovers the mouse over a chart element.
     story.set_feature('tooltip', True)
