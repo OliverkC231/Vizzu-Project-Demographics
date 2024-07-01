@@ -132,6 +132,7 @@ if st.sidebar.button('Create Story'):
 
     slide6 = Slide(
         Step(
+            Data.filter("record['Type']"),
             Config(
                 {
                     'size': 'Population',
