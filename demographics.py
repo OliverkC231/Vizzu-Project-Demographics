@@ -199,15 +199,41 @@ if st.sidebar.button('Create Story'):
                 {
                     'by': 'Generation',
                     'angle': 'Population',
-                    'title': f'Distribution of Generations in {selected_country}'
+                    'title': f"Distribution of {selected_gender}'s by Generation in {selected_country}"
                 }
             )
         )
     )
     story.add_slide(slide9)
+    
+    slide10 = Slide(
+        Step(
+            Data.filter(f"record['Subregion'] == '{selected_subregion}' && record['Gender'] == '{selected_gender}'"),
+            Config.pie(
+                {
+                    'by': 'Generation',
+                    'angle': 'Population',
+                    'title': f"Distribution of {selected_gender}'s by Generation in {selected_subregion}"
+                }
+            )
+        )
+    )
+    story.add_slide(slide10)
 
-
-
+    slide11 = Slide(
+        Step(
+            Data.filter(f"record['Gender'] == '{selected_gender}'"),
+            Config.pie(
+                {
+                    'by': 'Generation',
+                    'angle': 'Population',
+                    'title': f"Distribution of {selected_gender}'s by Generation in the World"
+                }
+            )
+        )
+    )
+    story.add_slide(slide11)
+    
     # Switch on the tooltip that appears when the user hovers the mouse over a chart element.
     story.set_feature('tooltip', True)
 
