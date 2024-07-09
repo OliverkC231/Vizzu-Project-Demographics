@@ -213,7 +213,7 @@ if st.sidebar.button('Create Story'):
                 {
                     'size': 'Population',
                     'geometry': 'circle',
-                    'label': 'Generation',
+                    'label': 'Population',
                     'color': 'Generation',
                     'title': f"Distribution of {selected_gender}'s by Generation in {selected_subregion}"
                 }
