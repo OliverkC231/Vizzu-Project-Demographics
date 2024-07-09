@@ -185,7 +185,7 @@ if st.sidebar.button('Create Story'):
                     'geometry': 'circle',
                     'color': 'Generation',
                     'label': 'Population',
-                    'title': f"You are part of the {generation}. Number of {selected_gender} {generation}'s in {selected_country}"
+                    'title': f"Number of {selected_gender} {generation}'s in {selected_country}"
                 }
             )
         )
