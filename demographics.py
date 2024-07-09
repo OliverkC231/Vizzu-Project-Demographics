@@ -209,10 +209,12 @@ if st.sidebar.button('Create Story'):
     slide10 = Slide(
         Step(
             Data.filter(f"record['Subregion'] == '{selected_subregion}' && record['Gender'] == '{selected_gender}'"),
-            Config.pie(
+            Config(
                 {
-                    'by': 'Generation',
-                    'angle': 'Population',
+                    'size': 'Population',
+                    'geometry': 'circle',
+                    'label': 'Generation',
+                    'color': 'Generation',
                     'title': f"Distribution of {selected_gender}'s by Generation in {selected_subregion}"
                 }
             )
