@@ -30,17 +30,29 @@ selected_subregion = st.sidebar.selectbox('Region:', subregion)
 gender_list = df['Gender'].drop_duplicates()
 selected_gender = st.sidebar.selectbox('Gender:', gender_list)
 
-# Change selectbox for year to number_input with range
+# Function to match year with generation
+def get_generation(year):
+    if 1946 <= year <= 1964:
+        return "Baby Boomers"
+    elif 1965 <= year <= 1980:
+        return "Generation X"
+    elif 1981 <= year <= 1996:
+        return "Millennial Generation"
+    elif 1997 <= year <= 2012:
+        return "Generation Z"
+    else: 
+        return "Generation Alpha"
+ 
+
+# Number input for year with automatic generation matching
 selected_year = st.sidebar.number_input('Year Born (1950-2024)', min_value=1950, max_value=2024, value=1950, step=1)
+generation = get_generation(selected_year)
 
 if st.sidebar.button('Create Story'):
-    
-    # Filter data based on selections
-    filtered_data = df[(df['Year'] == selected_year)]
 
     # Initialize the ipyvizzu Data object
     vizzu_data = Data()
-    vizzu_data.add_df(filtered_data)
+    vizzu_data.add_df(df)
 
     # Initialize the story
     story = Story(data=vizzu_data)
@@ -48,7 +60,7 @@ if st.sidebar.button('Create Story'):
     # Slide 1: No. of people with the same sex, born in the same year, same country
     slide1 = Slide(
         Step(
-            Data.filter(f"record['Country'] == '{selected_country}' && record['Gender'] == '{selected_gender}'"),
+            Data.filter(f"record['Year'] == '{selected_year}' && record['Country'] == '{selected_country}' && record['Gender'] == '{selected_gender}'"),
             Config(
                 {
 
@@ -65,7 +77,7 @@ if st.sidebar.button('Create Story'):
 
     slide2 = Slide(
         Step(
-            Data.filter(f"record['Country'] == '{selected_country}'"),
+            Data.filter(f"record['Country'] == '{selected_country}' && record['Year'] == '{selected_year}'"),
             Config(
                 {
                     'color': 'Gender',
@@ -81,7 +93,7 @@ if st.sidebar.button('Create Story'):
 
     slide3 = Slide(
         Step(
-            Data.filter(f"record['Country'] == '{selected_country}'"),
+            Data.filter(f"record['Country'] == '{selected_country}' && record['Year'] == '{selected_year}'"),
             Config(
                 {
                     'size': 'Population',
@@ -98,7 +110,7 @@ if st.sidebar.button('Create Story'):
 
     slide4 = Slide(
         Step(
-            Data.filter(f"record['Subregion'] == '{selected_subregion}'"),
+            Data.filter(f"record['Subregion'] == '{selected_subregion}' && record['Year'] == '{selected_year}'"),
             Config(
                 {
                     'size': 'Population',
@@ -115,7 +127,7 @@ if st.sidebar.button('Create Story'):
 
     slide5 = Slide(
         Step(
-            Data.filter(f"record['Subregion'] == '{selected_subregion}'"),
+            Data.filter(f"record['Subregion'] == '{selected_subregion}' && record['Year'] == '{selected_year}'"),
             Config(
                 {
                     'size': 'Population',
@@ -149,7 +161,8 @@ if st.sidebar.button('Create Story'):
 
     slide7 = Slide(
         Step(
-            Config(
+            Data.filter(f"record['Year'] == '{selected_year}'"),
+            Config.pie(
                 {
                     'size': 'Population',
                     'geometry': 'circle',
@@ -162,6 +175,21 @@ if st.sidebar.button('Create Story'):
         )
     )
     story.add_slide(slide7)
+
+    slide8 = Slide(
+        Step(
+            Data.filter(f"record['Year'] == '{selected_year}' && record['Generation'] == '{generation}' && record['Country'] == '{selected_country}' && record['Gender'] == '{selected_gender}'"),
+            Config.pie(
+                {
+                    'by': 'Generation',
+                    'title': 'Number of People in Your Generation by Gender'
+                }
+            )
+        )
+    )
+    story.add_slide(slide8)
+
+
 
     # Switch on the tooltip that appears when the user hovers the mouse over a chart element.
     story.set_feature('tooltip', True)
