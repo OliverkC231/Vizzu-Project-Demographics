@@ -19,18 +19,12 @@ height = 450
 # Load and prepare the data
 df = pd.read_csv('data.csv', encoding='ISO-8859-1')
 
-country_list = df['Country'].drop_duplicates().tolist()
-
-# Ensure "United States" appears first
-if "United States" in country_list:
-    country_list.remove("United States")
-country_list.insert(0, "United States")
-
+country_list = df['Country'].drop_duplicates()
 selected_country = st.selectbox('Country:', country_list)
 
 # Determine the subregion for the selected country
 subregion = df['Subregion'].loc[df['Country'] == selected_country].drop_duplicates()
-st.write('Subregion:', subregion)
+st.write('Subregion:', sub)
 
 gender_list = df['Gender'].drop_duplicates()
 selected_gender = st.selectbox('Gender:', gender_list)
