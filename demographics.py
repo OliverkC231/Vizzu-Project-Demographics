@@ -19,16 +19,21 @@ height = 450
 # Load and prepare the data
 df = pd.read_csv('data.csv', encoding='ISO-8859-1')
 
-# Sidebar filters
-country_list = df['Country'].drop_duplicates()
-selected_country = st.sidebar.selectbox('Country:', country_list)
+country_list = df['Country'].drop_duplicates().tolist()
+
+# Ensure "United States" appears first
+if "United States" in country_list:
+    country_list.remove("United States")
+country_list.insert(0, "United States")
+
+selected_country = st.selectbox('Country:', country_list)
 
 # Determine the subregion for the selected country
 subregion = df['Subregion'].loc[df['Country'] == selected_country].drop_duplicates()
-selected_subregion = st.sidebar.selectbox('Region:', subregion)
+st.write('Subregion:', subregion)
 
 gender_list = df['Gender'].drop_duplicates()
-selected_gender = st.sidebar.selectbox('Gender:', gender_list)
+selected_gender = st.selectbox('Gender:', gender_list)
 
 # Function to match year with generation
 def get_generation(year):
@@ -45,10 +50,10 @@ def get_generation(year):
  
 
 # Number input for year with automatic generation matching
-selected_year = st.sidebar.number_input('Year Born (1950-2024)', min_value=1950, max_value=2024, value=1950, step=1)
+selected_year = st.number_input('Year Born (1950-2024)', min_value=1950, max_value=2024, value=1980, step=1)
 generation = get_generation(selected_year)
 
-if st.sidebar.button('Create Story'):
+if st.button('Create Story'):
 
     # Initialize the ipyvizzu Data object
     vizzu_data = Data()
@@ -123,14 +128,14 @@ if st.sidebar.button('Create Story'):
     )
     slide4.add_step(
         Step(
-            Data.filter(f"record['Subregion'] == '{selected_subregion}' && record['Year'] == '{selected_year}' && record['Gender'] == '{selected_gender}'"),
+            Data.filter(f"record['Subregion'] == '{subregion}' && record['Year'] == '{selected_year}' && record['Gender'] == '{selected_gender}'"),
             Config.bubble(
                 {
                     'size': 'Population',
                     'geometry': 'circle',
                     'color': 'Country',
                     'label': 'Population',
-                    'title': f"Total Number of {selected_gender} Born In {selected_subregion} In {selected_year}"
+                    'title': f"Total Number of {selected_gender} Born In {subregion} In {selected_year}"
 
                 }
             )
@@ -140,14 +145,14 @@ if st.sidebar.button('Create Story'):
 
     slide5 = Slide(
         Step(
-            Data.filter(f"record['Subregion'] == '{selected_subregion}' && record['Year'] == '{selected_year}'"),
+            Data.filter(f"record['Subregion'] == '{subregion}' && record['Year'] == '{selected_year}'"),
             Config(
                 {
                     'size': 'Population',
                     'geometry': 'circle',
                     'color': 'Population',
                     'label': 'Population',
-                    'title': f"Total Number of {selected_gender}s Born In {selected_subregion} In {selected_year}"
+                    'title': f"Total Number of {selected_gender}s Born In {subregion} In {selected_year}"
 
                 }
             )
@@ -221,14 +226,14 @@ if st.sidebar.button('Create Story'):
     
     slide9 = Slide(
         Step(
-            Data.filter(f"record['Subregion'] == '{selected_subregion}' && record['Gender'] == '{selected_gender}'"),
+            Data.filter(f"record['Subregion'] == '{subregion}' && record['Gender'] == '{selected_gender}'"),
             Config.bubble(
                 {
                     'size': 'Population',
                     'geometry': 'circle',
                     'label': 'Population',
                     'color': 'Generation',
-                    'title': f"Distribution of {selected_gender}'s by Generation in {selected_subregion}"
+                    'title': f"Distribution of {selected_gender}'s by Generation in {subregion}"
                 }
             )
         )
