@@ -108,20 +108,33 @@ if st.sidebar.button('Create Story'):
     )
     story.add_slide(slide3)
 
+
     slide4 = Slide(
         Step(
-            Data.filter(f"record['Subregion'] == '{selected_subregion}' && record['Year'] == '{selected_year}'"),
-            Config(
+            Data.filter(f"record['Country'] == '{selected_country}' && record['Year'] == '{selected_year}'"),
+            Config.pie(
+                {
+                    'by': 'Gender',
+                    'angle': 'Population',
+                    'title': f"Number of Males and Females Born In {selected_country} In {selected_year}"
+                }
+            )
+        )
+    )
+    slide4.add_step(
+        Step(
+            Data.filter(f"record['Subregion'] == '{selected_subregion}' && record['Year'] == '{selected_year}' && record['Gender'] == '{selected_gender}'"),
+            Config.bubble(
                 {
                     'size': 'Population',
                     'geometry': 'circle',
                     'color': 'Country',
                     'label': 'Population',
-                    'title': f"Total Number of People Born In {selected_subregion} In {selected_year}"
+                    'title': f"Total Number of {selected_gender} Born In {selected_subregion} In {selected_year}"
 
                 }
             )
-        )
+         )
     )
     story.add_slide(slide4)
 
@@ -134,7 +147,7 @@ if st.sidebar.button('Create Story'):
                     'geometry': 'circle',
                     'color': 'Population',
                     'label': 'Population',
-                    'title': f"Total Number of People Born In {selected_subregion} In {selected_year}"
+                    'title': f"Total Number of {selected_gender}s Born In {selected_subregion} In {selected_year}"
 
                 }
             )
@@ -144,14 +157,14 @@ if st.sidebar.button('Create Story'):
 
     slide6 = Slide(
         Step(
-            Data.filter(f"record['Year'] == '{selected_year}'"),
+            Data.filter(f"record['Year'] == '{selected_year}' && record['Gender'] == '{selected_gender}'"),
             Config(
                 {
                     'size': 'Population',
                     'geometry': 'circle',
                     'color': 'Continent',
                     'label': 'Population',
-                    'title': f"Total Number of People Born In The World In {selected_year}"
+                    'title': f"Total Number of People Born In {selected_year} Worldwide"
 
                 }
             )
@@ -159,7 +172,7 @@ if st.sidebar.button('Create Story'):
     )
     story.add_slide(slide6)
 
-    slide7 = Slide(
+    slide5 = Slide(
         Step(
             Data.filter(f"record['Year'] == '{selected_year}'"),
             Config(
@@ -168,8 +181,24 @@ if st.sidebar.button('Create Story'):
                     'geometry': 'circle',
                     'color': 'Population',
                     'label': 'Population',
-                    'title': f"Total Number of People Born In {selected_year} Worldwide"
+                    'title': f"Total Number of {selected_gender}s Born In {selected_year} Worldwide"
 
+                }
+            )
+        )
+    )
+    story.add_slide(slide5)
+
+    slide7 = Slide(
+        Step(
+            Data.filter(f"record['Generation'] == '{generation}' && record['Country'] == '{selected_country}' && record['Gender'] == '{selected_gender}'"),
+            Config(
+                {
+                    'size': 'Generation',
+                    'geometry':'circle',
+                    'color': 'Generation',
+                    'label': 'Population',
+                    'title': f"You are part of the {selected_gender} {generation} in {selected_country}"
                 }
             )
         )
@@ -177,22 +206,6 @@ if st.sidebar.button('Create Story'):
     story.add_slide(slide7)
 
     slide8 = Slide(
-        Step(
-            Data.filter(f"record['Generation'] == '{generation}' && record['Country'] == '{selected_country}' && record['Gender'] == '{selected_gender}'"),
-            Config(
-                {
-                    'size': 'Generation',
-                    'geometry': 'circle',
-                    'color': 'Generation',
-                    'label': 'Population',
-                    'title': f"Number of {selected_gender} {generation}'s in {selected_country}"
-                }
-            )
-        )
-    )
-    story.add_slide(slide8)
-
-    slide9 = Slide(
         Step(
             Data.filter(f"record['Country'] == '{selected_country}' && record['Gender'] == '{selected_gender}'"),
             Config.pie(
@@ -204,12 +217,12 @@ if st.sidebar.button('Create Story'):
             )
         )
     )
-    story.add_slide(slide9)
+    story.add_slide(slide8)
     
-    slide10 = Slide(
+    slide9 = Slide(
         Step(
             Data.filter(f"record['Subregion'] == '{selected_subregion}' && record['Gender'] == '{selected_gender}'"),
-            Config(
+            Config.bubble(
                 {
                     'size': 'Population',
                     'geometry': 'circle',
@@ -220,9 +233,9 @@ if st.sidebar.button('Create Story'):
             )
         )
     )
-    story.add_slide(slide10)
+    story.add_slide(slide9)
 
-    slide11 = Slide(
+    slide10 = Slide(
         Step(
             Data.filter(f"record['Gender'] == '{selected_gender}'"),
             Config.pie(
@@ -234,7 +247,7 @@ if st.sidebar.button('Create Story'):
             )
         )
     )
-    story.add_slide(slide11)
+    story.add_slide(slide10)
     
     # Switch on the tooltip that appears when the user hovers the mouse over a chart element.
     story.set_feature('tooltip', True)
