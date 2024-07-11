@@ -114,7 +114,7 @@ if submit_button:
     story.add_slide(slide1)
 
     pop2 = df[(df['Year'] == selected_year) & (df['Country'] == selected_country)]['Population'].sum()
-    title2 = f"There were {format_population(pop1)} people born in {selected_year} ({abr_country})"
+    title2 = f"There were {format_population(pop2)} people born in {selected_year} ({abr_country})"
 
     slide2 = Slide(
         Step(
