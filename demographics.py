@@ -7,7 +7,23 @@ from ipyvizzustory import Story, Slide, Step
 
 # Set the app title and configuration
 st.set_page_config(page_title='World Population Streamlit Story', layout='centered')
-st.title('🗺️ Demographics of the World 🗺️')
+
+# Center the title using HTML and CSS
+st.markdown(
+    """
+    <style>
+    .title {
+        text-align: center;
+        font-size: 2.5em;
+        margin-top: 0;
+        margin-bottom: 0.5em;
+    }
+    </style>
+    <h1 class="title">You and Your Contemporaries in the World</h1>
+    """,
+    unsafe_allow_html=True
+)
+
 
 # Fix SSL context
 ssl._create_default_https_context = ssl._create_unverified_context
@@ -19,35 +35,42 @@ height = 450
 # Load and prepare the data
 df = pd.read_csv('data.csv', encoding='ISO-8859-1')
 
-country_list = df['Country'].drop_duplicates()
-selected_country = st.selectbox('Country:', country_list)
+# Create form
+with st.form(key='story_form'):
 
-# Determine the subregion for the selected country
-subregion = df['Subregion'].loc[df['Country'] == selected_country].drop_duplicates()
-st.write('Subregion:', sub)
+    country_list = df['Country'].drop_duplicates()
+    selected_country = st.selectbox('Country:', country_list)
 
-gender_list = df['Gender'].drop_duplicates()
-selected_gender = st.selectbox('Gender:', gender_list)
+    # Determine the subregion for the selected country
+    subregion = df['Subregion'].loc[df['Country'] == selected_country].drop_duplicates().values[0]
 
-# Function to match year with generation
-def get_generation(year):
-    if 1946 <= year <= 1964:
-        return "Baby Boomers"
-    elif 1965 <= year <= 1980:
-        return "Generation X"
-    elif 1981 <= year <= 1996:
-        return "Millennial Generation"
-    elif 1997 <= year <= 2012:
-        return "Generation Z"
-    else: 
-        return "Generation Alpha"
- 
+    continent = df['Continent'].loc[df['Country'] == selected_country].drop_duplicates().values[0]
 
-# Number input for year with automatic generation matching
-selected_year = st.number_input('Year Born (1950-2024)', min_value=1950, max_value=2024, value=1980, step=1)
-generation = get_generation(selected_year)
+    gender_list = df['Gender'].drop_duplicates()
+    selected_gender = st.selectbox('Gender:', gender_list)
 
-if st.button('Create Story'):
+    # Function to match year with generation
+    def get_generation(year):
+        if 1946 <= year <= 1964:
+            return "Baby Boomers"
+        elif 1965 <= year <= 1980:
+            return "Generation X"
+        elif 1981 <= year <= 1996:
+            return "Millennial Generation"
+        elif 1997 <= year <= 2012:
+            return "Generation Z"
+        else: 
+            return "Generation Alpha"
+    
+
+    # Number input for year with automatic generation matching
+    selected_year = st.slider('Year Born', min_value=1950, max_value=2024, value=1980)
+    generation = get_generation(selected_year)
+
+    # Create a submit button
+    submit_button = st.form_submit_button(label='Create Story')
+
+if submit_button:
 
     # Initialize the ipyvizzu Data object
     vizzu_data = Data()
@@ -92,69 +115,37 @@ if st.button('Create Story'):
 
     slide3 = Slide(
         Step(
-            Data.filter(f"record['Country'] == '{selected_country}' && record['Year'] == '{selected_year}'"),
+            Data.filter(f"record['Subregion'] == '{subregion}' && record['Year'] == {selected_year} && record['Gender'] == '{selected_gender}'"),
             Config(
                 {
                     'size': 'Population',
                     'geometry': 'circle',
-                    'color': 'Population',
-                    'label': 'Population',
-                    'title': f"Total Number of People Born In {selected_country} In {selected_year}"
-
+                    'color': 'Country',
+                    'label': 'Country',
+                    'title': f"Population of {selected_gender}s in {subregion} In {selected_year}"
                 }
             )
         )
     )
     story.add_slide(slide3)
 
-
-    slide4 = Slide(
+    slide3 = Slide(
         Step(
-            Data.filter(f"record['Country'] == '{selected_country}' && record['Year'] == '{selected_year}'"),
-            Config.pie(
-                {
-                    'by': 'Gender',
-                    'angle': 'Population',
-                    'title': f"Number of Males and Females Born In {selected_country} In {selected_year}"
-                }
-            )
-        )
-    )
-    slide4.add_step(
-        Step(
-            Data.filter(f"record['Subregion'] == '{subregion}' && record['Year'] == '{selected_year}' && record['Gender'] == '{selected_gender}'"),
-            Config.bubble(
-                {
-                    'size': 'Population',
-                    'geometry': 'circle',
-                    'color': 'Country',
-                    'label': 'Population',
-                    'title': f"Total Number of {selected_gender} Born In {subregion} In {selected_year}"
-
-                }
-            )
-         )
-    )
-    story.add_slide(slide4)
-
-    slide5 = Slide(
-        Step(
-            Data.filter(f"record['Subregion'] == '{subregion}' && record['Year'] == '{selected_year}'"),
+            Data.filter(f"record['Continent'] == '{continent}' && record['Year'] == {selected_year} && record['Gender'] == '{selected_gender}'"),
             Config(
                 {
                     'size': 'Population',
                     'geometry': 'circle',
-                    'color': 'Population',
-                    'label': 'Population',
-                    'title': f"Total Number of {selected_gender}s Born In {subregion} In {selected_year}"
-
+                    'color': 'Country',
+                    'label': 'Country',
+                    'title': f"Population of {selected_gender}s in {continent} In {selected_year}"
                 }
             )
         )
     )
-    story.add_slide(slide5)
+    story.add_slide(slide3)
 
-    slide6 = Slide(
+    slide5 = Slide(
         Step(
             Data.filter(f"record['Year'] == '{selected_year}' && record['Gender'] == '{selected_gender}'"),
             Config(
@@ -169,85 +160,8 @@ if st.button('Create Story'):
             )
         )
     )
-    story.add_slide(slide6)
-
-    slide5 = Slide(
-        Step(
-            Data.filter(f"record['Year'] == '{selected_year}'"),
-            Config(
-                {
-                    'size': 'Population',
-                    'geometry': 'circle',
-                    'color': 'Population',
-                    'label': 'Population',
-                    'title': f"Total Number of {selected_gender}s Born In {selected_year} Worldwide"
-
-                }
-            )
-        )
-    )
     story.add_slide(slide5)
 
-    slide7 = Slide(
-        Step(
-            Data.filter(f"record['Generation'] == '{generation}' && record['Country'] == '{selected_country}' && record['Gender'] == '{selected_gender}'"),
-            Config(
-                {
-                    'size': 'Generation',
-                    'geometry':'circle',
-                    'color': 'Generation',
-                    'label': 'Population',
-                    'title': f"You are part of the {selected_gender} {generation} in {selected_country}"
-                }
-            )
-        )
-    )
-    story.add_slide(slide7)
-
-    slide8 = Slide(
-        Step(
-            Data.filter(f"record['Country'] == '{selected_country}' && record['Gender'] == '{selected_gender}'"),
-            Config.pie(
-                {
-                    'by': 'Generation',
-                    'angle': 'Population',
-                    'title': f"Distribution of {selected_gender}'s by Generation in {selected_country}"
-                }
-            )
-        )
-    )
-    story.add_slide(slide8)
-    
-    slide9 = Slide(
-        Step(
-            Data.filter(f"record['Subregion'] == '{subregion}' && record['Gender'] == '{selected_gender}'"),
-            Config.bubble(
-                {
-                    'size': 'Population',
-                    'geometry': 'circle',
-                    'label': 'Population',
-                    'color': 'Generation',
-                    'title': f"Distribution of {selected_gender}'s by Generation in {subregion}"
-                }
-            )
-        )
-    )
-    story.add_slide(slide9)
-
-    slide10 = Slide(
-        Step(
-            Data.filter(f"record['Gender'] == '{selected_gender}'"),
-            Config.pie(
-                {
-                    'by': 'Generation',
-                    'angle': 'Population',
-                    'title': f"Distribution of {selected_gender}'s by Generation in the World"
-                }
-            )
-        )
-    )
-    story.add_slide(slide10)
-    
     # Switch on the tooltip that appears when the user hovers the mouse over a chart element.
     story.set_feature('tooltip', True)
 
