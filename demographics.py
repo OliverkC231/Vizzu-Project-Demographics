@@ -210,7 +210,7 @@ if submit_button:
                 {
                     'x': 'Population',
                     'color': 'Generation',
-                    'label': 'Generation',
+                    'legend': 'Generation',
                     'title': title6
                 }
             )
@@ -226,7 +226,7 @@ if submit_button:
                     'x': 'Population',
                     'color': 'Generation',
                     'stackedBy': 'Generation',
-                    'label': 'Generation',
+                    'legend': 'Generation',
                     'title': f"Distribution of everyone born since 1950 ({abr_country})"
                 }
             )
