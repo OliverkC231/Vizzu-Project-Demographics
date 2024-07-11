@@ -41,6 +41,8 @@ with st.form(key='story_form'):
     country_list = df['Country'].drop_duplicates()
     selected_country = st.selectbox('Country:', country_list)
 
+    abr_country = df['ISO3_code'].loc[df['Country'] == selected_country]
+
     # Determine the subregion for the selected country
     subregion = df['Subregion'].loc[df['Country'] == selected_country].drop_duplicates().values[0]
 
@@ -91,7 +93,7 @@ if submit_button:
 
     # Slide 1: No. of people with the same sex, born in the same year, same country
     pop1 = df[(df['Year'] == selected_year) & (df['Country'] == selected_country) & (df['Gender'] == selected_gender)]['Population'].sum()
-    title1 = f"You are one of {format_population(pop1)} people born in {selected_country} in {selected_year}"
+    title1 = f"You are one of {format_population(pop1)} {selected_gender}s born in {selected_year} ({abr_country})"
 
     # Slide 1: No. of people with the same sex, born in the same year, same country
     slide1 = Slide(
