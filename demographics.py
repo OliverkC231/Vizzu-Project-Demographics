@@ -171,7 +171,7 @@ if submit_button:
     story.add_slide(slide4)
 
     pop5 = df[(df['Year'] == selected_year) & (df['Gender'] == selected_gender)]['Population'].sum()
-    title5 = f"You are one of {format_population(pop5)} {selected_gender}s born in {selected_year} (World)"
+    title5 = f"You are one of {format_population(pop5)} {selected_gender}s born in {selected_year} in the World"
 
     slide5 = Slide(
         Step(
@@ -188,6 +188,8 @@ if submit_button:
         )
     )
     story.add_slide(slide5)
+
+
 
     # Switch on the tooltip that appears when the user hovers the mouse over a chart element.
     story.set_feature('tooltip', True)
