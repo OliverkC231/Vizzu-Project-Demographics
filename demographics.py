@@ -132,7 +132,7 @@ if submit_button:
     )
     story.add_slide(slide2)
 
-    pop3 = df[(df['Year'] == selected_year) & (df[subregion]) & (df['Gender'] == selected_gender)]['Population'].sum()
+    pop3 = df[(df['Subregion'] == subregion) & (df['Year'] == selected_year) & (df['Gender'] == selected_gender)]['Population'].sum()
     title3 = f"You are one of {format_population(pop3)} {selected_gender}s born in {selected_year} ({subregion})"
 
     slide3 = Slide(
