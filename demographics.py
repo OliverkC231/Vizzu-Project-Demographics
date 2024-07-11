@@ -201,7 +201,7 @@ if submit_button:
     story.add_slide(slide5)
 
     pop6 = df[(df['Country'] == selected_country) & (df['Generation'] == generation) & (df['Gender'] == selected_gender)]['Population'].sum()
-    title6 = f"You are one of {format_population(pop6)} {selected_gender} {generation}s ({abr_country})"
+    title6 = f"You are one of {format_population(pop6)} {selected_gender} {generation}s born ({abr_country})"
 
     slide6 = Slide(
         Step(
@@ -216,6 +216,20 @@ if submit_button:
         )
     )
     story.add_slide(slide6)
+
+    slide7= Slide(
+        Step(
+            Data.filter(f"record['Country'] == '{selected_country}' && record['Generation'] && record['Gender'] == '{selected_gender}'"),
+            Config.bar(
+                {
+                    'x': 'Population',
+                    'color': 'Generation',
+                    'title': f"Distribution of all the generations since 1950 of everyone born ({abr_country})"
+                }
+            )
+        )
+    )
+    story.add_slide(slide7)
 
 
     
