@@ -200,6 +200,23 @@ if submit_button:
     )
     story.add_slide(slide5)
 
+    pop6 = df[(df['Generation'] == generation) & (df['Gender'] == selected_gender)]['Population'].sum()
+    title6 = f"You are one of {format_population(pop5)} {selected_gender}s in the {generation} Generation"
+
+    slide6 = Slide(
+        Step(
+            Data.filter(f"record['Generation'] == '{generation}' && record['Gender'] == '{selected_gender}'"),
+            Config(
+                {
+                    'y': 'Population',
+                    'title': title6
+                }
+            )
+        )
+    )
+    story.add_slide(slide6)
+
+
     
 
     # Switch on the tooltip that appears when the user hovers the mouse over a chart element.
