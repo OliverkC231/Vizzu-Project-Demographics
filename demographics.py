@@ -12,14 +12,23 @@ st.set_page_config(page_title='World Population Streamlit Story', layout='center
 st.markdown(
     """
     <style>
-    .title {
+    .centered {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
         text-align: center;
+        width: 100%;
+    }
+    .title {
         font-size: 2.5em;
         margin-top: 0;
         margin-bottom: 0.5em;
     }
     </style>
-    <h1 class="title">You in the World</h1>
+    <div class="centered">
+        <h1 class="title">You in the World</h1>
+    </div>
     """,
     unsafe_allow_html=True
 )
@@ -73,6 +82,8 @@ with st.form(key='story_form'):
     submit_button = st.form_submit_button(label='Create Story')
 
 if submit_button:
+    # Wrap the presentation in a centered div
+    st.markdown('<div class="centered">', unsafe_allow_html=True)
 
     # Initialize the ipyvizzu Data object
     vizzu_data = Data()
@@ -189,7 +200,7 @@ if submit_button:
     )
     story.add_slide(slide5)
 
-
+    
 
     # Switch on the tooltip that appears when the user hovers the mouse over a chart element.
     story.set_feature('tooltip', True)
@@ -197,3 +208,6 @@ if submit_button:
     html(story._repr_html_(), width=width, height=height)
 
     st.download_button('Download HTML export', story.to_html(), file_name=f'demographics-{selected_country}.html', mime='text/html')
+
+    # Close the centered div
+    st.markdown('</div>', unsafe_allow_html=True)
