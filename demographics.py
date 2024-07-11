@@ -79,6 +79,13 @@ if submit_button:
     # Initialize the story
     story = Story(data=vizzu_data)
 
+    def format_population(population):
+        return f"{population:,.0f}"
+
+    # Slide 1: No. of people with the same sex, born in the same year, same country
+    pop1 = df[(df['Year'] == selected_year) & (df['Country'] == selected_country) & (df['Gender'] == selected_gender)]['Population'].sum()
+    title1 = f"You are one of {format_population(pop1)} people born in {selected_country} in {selected_year}"
+
     # Slide 1: No. of people with the same sex, born in the same year, same country
     slide1 = Slide(
         Step(
@@ -90,7 +97,7 @@ if submit_button:
                     'size': 'Population',
                     'geometry': 'circle',
                     'label': 'Population',
-                    'title': f"Number of {selected_gender}s Born In {selected_year} ({selected_country})"
+                    'title': title1
                 }
             )
         )
