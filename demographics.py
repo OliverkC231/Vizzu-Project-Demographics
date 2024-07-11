@@ -151,7 +151,10 @@ if submit_button:
     )
     story.add_slide(slide3)
 
-    slide3 = Slide(
+    pop4 = df[(df['Continent'] == continent) & (df['Year'] == selected_year) & (df['Gender'] == selected_gender)]['Population'].sum()
+    title4 = f"You are one of {format_population(pop4)} {selected_gender}s born in {selected_year} ({continent})"
+
+    slide4 = Slide(
         Step(
             Data.filter(f"record['Continent'] == '{continent}' && record['Year'] == {selected_year} && record['Gender'] == '{selected_gender}'"),
             Config(
@@ -160,12 +163,15 @@ if submit_button:
                     'geometry': 'circle',
                     'color': 'Country',
                     'label': 'Country',
-                    'title': f"Population of {selected_gender}s in {continent} In {selected_year}"
+                    'title': title4
                 }
             )
         )
     )
-    story.add_slide(slide3)
+    story.add_slide(slide4)
+
+    pop5 = df[(df['Year'] == selected_year) & (df['Gender'] == selected_gender)]['Population'].sum()
+    title5 = f"You are one of {format_population(pop5)} {selected_gender}s born in {selected_year} (World)"
 
     slide5 = Slide(
         Step(
@@ -176,7 +182,7 @@ if submit_button:
                     'geometry': 'circle',
                     'color': 'Continent',
                     'label': 'Continent',
-                    'title': f"Total Number of People Born In {selected_year} Worldwide"
+                    'title': title5
                 }
             )
         )
