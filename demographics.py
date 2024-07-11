@@ -217,7 +217,7 @@ if submit_button:
     )
     story.add_slide(slide6)
 
-    slide7= Slide(
+    slide7 = Slide(
         Step(
             Data.filter(f"record['Country'] == '{selected_country}' && record['Generation'] && record['Gender'] == '{selected_gender}'"),
             Config.stackedBar(
@@ -231,6 +231,37 @@ if submit_button:
         )
     )
     story.add_slide(slide7)
+
+    slide8 = Slide()
+    slide8.add_step(
+        Step(
+            Data.filter(f"record['Subregion'] == '{subregion}' && record['Generation'] && record['Gender'] == '{selected_gender}'"),
+            Config.bar(
+                {
+                    'y': 'Population',
+                    'y': 'Country',
+                    'color': 'Country',
+                    'title': f"Distribution of everyone born since 1950 ({subregion})"
+                }
+            )
+        )
+    )
+    slide8.add_step(
+        Step(
+            Data.filter(f"record['Subregion'] == '{subregion}' && record['Generation'] && record['Gender'] == '{selected_gender}'"),
+            Config.stackedBar(
+                {
+                    'x': 'Population',
+                    'y': 'Country',
+                    'stackedBy': 'Generation',
+                    'color': 'Generation',
+                    'title': f"Distribution of everyone born since 1950 ({subregion})"
+                }
+            )
+        )
+    )
+    story.add_slide(slide8)
+
 
 
     
