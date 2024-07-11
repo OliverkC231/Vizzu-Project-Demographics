@@ -41,7 +41,7 @@ with st.form(key='story_form'):
     country_list = df['Country'].drop_duplicates()
     selected_country = st.selectbox('Country:', country_list)
 
-    abr_country = df['ISO3_code'].loc[df['Country'] == selected_country]
+    abr_country = df['ISO3_code'].loc[df['Country'] == selected_country].values[0]
 
     # Determine the subregion for the selected country
     subregion = df['Subregion'].loc[df['Country'] == selected_country].drop_duplicates().values[0]
