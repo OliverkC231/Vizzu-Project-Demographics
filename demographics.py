@@ -320,7 +320,7 @@ if st.button('Create Story'):
 
     slide11 = Slide(
         Step(
-            Data.filer(f"record['Generation'] && record['Gender'] == '{selected_gender}'"),
+            Data.filter(f"record['Generation'] && record['Gender'] == '{selected_gender}'"),
             Config.bubble(
                 {
                     'size': 'Population',
