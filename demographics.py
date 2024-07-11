@@ -75,7 +75,7 @@ with st.form(key='story_form'):
     
 
     # Number input for year with automatic generation matching
-    selected_year = st.slider('Year Born', min_value=1950, max_value=2024, value=1980)
+    selected_year = st.number_input('Year Born', min_value=1950, max_value=2024, value=1980)
     generation = get_generation(selected_year)
 
     # Create a submit button
