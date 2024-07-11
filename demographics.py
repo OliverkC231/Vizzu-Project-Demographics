@@ -325,8 +325,8 @@ if st.button('Create Story'):
                 {
                     'size': 'Population',
                     'geometry': 'circle',
-                    'color': 'continent',
-                    'label': 'continent',
+                    'color': 'Generation',
+                    'label': 'Generation',
                     'title': f"Distribution of all {selected_gender}s born since 1950 Worldwide"
                 }
             )
