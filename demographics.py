@@ -241,7 +241,7 @@ if submit_button:
                     'y': 'Population',
                     'y': 'Country',
                     'color': 'Country',
-                    'title': f"Distribution of everyone born since 1950 ({subregion})"
+                    'title': f"Distribution of of all {selected_gender}s born since 1950 ({subregion})"
                 }
             )
         )
@@ -255,16 +255,72 @@ if submit_button:
                     'y': 'Country',
                     'stackedBy': 'Generation',
                     'color': 'Generation',
-                    'title': f"Distribution of everyone born since 1950 ({subregion})"
+                    'title': f"Distribution of all {selected_gender}s born since 1950 ({subregion})"
                 }
             )
         )
     )
     story.add_slide(slide8)
 
+    slide9 = Slide()
+    slide9.add_step(
+        Step(
+            Data.filter(f"record['Continent'] == '{continent}' && record['Generation'] && record['Gender'] == '{selected_gender}'"),
+            Config.bar(
+                {
+                    'x': 'Population',
+                    'y': 'Subregion',
+                    'color': 'Country',
+                    'title': f"Distribution of all {selected_gender}s born since 1950 ({continent})"
+                }
+            )
+        )
+    )
+    slide9.add_step(
+        Step(
+            Data.filter(f"record['Continent'] == '{continent}' && record['Generation'] && record['Gender'] == '{selected_gender}'"),
+            Config.stackedBar(
+                {
+                    'x': 'Population',
+                    'y': 'Subregion',
+                    'stackedBy': 'Generation',
+                    'color': 'Generation',
+                    'title': f"Distribution of all {selected_gender}s born since 1950 ({continent})"
+                }
+            )
+        )
+    )
+    story.add_slide(slide9) 
 
-
-    
+    slide10 = Slide()
+    slide10.add_step(
+        Step(
+            Data.filter(f"record['Generation'] && record['Gender'] == '{selected_gender}'"),
+            Config.bar(
+                {
+                    'x': 'Continent',
+                    'y': 'Population',
+                    'color': 'Generation',
+                    'title': f"Distribution of all {selected_gender}s born since 1950 Worldwide"
+                }
+            )
+        )
+    )
+    slide10.add_step(
+        Step(
+            Data.filter(f"record['Generation'] && record['Gender'] == '{selected_gender}'"),
+            Config.stackedBar(
+                {
+                    'x': 'Continent',
+                    'y': 'Population',
+                    'stackedBy': 'Generation',
+                    'color': 'Generation',
+                    'title': f"Distribution of all {selected_gender}s born since 1950 Worldwide"
+                }
+            )
+        )
+    )
+    story.add_slide(slide10)
 
     # Switch on the tooltip that appears when the user hovers the mouse over a chart element.
     story.set_feature('tooltip', True)
