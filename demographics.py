@@ -220,11 +220,11 @@ if submit_button:
     slide7= Slide(
         Step(
             Data.filter(f"record['Country'] == '{selected_country}' && record['Generation'] && record['Gender'] == '{selected_gender}'"),
-            Config.stackedbar(
+            Config.stackedBar(
                 {
                     'x': 'Population',
                     'color': 'Generation',
-                    'stackedby': 'Generation',
+                    'stackedBy': 'Generation',
                     'title': f"Distribution of everyone born since 1950 ({abr_country})"
                 }
             )
