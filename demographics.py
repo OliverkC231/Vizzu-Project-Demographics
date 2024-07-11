@@ -153,9 +153,8 @@ if submit_button:
                     'size': 'Population',
                     'geometry': 'circle',
                     'color': 'Continent',
-                    'label': 'Population',
+                    'label': 'Continent',
                     'title': f"Total Number of People Born In {selected_year} Worldwide"
-
                 }
             )
         )
