@@ -210,6 +210,7 @@ if submit_button:
                 {
                     'x': 'Population',
                     'color': 'Generation',
+                    'label': 'Generation',
                     'title': title6
                 }
             )
