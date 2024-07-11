@@ -45,43 +45,39 @@ height = 450
 df = pd.read_csv('data.csv', encoding='ISO-8859-1')
 
 # Create form
-with st.form(key='story_form'):
+country_list = df['Country'].drop_duplicates()
+selected_country = st.selectbox('Country:', country_list)
 
-    country_list = df['Country'].drop_duplicates()
-    selected_country = st.selectbox('Country:', country_list)
+abr_country = df['ISO3_code'].loc[df['Country'] == selected_country].values[0]
 
-    abr_country = df['ISO3_code'].loc[df['Country'] == selected_country].values[0]
+# Determine the subregion for the selected country
+subregion = df['Subregion'].loc[df['Country'] == selected_country].drop_duplicates().values[0]
 
-    # Determine the subregion for the selected country
-    subregion = df['Subregion'].loc[df['Country'] == selected_country].drop_duplicates().values[0]
+continent = df['Continent'].loc[df['Country'] == selected_country].drop_duplicates().values[0]
 
-    continent = df['Continent'].loc[df['Country'] == selected_country].drop_duplicates().values[0]
+gender_list = df['Gender'].drop_duplicates()
+selected_gender = st.selectbox('Gender:', gender_list)
 
-    gender_list = df['Gender'].drop_duplicates()
-    selected_gender = st.selectbox('Gender:', gender_list)
-
-    # Function to match year with generation
-    def get_generation(year):
-        if 1946 <= year <= 1964:
-            return "Baby Boomers"
-        elif 1965 <= year <= 1980:
+# Function to match year with generation
+def get_generation(year):
+    if 1946 <= year <= 1964:
+        return "Baby Boomers"
+    elif 1965 <= year <= 1980:
             return "Generation X"
-        elif 1981 <= year <= 1996:
-            return "Millennial Generation"
-        elif 1997 <= year <= 2012:
-            return "Generation Z"
-        else: 
-            return "Generation Alpha"
+    elif 1981 <= year <= 1996:
+        return "Millennial Generation"
+    elif 1997 <= year <= 2012:
+        return "Generation Z"
+    else: 
+        return "Generation Alpha"
     
 
-    # Number input for year with automatic generation matching
-    selected_year = st.number_input('Year Born', min_value=1950, max_value=2024, value=1980)
-    generation = get_generation(selected_year)
+# Number input for year with automatic generation matching
+selected_year = st.slider('Year Born', min_value=1950, max_value=2024, value=1980)
+generation = get_generation(selected_year)
 
-    # Create a submit button
-    submit_button = st.form_submit_button(label='Create Story')
 
-if submit_button:
+if st.button('Create Story'):
     # Wrap the presentation in a centered div
     st.markdown('<div class="centered">', unsafe_allow_html=True)
 
