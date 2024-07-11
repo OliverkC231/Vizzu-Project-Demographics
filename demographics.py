@@ -132,6 +132,9 @@ if submit_button:
     )
     story.add_slide(slide2)
 
+    pop3 = df[(df['Year'] == selected_year) & (df[subregion]) & (df['Gender'] == selected_gender)]['Population'].sum()
+    title3 = f"You are one of {format_population(pop3)} {selected_gender}s born in {selected_year} ({subregion})"
+
     slide3 = Slide(
         Step(
             Data.filter(f"record['Subregion'] == '{subregion}' && record['Year'] == {selected_year} && record['Gender'] == '{selected_gender}'"),
@@ -141,7 +144,7 @@ if submit_button:
                     'geometry': 'circle',
                     'color': 'Country',
                     'label': 'Country',
-                    'title': f"Population of {selected_gender}s in {subregion} In {selected_year}"
+                    'title': title3
                 }
             )
         )
