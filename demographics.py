@@ -19,7 +19,7 @@ st.markdown(
         margin-bottom: 0.5em;
     }
     </style>
-    <h1 class="title">You and Your Contemporaries in the World</h1>
+    <h1 class="title">You in the World</h1>
     """,
     unsafe_allow_html=True
 )
