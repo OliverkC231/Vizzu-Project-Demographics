@@ -332,6 +332,7 @@ if st.button('Create Story'):
             )
         )
     )
+    story.add_slide(slide11)
 
     # Switch on the tooltip that appears when the user hovers the mouse over a chart element.
     story.set_feature('tooltip', True)
