@@ -1,5 +1,5 @@
 Year,Country,Subregion,Continent,Gender,Generation,Population,Life Expectancy,Abbreviated Country,ISO3_code
-1950,United States of America,North America,North America,Male,Baby Boomers,1734259,65,United S,USA
+1950,United States of America,Northern America,North America,Male,Baby Boomers,1734259,65,United S,USA
 1950,Afghanistan,Southern Asia,Asia,Male,Baby Boomers,187019,27,Afghanis,AFG
 1951,Afghanistan,Southern Asia,Asia,Male,Baby Boomers,190469,27,Afghanis,AFG
 1952,Afghanistan,Southern Asia,Asia,Male,Baby Boomers,193668,28,Afghanis,AFG
@@ -1650,81 +1650,81 @@ Year,Country,Subregion,Continent,Gender,Generation,Population,Life Expectancy,Ab
 2022,Benin,Western Africa,Africa,Male,Generation Alpha,245696,58,Benin,BEN
 2023,Benin,Western Africa,Africa,Male,Generation Alpha,248625,59,Benin,BEN
 2024,Benin,Western Africa,Africa,Male,Generation Alpha,251678,60,Benin,BEN
-1950,Bermuda,North America,North America,Male,Baby Boomers,571,51,Bermuda,BMU
-1951,Bermuda,North America,North America,Male,Baby Boomers,566,48,Bermuda,BMU
-1952,Bermuda,North America,North America,Male,Baby Boomers,562,52,Bermuda,BMU
-1953,Bermuda,North America,North America,Male,Baby Boomers,559,54,Bermuda,BMU
-1954,Bermuda,North America,North America,Male,Baby Boomers,556,55,Bermuda,BMU
-1955,Bermuda,North America,North America,Male,Baby Boomers,553,56,Bermuda,BMU
-1956,Bermuda,North America,North America,Male,Baby Boomers,552,64,Bermuda,BMU
-1957,Bermuda,North America,North America,Male,Baby Boomers,551,64,Bermuda,BMU
-1958,Bermuda,North America,North America,Male,Baby Boomers,556,64,Bermuda,BMU
-1959,Bermuda,North America,North America,Male,Baby Boomers,551,64,Bermuda,BMU
-1960,Bermuda,North America,North America,Male,Baby Boomers,550,64,Bermuda,BMU
-1961,Bermuda,North America,North America,Male,Baby Boomers,547,62,Bermuda,BMU
-1962,Bermuda,North America,North America,Male,Baby Boomers,553,60,Bermuda,BMU
-1963,Bermuda,North America,North America,Male,Baby Boomers,571,63,Bermuda,BMU
-1964,Bermuda,North America,North America,Male,Baby Boomers,549,65,Bermuda,BMU
-1965,Bermuda,North America,North America,Male,Generation X,539,65,Bermuda,BMU
-1966,Bermuda,North America,North America,Male,Generation X,513,60,Bermuda,BMU
-1967,Bermuda,North America,North America,Male,Generation X,497,64,Bermuda,BMU
-1968,Bermuda,North America,North America,Male,Generation X,490,65,Bermuda,BMU
-1969,Bermuda,North America,North America,Male,Generation X,485,65,Bermuda,BMU
-1970,Bermuda,North America,North America,Male,Generation X,484,65,Bermuda,BMU
-1971,Bermuda,North America,North America,Male,Generation X,482,65,Bermuda,BMU
-1972,Bermuda,North America,North America,Male,Generation X,472,66,Bermuda,BMU
-1973,Bermuda,North America,North America,Male,Generation X,460,68,Bermuda,BMU
-1974,Bermuda,North America,North America,Male,Generation X,443,69,Bermuda,BMU
-1975,Bermuda,North America,North America,Male,Generation X,420,69,Bermuda,BMU
-1976,Bermuda,North America,North America,Male,Generation X,426,68,Bermuda,BMU
-1977,Bermuda,North America,North America,Male,Generation X,389,68,Bermuda,BMU
-1978,Bermuda,North America,North America,Male,Generation X,369,69,Bermuda,BMU
-1979,Bermuda,North America,North America,Male,Generation X,396,70,Bermuda,BMU
-1980,Bermuda,North America,North America,Male,Generation X,397,69,Bermuda,BMU
-1981,Bermuda,North America,North America,Male,Millennial Generation,383,70,Bermuda,BMU
-1982,Bermuda,North America,North America,Male,Millennial Generation,396,70,Bermuda,BMU
-1983,Bermuda,North America,North America,Male,Millennial Generation,444,70,Bermuda,BMU
-1984,Bermuda,North America,North America,Male,Millennial Generation,414,71,Bermuda,BMU
-1985,Bermuda,North America,North America,Male,Millennial Generation,446,70,Bermuda,BMU
-1986,Bermuda,North America,North America,Male,Millennial Generation,442,69,Bermuda,BMU
-1987,Bermuda,North America,North America,Male,Millennial Generation,450,70,Bermuda,BMU
-1988,Bermuda,North America,North America,Male,Millennial Generation,466,71,Bermuda,BMU
-1989,Bermuda,North America,North America,Male,Millennial Generation,458,71,Bermuda,BMU
-1990,Bermuda,North America,North America,Male,Millennial Generation,446,71,Bermuda,BMU
-1991,Bermuda,North America,North America,Male,Millennial Generation,456,71,Bermuda,BMU
-1992,Bermuda,North America,North America,Male,Millennial Generation,446,71,Bermuda,BMU
-1993,Bermuda,North America,North America,Male,Millennial Generation,436,70,Bermuda,BMU
-1994,Bermuda,North America,North America,Male,Millennial Generation,430,71,Bermuda,BMU
-1995,Bermuda,North America,North America,Male,Millennial Generation,424,73,Bermuda,BMU
-1996,Bermuda,North America,North America,Male,Millennial Generation,423,75,Bermuda,BMU
-1997,Bermuda,North America,North America,Male,Generation Z,417,74,Bermuda,BMU
-1998,Bermuda,North America,North America,Male,Generation Z,439,77,Bermuda,BMU
-1999,Bermuda,North America,North America,Male,Generation Z,437,76,Bermuda,BMU
-2000,Bermuda,North America,North America,Male,Generation Z,425,75,Bermuda,BMU
-2001,Bermuda,North America,North America,Male,Generation Z,447,76,Bermuda,BMU
-2002,Bermuda,North America,North America,Male,Generation Z,425,79,Bermuda,BMU
-2003,Bermuda,North America,North America,Male,Generation Z,418,77,Bermuda,BMU
-2004,Bermuda,North America,North America,Male,Generation Z,407,77,Bermuda,BMU
-2005,Bermuda,North America,North America,Male,Generation Z,387,74,Bermuda,BMU
-2006,Bermuda,North America,North America,Male,Generation Z,389,74,Bermuda,BMU
-2007,Bermuda,North America,North America,Male,Generation Z,426,75,Bermuda,BMU
-2008,Bermuda,North America,North America,Male,Generation Z,403,75,Bermuda,BMU
-2009,Bermuda,North America,North America,Male,Generation Z,401,77,Bermuda,BMU
-2010,Bermuda,North America,North America,Male,Generation Z,385,76,Bermuda,BMU
-2011,Bermuda,North America,North America,Male,Generation Z,346,77,Bermuda,BMU
-2012,Bermuda,North America,North America,Male,Generation Z,343,77,Bermuda,BMU
-2013,Bermuda,North America,North America,Male,Generation Alpha,344,76,Bermuda,BMU
-2014,Bermuda,North America,North America,Male,Generation Alpha,305,76,Bermuda,BMU
-2015,Bermuda,North America,North America,Male,Generation Alpha,306,76,Bermuda,BMU
-2016,Bermuda,North America,North America,Male,Generation Alpha,303,76,Bermuda,BMU
-2017,Bermuda,North America,North America,Male,Generation Alpha,291,79,Bermuda,BMU
-2018,Bermuda,North America,North America,Male,Generation Alpha,265,78,Bermuda,BMU
-2019,Bermuda,North America,North America,Male,Generation Alpha,264,78,Bermuda,BMU
-2020,Bermuda,North America,North America,Male,Generation Alpha,264,78,Bermuda,BMU
-2021,Bermuda,North America,North America,Male,Generation Alpha,253,76,Bermuda,BMU
-2022,Bermuda,North America,North America,Male,Generation Alpha,246,78,Bermuda,BMU
-2023,Bermuda,North America,North America,Male,Generation Alpha,239,79,Bermuda,BMU
-2024,Bermuda,North America,North America,Male,Generation Alpha,233,79,Bermuda,BMU
+1950,Bermuda,Northern America,North America,Male,Baby Boomers,571,51,Bermuda,BMU
+1951,Bermuda,Northern America,North America,Male,Baby Boomers,566,48,Bermuda,BMU
+1952,Bermuda,Northern America,North America,Male,Baby Boomers,562,52,Bermuda,BMU
+1953,Bermuda,Northern America,North America,Male,Baby Boomers,559,54,Bermuda,BMU
+1954,Bermuda,Northern America,North America,Male,Baby Boomers,556,55,Bermuda,BMU
+1955,Bermuda,Northern America,North America,Male,Baby Boomers,553,56,Bermuda,BMU
+1956,Bermuda,Northern America,North America,Male,Baby Boomers,552,64,Bermuda,BMU
+1957,Bermuda,Northern America,North America,Male,Baby Boomers,551,64,Bermuda,BMU
+1958,Bermuda,Northern America,North America,Male,Baby Boomers,556,64,Bermuda,BMU
+1959,Bermuda,Northern America,North America,Male,Baby Boomers,551,64,Bermuda,BMU
+1960,Bermuda,Northern America,North America,Male,Baby Boomers,550,64,Bermuda,BMU
+1961,Bermuda,Northern America,North America,Male,Baby Boomers,547,62,Bermuda,BMU
+1962,Bermuda,Northern America,North America,Male,Baby Boomers,553,60,Bermuda,BMU
+1963,Bermuda,Northern America,North America,Male,Baby Boomers,571,63,Bermuda,BMU
+1964,Bermuda,Northern America,North America,Male,Baby Boomers,549,65,Bermuda,BMU
+1965,Bermuda,Northern America,North America,Male,Generation X,539,65,Bermuda,BMU
+1966,Bermuda,Northern America,North America,Male,Generation X,513,60,Bermuda,BMU
+1967,Bermuda,Northern America,North America,Male,Generation X,497,64,Bermuda,BMU
+1968,Bermuda,Northern America,North America,Male,Generation X,490,65,Bermuda,BMU
+1969,Bermuda,Northern America,North America,Male,Generation X,485,65,Bermuda,BMU
+1970,Bermuda,Northern America,North America,Male,Generation X,484,65,Bermuda,BMU
+1971,Bermuda,Northern America,North America,Male,Generation X,482,65,Bermuda,BMU
+1972,Bermuda,Northern America,North America,Male,Generation X,472,66,Bermuda,BMU
+1973,Bermuda,Northern America,North America,Male,Generation X,460,68,Bermuda,BMU
+1974,Bermuda,Northern America,North America,Male,Generation X,443,69,Bermuda,BMU
+1975,Bermuda,Northern America,North America,Male,Generation X,420,69,Bermuda,BMU
+1976,Bermuda,Northern America,North America,Male,Generation X,426,68,Bermuda,BMU
+1977,Bermuda,Northern America,North America,Male,Generation X,389,68,Bermuda,BMU
+1978,Bermuda,Northern America,North America,Male,Generation X,369,69,Bermuda,BMU
+1979,Bermuda,Northern America,North America,Male,Generation X,396,70,Bermuda,BMU
+1980,Bermuda,Northern America,North America,Male,Generation X,397,69,Bermuda,BMU
+1981,Bermuda,Northern America,North America,Male,Millennial Generation,383,70,Bermuda,BMU
+1982,Bermuda,Northern America,North America,Male,Millennial Generation,396,70,Bermuda,BMU
+1983,Bermuda,Northern America,North America,Male,Millennial Generation,444,70,Bermuda,BMU
+1984,Bermuda,Northern America,North America,Male,Millennial Generation,414,71,Bermuda,BMU
+1985,Bermuda,Northern America,North America,Male,Millennial Generation,446,70,Bermuda,BMU
+1986,Bermuda,Northern America,North America,Male,Millennial Generation,442,69,Bermuda,BMU
+1987,Bermuda,Northern America,North America,Male,Millennial Generation,450,70,Bermuda,BMU
+1988,Bermuda,Northern America,North America,Male,Millennial Generation,466,71,Bermuda,BMU
+1989,Bermuda,Northern America,North America,Male,Millennial Generation,458,71,Bermuda,BMU
+1990,Bermuda,Northern America,North America,Male,Millennial Generation,446,71,Bermuda,BMU
+1991,Bermuda,Northern America,North America,Male,Millennial Generation,456,71,Bermuda,BMU
+1992,Bermuda,Northern America,North America,Male,Millennial Generation,446,71,Bermuda,BMU
+1993,Bermuda,Northern America,North America,Male,Millennial Generation,436,70,Bermuda,BMU
+1994,Bermuda,Northern America,North America,Male,Millennial Generation,430,71,Bermuda,BMU
+1995,Bermuda,Northern America,North America,Male,Millennial Generation,424,73,Bermuda,BMU
+1996,Bermuda,Northern America,North America,Male,Millennial Generation,423,75,Bermuda,BMU
+1997,Bermuda,Northern America,North America,Male,Generation Z,417,74,Bermuda,BMU
+1998,Bermuda,Northern America,North America,Male,Generation Z,439,77,Bermuda,BMU
+1999,Bermuda,Northern America,North America,Male,Generation Z,437,76,Bermuda,BMU
+2000,Bermuda,Northern America,North America,Male,Generation Z,425,75,Bermuda,BMU
+2001,Bermuda,Northern America,North America,Male,Generation Z,447,76,Bermuda,BMU
+2002,Bermuda,Northern America,North America,Male,Generation Z,425,79,Bermuda,BMU
+2003,Bermuda,Northern America,North America,Male,Generation Z,418,77,Bermuda,BMU
+2004,Bermuda,Northern America,North America,Male,Generation Z,407,77,Bermuda,BMU
+2005,Bermuda,Northern America,North America,Male,Generation Z,387,74,Bermuda,BMU
+2006,Bermuda,Northern America,North America,Male,Generation Z,389,74,Bermuda,BMU
+2007,Bermuda,Northern America,North America,Male,Generation Z,426,75,Bermuda,BMU
+2008,Bermuda,Northern America,North America,Male,Generation Z,403,75,Bermuda,BMU
+2009,Bermuda,Northern America,North America,Male,Generation Z,401,77,Bermuda,BMU
+2010,Bermuda,Northern America,North America,Male,Generation Z,385,76,Bermuda,BMU
+2011,Bermuda,Northern America,North America,Male,Generation Z,346,77,Bermuda,BMU
+2012,Bermuda,Northern America,North America,Male,Generation Z,343,77,Bermuda,BMU
+2013,Bermuda,Northern America,North America,Male,Generation Alpha,344,76,Bermuda,BMU
+2014,Bermuda,Northern America,North America,Male,Generation Alpha,305,76,Bermuda,BMU
+2015,Bermuda,Northern America,North America,Male,Generation Alpha,306,76,Bermuda,BMU
+2016,Bermuda,Northern America,North America,Male,Generation Alpha,303,76,Bermuda,BMU
+2017,Bermuda,Northern America,North America,Male,Generation Alpha,291,79,Bermuda,BMU
+2018,Bermuda,Northern America,North America,Male,Generation Alpha,265,78,Bermuda,BMU
+2019,Bermuda,Northern America,North America,Male,Generation Alpha,264,78,Bermuda,BMU
+2020,Bermuda,Northern America,North America,Male,Generation Alpha,264,78,Bermuda,BMU
+2021,Bermuda,Northern America,North America,Male,Generation Alpha,253,76,Bermuda,BMU
+2022,Bermuda,Northern America,North America,Male,Generation Alpha,246,78,Bermuda,BMU
+2023,Bermuda,Northern America,North America,Male,Generation Alpha,239,79,Bermuda,BMU
+2024,Bermuda,Northern America,North America,Male,Generation Alpha,233,79,Bermuda,BMU
 1950,Bhutan,Southern Asia,Asia,Male,Baby Boomers,4270,29,Bhutan,BTN
 1951,Bhutan,Southern Asia,Asia,Male,Baby Boomers,4369,29,Bhutan,BTN
 1952,Bhutan,Southern Asia,Asia,Male,Baby Boomers,4475,30,Bhutan,BTN
@@ -2775,81 +2775,81 @@ Year,Country,Subregion,Continent,Gender,Generation,Population,Life Expectancy,Ab
 2022,Cameroon,Middle Africa,Africa,Male,Generation Alpha,486635,67,Cameroon,CMR
 2023,Cameroon,Middle Africa,Africa,Male,Generation Alpha,491019,69,Cameroon,CMR
 2024,Cameroon,Middle Africa,Africa,Male,Generation Alpha,496590,69,Cameroon,CMR
-1950,Canada,North America,North America,Male,Baby Boomers,189098,33,Canada,CAN
-1951,Canada,North America,North America,Male,Baby Boomers,194235,33,Canada,CAN
-1952,Canada,North America,North America,Male,Baby Boomers,205091,34,Canada,CAN
-1953,Canada,North America,North America,Male,Baby Boomers,212122,34,Canada,CAN
-1954,Canada,North America,North America,Male,Baby Boomers,220993,35,Canada,CAN
-1955,Canada,North America,North America,Male,Baby Boomers,223895,36,Canada,CAN
-1956,Canada,North America,North America,Male,Baby Boomers,228119,37,Canada,CAN
-1957,Canada,North America,North America,Male,Baby Boomers,235973,36,Canada,CAN
-1958,Canada,North America,North America,Male,Baby Boomers,237683,37,Canada,CAN
-1959,Canada,North America,North America,Male,Baby Boomers,242833,38,Canada,CAN
-1960,Canada,North America,North America,Male,Baby Boomers,242292,29,Canada,CAN
-1961,Canada,North America,North America,Male,Baby Boomers,240481,30,Canada,CAN
-1962,Canada,North America,North America,Male,Baby Boomers,237284,41,Canada,CAN
-1963,Canada,North America,North America,Male,Baby Boomers,234893,42,Canada,CAN
-1964,Canada,North America,North America,Male,Baby Boomers,228575,42,Canada,CAN
-1965,Canada,North America,North America,Male,Generation X,210866,43,Canada,CAN
-1966,Canada,North America,North America,Male,Generation X,194839,43,Canada,CAN
-1967,Canada,North America,North America,Male,Generation X,186808,44,Canada,CAN
-1968,Canada,North America,North America,Male,Generation X,184005,45,Canada,CAN
-1969,Canada,North America,North America,Male,Generation X,186807,46,Canada,CAN
-1970,Canada,North America,North America,Male,Generation X,188134,46,Canada,CAN
-1971,Canada,North America,North America,Male,Generation X,186595,47,Canada,CAN
-1972,Canada,North America,North America,Male,Generation X,180811,48,Canada,CAN
-1973,Canada,North America,North America,Male,Generation X,178815,48,Canada,CAN
-1974,Canada,North America,North America,Male,Generation X,179727,48,Canada,CAN
-1975,Canada,North America,North America,Male,Generation X,184047,48,Canada,CAN
-1976,Canada,North America,North America,Male,Generation X,186915,48,Canada,CAN
-1977,Canada,North America,North America,Male,Generation X,190006,49,Canada,CAN
-1978,Canada,North America,North America,Male,Generation X,189178,49,Canada,CAN
-1979,Canada,North America,North America,Male,Generation X,193590,49,Canada,CAN
-1980,Canada,North America,North America,Male,Generation X,195397,50,Canada,CAN
-1981,Canada,North America,North America,Male,Millennial Generation,194862,50,Canada,CAN
-1982,Canada,North America,North America,Male,Millennial Generation,196696,51,Canada,CAN
-1983,Canada,North America,North America,Male,Millennial Generation,198077,52,Canada,CAN
-1984,Canada,North America,North America,Male,Millennial Generation,199878,52,Canada,CAN
-1985,Canada,North America,North America,Male,Millennial Generation,199127,53,Canada,CAN
-1986,Canada,North America,North America,Male,Millennial Generation,198973,53,Canada,CAN
-1987,Canada,North America,North America,Male,Millennial Generation,197878,54,Canada,CAN
-1988,Canada,North America,North America,Male,Millennial Generation,202435,54,Canada,CAN
-1989,Canada,North America,North America,Male,Millennial Generation,211856,54,Canada,CAN
-1990,Canada,North America,North America,Male,Millennial Generation,218893,54,Canada,CAN
-1991,Canada,North America,North America,Male,Millennial Generation,208017,53,Canada,CAN
-1992,Canada,North America,North America,Male,Millennial Generation,204867,53,Canada,CAN
-1993,Canada,North America,North America,Male,Millennial Generation,200249,53,Canada,CAN
-1994,Canada,North America,North America,Male,Millennial Generation,198248,52,Canada,CAN
-1995,Canada,North America,North America,Male,Millennial Generation,194025,52,Canada,CAN
-1996,Canada,North America,North America,Male,Millennial Generation,188093,51,Canada,CAN
-1997,Canada,North America,North America,Male,Generation Z,179265,51,Canada,CAN
-1998,Canada,North America,North America,Male,Generation Z,175250,51,Canada,CAN
-1999,Canada,North America,North America,Male,Generation Z,172133,51,Canada,CAN
-2000,Canada,North America,North America,Male,Generation Z,166035,51,Canada,CAN
-2001,Canada,North America,North America,Male,Generation Z,167512,52,Canada,CAN
-2002,Canada,North America,North America,Male,Generation Z,166835,52,Canada,CAN
-2003,Canada,North America,North America,Male,Generation Z,169143,52,Canada,CAN
-2004,Canada,North America,North America,Male,Generation Z,169932,53,Canada,CAN
-2005,Canada,North America,North America,Male,Generation Z,172111,53,Canada,CAN
-2006,Canada,North America,North America,Male,Generation Z,178162,54,Canada,CAN
-2007,Canada,North America,North America,Male,Generation Z,186602,54,Canada,CAN
-2008,Canada,North America,North America,Male,Generation Z,191249,54,Canada,CAN
-2009,Canada,North America,North America,Male,Generation Z,192654,55,Canada,CAN
-2010,Canada,North America,North America,Male,Generation Z,191181,55,Canada,CAN
-2011,Canada,North America,North America,Male,Generation Z,191803,56,Canada,CAN
-2012,Canada,North America,North America,Male,Generation Z,194295,56,Canada,CAN
-2013,Canada,North America,North America,Male,Generation Alpha,192942,57,Canada,CAN
-2014,Canada,North America,North America,Male,Generation Alpha,193908,57,Canada,CAN
-2015,Canada,North America,North America,Male,Generation Alpha,190161,58,Canada,CAN
-2016,Canada,North America,North America,Male,Generation Alpha,189368,59,Canada,CAN
-2017,Canada,North America,North America,Male,Generation Alpha,191805,59,Canada,CAN
-2018,Canada,North America,North America,Male,Generation Alpha,189176,60,Canada,CAN
-2019,Canada,North America,North America,Male,Generation Alpha,186387,60,Canada,CAN
-2020,Canada,North America,North America,Male,Generation Alpha,190123,59,Canada,CAN
-2021,Canada,North America,North America,Male,Generation Alpha,191777,59,Canada,CAN
-2022,Canada,North America,North America,Male,Generation Alpha,193039,59,Canada,CAN
-2023,Canada,North America,North America,Male,Generation Alpha,194888,60,Canada,CAN
-2024,Canada,North America,North America,Male,Generation Alpha,196603,61,Canada,CAN
+1950,Canada,Northern America,North America,Male,Baby Boomers,189098,33,Canada,CAN
+1951,Canada,Northern America,North America,Male,Baby Boomers,194235,33,Canada,CAN
+1952,Canada,Northern America,North America,Male,Baby Boomers,205091,34,Canada,CAN
+1953,Canada,Northern America,North America,Male,Baby Boomers,212122,34,Canada,CAN
+1954,Canada,Northern America,North America,Male,Baby Boomers,220993,35,Canada,CAN
+1955,Canada,Northern America,North America,Male,Baby Boomers,223895,36,Canada,CAN
+1956,Canada,Northern America,North America,Male,Baby Boomers,228119,37,Canada,CAN
+1957,Canada,Northern America,North America,Male,Baby Boomers,235973,36,Canada,CAN
+1958,Canada,Northern America,North America,Male,Baby Boomers,237683,37,Canada,CAN
+1959,Canada,Northern America,North America,Male,Baby Boomers,242833,38,Canada,CAN
+1960,Canada,Northern America,North America,Male,Baby Boomers,242292,29,Canada,CAN
+1961,Canada,Northern America,North America,Male,Baby Boomers,240481,30,Canada,CAN
+1962,Canada,Northern America,North America,Male,Baby Boomers,237284,41,Canada,CAN
+1963,Canada,Northern America,North America,Male,Baby Boomers,234893,42,Canada,CAN
+1964,Canada,Northern America,North America,Male,Baby Boomers,228575,42,Canada,CAN
+1965,Canada,Northern America,North America,Male,Generation X,210866,43,Canada,CAN
+1966,Canada,Northern America,North America,Male,Generation X,194839,43,Canada,CAN
+1967,Canada,Northern America,North America,Male,Generation X,186808,44,Canada,CAN
+1968,Canada,Northern America,North America,Male,Generation X,184005,45,Canada,CAN
+1969,Canada,Northern America,North America,Male,Generation X,186807,46,Canada,CAN
+1970,Canada,Northern America,North America,Male,Generation X,188134,46,Canada,CAN
+1971,Canada,Northern America,North America,Male,Generation X,186595,47,Canada,CAN
+1972,Canada,Northern America,North America,Male,Generation X,180811,48,Canada,CAN
+1973,Canada,Northern America,North America,Male,Generation X,178815,48,Canada,CAN
+1974,Canada,Northern America,North America,Male,Generation X,179727,48,Canada,CAN
+1975,Canada,Northern America,North America,Male,Generation X,184047,48,Canada,CAN
+1976,Canada,Northern America,North America,Male,Generation X,186915,48,Canada,CAN
+1977,Canada,Northern America,North America,Male,Generation X,190006,49,Canada,CAN
+1978,Canada,Northern America,North America,Male,Generation X,189178,49,Canada,CAN
+1979,Canada,Northern America,North America,Male,Generation X,193590,49,Canada,CAN
+1980,Canada,Northern America,North America,Male,Generation X,195397,50,Canada,CAN
+1981,Canada,Northern America,North America,Male,Millennial Generation,194862,50,Canada,CAN
+1982,Canada,Northern America,North America,Male,Millennial Generation,196696,51,Canada,CAN
+1983,Canada,Northern America,North America,Male,Millennial Generation,198077,52,Canada,CAN
+1984,Canada,Northern America,North America,Male,Millennial Generation,199878,52,Canada,CAN
+1985,Canada,Northern America,North America,Male,Millennial Generation,199127,53,Canada,CAN
+1986,Canada,Northern America,North America,Male,Millennial Generation,198973,53,Canada,CAN
+1987,Canada,Northern America,North America,Male,Millennial Generation,197878,54,Canada,CAN
+1988,Canada,Northern America,North America,Male,Millennial Generation,202435,54,Canada,CAN
+1989,Canada,Northern America,North America,Male,Millennial Generation,211856,54,Canada,CAN
+1990,Canada,Northern America,North America,Male,Millennial Generation,218893,54,Canada,CAN
+1991,Canada,Northern America,North America,Male,Millennial Generation,208017,53,Canada,CAN
+1992,Canada,Northern America,North America,Male,Millennial Generation,204867,53,Canada,CAN
+1993,Canada,Northern America,North America,Male,Millennial Generation,200249,53,Canada,CAN
+1994,Canada,Northern America,North America,Male,Millennial Generation,198248,52,Canada,CAN
+1995,Canada,Northern America,North America,Male,Millennial Generation,194025,52,Canada,CAN
+1996,Canada,Northern America,North America,Male,Millennial Generation,188093,51,Canada,CAN
+1997,Canada,Northern America,North America,Male,Generation Z,179265,51,Canada,CAN
+1998,Canada,Northern America,North America,Male,Generation Z,175250,51,Canada,CAN
+1999,Canada,Northern America,North America,Male,Generation Z,172133,51,Canada,CAN
+2000,Canada,Northern America,North America,Male,Generation Z,166035,51,Canada,CAN
+2001,Canada,Northern America,North America,Male,Generation Z,167512,52,Canada,CAN
+2002,Canada,Northern America,North America,Male,Generation Z,166835,52,Canada,CAN
+2003,Canada,Northern America,North America,Male,Generation Z,169143,52,Canada,CAN
+2004,Canada,Northern America,North America,Male,Generation Z,169932,53,Canada,CAN
+2005,Canada,Northern America,North America,Male,Generation Z,172111,53,Canada,CAN
+2006,Canada,Northern America,North America,Male,Generation Z,178162,54,Canada,CAN
+2007,Canada,Northern America,North America,Male,Generation Z,186602,54,Canada,CAN
+2008,Canada,Northern America,North America,Male,Generation Z,191249,54,Canada,CAN
+2009,Canada,Northern America,North America,Male,Generation Z,192654,55,Canada,CAN
+2010,Canada,Northern America,North America,Male,Generation Z,191181,55,Canada,CAN
+2011,Canada,Northern America,North America,Male,Generation Z,191803,56,Canada,CAN
+2012,Canada,Northern America,North America,Male,Generation Z,194295,56,Canada,CAN
+2013,Canada,Northern America,North America,Male,Generation Alpha,192942,57,Canada,CAN
+2014,Canada,Northern America,North America,Male,Generation Alpha,193908,57,Canada,CAN
+2015,Canada,Northern America,North America,Male,Generation Alpha,190161,58,Canada,CAN
+2016,Canada,Northern America,North America,Male,Generation Alpha,189368,59,Canada,CAN
+2017,Canada,Northern America,North America,Male,Generation Alpha,191805,59,Canada,CAN
+2018,Canada,Northern America,North America,Male,Generation Alpha,189176,60,Canada,CAN
+2019,Canada,Northern America,North America,Male,Generation Alpha,186387,60,Canada,CAN
+2020,Canada,Northern America,North America,Male,Generation Alpha,190123,59,Canada,CAN
+2021,Canada,Northern America,North America,Male,Generation Alpha,191777,59,Canada,CAN
+2022,Canada,Northern America,North America,Male,Generation Alpha,193039,59,Canada,CAN
+2023,Canada,Northern America,North America,Male,Generation Alpha,194888,60,Canada,CAN
+2024,Canada,Northern America,North America,Male,Generation Alpha,196603,61,Canada,CAN
 1950,Cayman Islands,Caribbean,South America,Male,Baby Boomers,126,66,Cayman I,CYM
 1951,Cayman Islands,Caribbean,South America,Male,Baby Boomers,124,66,Cayman I,CYM
 1952,Cayman Islands,Caribbean,South America,Male,Baby Boomers,133,66,Cayman I,CYM
@@ -6375,81 +6375,81 @@ Year,Country,Subregion,Continent,Gender,Generation,Population,Life Expectancy,Ab
 2022,Greece,Southern Europe,Europe,Male,Generation Alpha,39766,78,Greece,GRC
 2023,Greece,Southern Europe,Europe,Male,Generation Alpha,39220,80,Greece,GRC
 2024,Greece,Southern Europe,Europe,Male,Generation Alpha,38865,80,Greece,GRC
-1950,Greenland,North America,North America,Male,Baby Boomers,512,46,Greenlan,GRL
-1951,Greenland,North America,North America,Male,Baby Boomers,503,46,Greenlan,GRL
-1952,Greenland,North America,North America,Male,Baby Boomers,535,46,Greenlan,GRL
-1953,Greenland,North America,North America,Male,Baby Boomers,560,47,Greenlan,GRL
-1954,Greenland,North America,North America,Male,Baby Boomers,589,48,Greenlan,GRL
-1955,Greenland,North America,North America,Male,Baby Boomers,618,49,Greenlan,GRL
-1956,Greenland,North America,North America,Male,Baby Boomers,642,51,Greenlan,GRL
-1957,Greenland,North America,North America,Male,Baby Boomers,674,54,Greenlan,GRL
-1958,Greenland,North America,North America,Male,Baby Boomers,706,55,Greenlan,GRL
-1959,Greenland,North America,North America,Male,Baby Boomers,745,57,Greenlan,GRL
-1960,Greenland,North America,North America,Male,Baby Boomers,782,58,Greenlan,GRL
-1961,Greenland,North America,North America,Male,Baby Boomers,807,57,Greenlan,GRL
-1962,Greenland,North America,North America,Male,Baby Boomers,814,57,Greenlan,GRL
-1963,Greenland,North America,North America,Male,Baby Boomers,816,56,Greenlan,GRL
-1964,Greenland,North America,North America,Male,Baby Boomers,823,57,Greenlan,GRL
-1965,Greenland,North America,North America,Male,Generation X,825,58,Greenlan,GRL
-1966,Greenland,North America,North America,Male,Generation X,801,59,Greenlan,GRL
-1967,Greenland,North America,North America,Male,Generation X,774,59,Greenlan,GRL
-1968,Greenland,North America,North America,Male,Generation X,727,60,Greenlan,GRL
-1969,Greenland,North America,North America,Male,Generation X,660,61,Greenlan,GRL
-1970,Greenland,North America,North America,Male,Generation X,587,61,Greenlan,GRL
-1971,Greenland,North America,North America,Male,Generation X,544,61,Greenlan,GRL
-1972,Greenland,North America,North America,Male,Generation X,511,62,Greenlan,GRL
-1973,Greenland,North America,North America,Male,Generation X,477,62,Greenlan,GRL
-1974,Greenland,North America,North America,Male,Generation X,446,61,Greenlan,GRL
-1975,Greenland,North America,North America,Male,Generation X,439,61,Greenlan,GRL
-1976,Greenland,North America,North America,Male,Generation X,444,61,Greenlan,GRL
-1977,Greenland,North America,North America,Male,Generation X,458,60,Greenlan,GRL
-1978,Greenland,North America,North America,Male,Generation X,460,61,Greenlan,GRL
-1979,Greenland,North America,North America,Male,Generation X,477,61,Greenlan,GRL
-1980,Greenland,North America,North America,Male,Generation X,511,61,Greenlan,GRL
-1981,Greenland,North America,North America,Male,Millennial Generation,529,61,Greenlan,GRL
-1982,Greenland,North America,North America,Male,Millennial Generation,533,61,Greenlan,GRL
-1983,Greenland,North America,North America,Male,Millennial Generation,529,61,Greenlan,GRL
-1984,Greenland,North America,North America,Male,Millennial Generation,547,61,Greenlan,GRL
-1985,Greenland,North America,North America,Male,Millennial Generation,570,62,Greenlan,GRL
-1986,Greenland,North America,North America,Male,Millennial Generation,564,61,Greenlan,GRL
-1987,Greenland,North America,North America,Male,Millennial Generation,576,61,Greenlan,GRL
-1988,Greenland,North America,North America,Male,Millennial Generation,607,62,Greenlan,GRL
-1989,Greenland,North America,North America,Male,Millennial Generation,621,62,Greenlan,GRL
-1990,Greenland,North America,North America,Male,Millennial Generation,632,61,Greenlan,GRL
-1991,Greenland,North America,North America,Male,Millennial Generation,621,62,Greenlan,GRL
-1992,Greenland,North America,North America,Male,Millennial Generation,624,65,Greenlan,GRL
-1993,Greenland,North America,North America,Male,Millennial Generation,608,63,Greenlan,GRL
-1994,Greenland,North America,North America,Male,Millennial Generation,585,64,Greenlan,GRL
-1995,Greenland,North America,North America,Male,Millennial Generation,562,64,Greenlan,GRL
-1996,Greenland,North America,North America,Male,Millennial Generation,547,64,Greenlan,GRL
-1997,Greenland,North America,North America,Male,Generation Z,541,64,Greenlan,GRL
-1998,Greenland,North America,North America,Male,Generation Z,506,63,Greenlan,GRL
-1999,Greenland,North America,North America,Male,Generation Z,480,64,Greenlan,GRL
-2000,Greenland,North America,North America,Male,Generation Z,465,65,Greenlan,GRL
-2001,Greenland,North America,North America,Male,Generation Z,474,66,Greenlan,GRL
-2002,Greenland,North America,North America,Male,Generation Z,475,66,Greenlan,GRL
-2003,Greenland,North America,North America,Male,Generation Z,460,67,Greenlan,GRL
-2004,Greenland,North America,North America,Male,Generation Z,456,67,Greenlan,GRL
-2005,Greenland,North America,North America,Male,Generation Z,449,68,Greenlan,GRL
-2006,Greenland,North America,North America,Male,Generation Z,437,68,Greenlan,GRL
-2007,Greenland,North America,North America,Male,Generation Z,438,68,Greenlan,GRL
-2008,Greenland,North America,North America,Male,Generation Z,442,68,Greenlan,GRL
-2009,Greenland,North America,North America,Male,Generation Z,448,68,Greenlan,GRL
-2010,Greenland,North America,North America,Male,Generation Z,435,68,Greenlan,GRL
-2011,Greenland,North America,North America,Male,Generation Z,419,68,Greenlan,GRL
-2012,Greenland,North America,North America,Male,Generation Z,409,69,Greenlan,GRL
-2013,Greenland,North America,North America,Male,Generation Alpha,413,69,Greenlan,GRL
-2014,Greenland,North America,North America,Male,Generation Alpha,417,69,Greenlan,GRL
-2015,Greenland,North America,North America,Male,Generation Alpha,428,69,Greenlan,GRL
-2016,Greenland,North America,North America,Male,Generation Alpha,431,69,Greenlan,GRL
-2017,Greenland,North America,North America,Male,Generation Alpha,432,70,Greenlan,GRL
-2018,Greenland,North America,North America,Male,Generation Alpha,428,70,Greenlan,GRL
-2019,Greenland,North America,North America,Male,Generation Alpha,424,70,Greenlan,GRL
-2020,Greenland,North America,North America,Male,Generation Alpha,421,70,Greenlan,GRL
-2021,Greenland,North America,North America,Male,Generation Alpha,415,70,Greenlan,GRL
-2022,Greenland,North America,North America,Male,Generation Alpha,408,70,Greenlan,GRL
-2023,Greenland,North America,North America,Male,Generation Alpha,400,70,Greenlan,GRL
-2024,Greenland,North America,North America,Male,Generation Alpha,393,70,Greenlan,GRL
+1950,Greenland,Northern America,North America,Male,Baby Boomers,512,46,Greenlan,GRL
+1951,Greenland,Northern America,North America,Male,Baby Boomers,503,46,Greenlan,GRL
+1952,Greenland,Northern America,North America,Male,Baby Boomers,535,46,Greenlan,GRL
+1953,Greenland,Northern America,North America,Male,Baby Boomers,560,47,Greenlan,GRL
+1954,Greenland,Northern America,North America,Male,Baby Boomers,589,48,Greenlan,GRL
+1955,Greenland,Northern America,North America,Male,Baby Boomers,618,49,Greenlan,GRL
+1956,Greenland,Northern America,North America,Male,Baby Boomers,642,51,Greenlan,GRL
+1957,Greenland,Northern America,North America,Male,Baby Boomers,674,54,Greenlan,GRL
+1958,Greenland,Northern America,North America,Male,Baby Boomers,706,55,Greenlan,GRL
+1959,Greenland,Northern America,North America,Male,Baby Boomers,745,57,Greenlan,GRL
+1960,Greenland,Northern America,North America,Male,Baby Boomers,782,58,Greenlan,GRL
+1961,Greenland,Northern America,North America,Male,Baby Boomers,807,57,Greenlan,GRL
+1962,Greenland,Northern America,North America,Male,Baby Boomers,814,57,Greenlan,GRL
+1963,Greenland,Northern America,North America,Male,Baby Boomers,816,56,Greenlan,GRL
+1964,Greenland,Northern America,North America,Male,Baby Boomers,823,57,Greenlan,GRL
+1965,Greenland,Northern America,North America,Male,Generation X,825,58,Greenlan,GRL
+1966,Greenland,Northern America,North America,Male,Generation X,801,59,Greenlan,GRL
+1967,Greenland,Northern America,North America,Male,Generation X,774,59,Greenlan,GRL
+1968,Greenland,Northern America,North America,Male,Generation X,727,60,Greenlan,GRL
+1969,Greenland,Northern America,North America,Male,Generation X,660,61,Greenlan,GRL
+1970,Greenland,Northern America,North America,Male,Generation X,587,61,Greenlan,GRL
+1971,Greenland,Northern America,North America,Male,Generation X,544,61,Greenlan,GRL
+1972,Greenland,Northern America,North America,Male,Generation X,511,62,Greenlan,GRL
+1973,Greenland,Northern America,North America,Male,Generation X,477,62,Greenlan,GRL
+1974,Greenland,Northern America,North America,Male,Generation X,446,61,Greenlan,GRL
+1975,Greenland,Northern America,North America,Male,Generation X,439,61,Greenlan,GRL
+1976,Greenland,Northern America,North America,Male,Generation X,444,61,Greenlan,GRL
+1977,Greenland,Northern America,North America,Male,Generation X,458,60,Greenlan,GRL
+1978,Greenland,Northern America,North America,Male,Generation X,460,61,Greenlan,GRL
+1979,Greenland,Northern America,North America,Male,Generation X,477,61,Greenlan,GRL
+1980,Greenland,Northern America,North America,Male,Generation X,511,61,Greenlan,GRL
+1981,Greenland,Northern America,North America,Male,Millennial Generation,529,61,Greenlan,GRL
+1982,Greenland,Northern America,North America,Male,Millennial Generation,533,61,Greenlan,GRL
+1983,Greenland,Northern America,North America,Male,Millennial Generation,529,61,Greenlan,GRL
+1984,Greenland,Northern America,North America,Male,Millennial Generation,547,61,Greenlan,GRL
+1985,Greenland,Northern America,North America,Male,Millennial Generation,570,62,Greenlan,GRL
+1986,Greenland,Northern America,North America,Male,Millennial Generation,564,61,Greenlan,GRL
+1987,Greenland,Northern America,North America,Male,Millennial Generation,576,61,Greenlan,GRL
+1988,Greenland,Northern America,North America,Male,Millennial Generation,607,62,Greenlan,GRL
+1989,Greenland,Northern America,North America,Male,Millennial Generation,621,62,Greenlan,GRL
+1990,Greenland,Northern America,North America,Male,Millennial Generation,632,61,Greenlan,GRL
+1991,Greenland,Northern America,North America,Male,Millennial Generation,621,62,Greenlan,GRL
+1992,Greenland,Northern America,North America,Male,Millennial Generation,624,65,Greenlan,GRL
+1993,Greenland,Northern America,North America,Male,Millennial Generation,608,63,Greenlan,GRL
+1994,Greenland,Northern America,North America,Male,Millennial Generation,585,64,Greenlan,GRL
+1995,Greenland,Northern America,North America,Male,Millennial Generation,562,64,Greenlan,GRL
+1996,Greenland,Northern America,North America,Male,Millennial Generation,547,64,Greenlan,GRL
+1997,Greenland,Northern America,North America,Male,Generation Z,541,64,Greenlan,GRL
+1998,Greenland,Northern America,North America,Male,Generation Z,506,63,Greenlan,GRL
+1999,Greenland,Northern America,North America,Male,Generation Z,480,64,Greenlan,GRL
+2000,Greenland,Northern America,North America,Male,Generation Z,465,65,Greenlan,GRL
+2001,Greenland,Northern America,North America,Male,Generation Z,474,66,Greenlan,GRL
+2002,Greenland,Northern America,North America,Male,Generation Z,475,66,Greenlan,GRL
+2003,Greenland,Northern America,North America,Male,Generation Z,460,67,Greenlan,GRL
+2004,Greenland,Northern America,North America,Male,Generation Z,456,67,Greenlan,GRL
+2005,Greenland,Northern America,North America,Male,Generation Z,449,68,Greenlan,GRL
+2006,Greenland,Northern America,North America,Male,Generation Z,437,68,Greenlan,GRL
+2007,Greenland,Northern America,North America,Male,Generation Z,438,68,Greenlan,GRL
+2008,Greenland,Northern America,North America,Male,Generation Z,442,68,Greenlan,GRL
+2009,Greenland,Northern America,North America,Male,Generation Z,448,68,Greenlan,GRL
+2010,Greenland,Northern America,North America,Male,Generation Z,435,68,Greenlan,GRL
+2011,Greenland,Northern America,North America,Male,Generation Z,419,68,Greenlan,GRL
+2012,Greenland,Northern America,North America,Male,Generation Z,409,69,Greenlan,GRL
+2013,Greenland,Northern America,North America,Male,Generation Alpha,413,69,Greenlan,GRL
+2014,Greenland,Northern America,North America,Male,Generation Alpha,417,69,Greenlan,GRL
+2015,Greenland,Northern America,North America,Male,Generation Alpha,428,69,Greenlan,GRL
+2016,Greenland,Northern America,North America,Male,Generation Alpha,431,69,Greenlan,GRL
+2017,Greenland,Northern America,North America,Male,Generation Alpha,432,70,Greenlan,GRL
+2018,Greenland,Northern America,North America,Male,Generation Alpha,428,70,Greenlan,GRL
+2019,Greenland,Northern America,North America,Male,Generation Alpha,424,70,Greenlan,GRL
+2020,Greenland,Northern America,North America,Male,Generation Alpha,421,70,Greenlan,GRL
+2021,Greenland,Northern America,North America,Male,Generation Alpha,415,70,Greenlan,GRL
+2022,Greenland,Northern America,North America,Male,Generation Alpha,408,70,Greenlan,GRL
+2023,Greenland,Northern America,North America,Male,Generation Alpha,400,70,Greenlan,GRL
+2024,Greenland,Northern America,North America,Male,Generation Alpha,393,70,Greenlan,GRL
 1950,Grenada,Caribbean,South America,Male,Baby Boomers,1400,51,Grenada,GRD
 1951,Grenada,Caribbean,South America,Male,Baby Boomers,1460,51,Grenada,GRD
 1952,Grenada,Caribbean,South America,Male,Baby Boomers,1586,52,Grenada,GRD
@@ -13650,81 +13650,81 @@ Year,Country,Subregion,Continent,Gender,Generation,Population,Life Expectancy,Ab
 2022,Saint Martin (French part),Caribbean,South America,Male,Generation Alpha,233,78,Saint Ma,MAF
 2023,Saint Martin (French part),Caribbean,South America,Male,Generation Alpha,224,78,Saint Ma,MAF
 2024,Saint Martin (French part),Caribbean,South America,Male,Generation Alpha,216,78,Saint Ma,MAF
-1950,Saint Pierre and Miquelon,North America,North America,Male,Baby Boomers,70,52,Saint Pi,SPM
-1951,Saint Pierre and Miquelon,North America,North America,Male,Baby Boomers,69,53,Saint Pi,SPM
-1952,Saint Pierre and Miquelon,North America,North America,Male,Baby Boomers,66,53,Saint Pi,SPM
-1953,Saint Pierre and Miquelon,North America,North America,Male,Baby Boomers,71,54,Saint Pi,SPM
-1954,Saint Pierre and Miquelon,North America,North America,Male,Baby Boomers,76,55,Saint Pi,SPM
-1955,Saint Pierre and Miquelon,North America,North America,Male,Baby Boomers,81,55,Saint Pi,SPM
-1956,Saint Pierre and Miquelon,North America,North America,Male,Baby Boomers,86,55,Saint Pi,SPM
-1957,Saint Pierre and Miquelon,North America,North America,Male,Baby Boomers,99,55,Saint Pi,SPM
-1958,Saint Pierre and Miquelon,North America,North America,Male,Baby Boomers,97,56,Saint Pi,SPM
-1959,Saint Pierre and Miquelon,North America,North America,Male,Baby Boomers,67,56,Saint Pi,SPM
-1960,Saint Pierre and Miquelon,North America,North America,Male,Baby Boomers,79,56,Saint Pi,SPM
-1961,Saint Pierre and Miquelon,North America,North America,Male,Baby Boomers,85,56,Saint Pi,SPM
-1962,Saint Pierre and Miquelon,North America,North America,Male,Baby Boomers,75,57,Saint Pi,SPM
-1963,Saint Pierre and Miquelon,North America,North America,Male,Baby Boomers,66,58,Saint Pi,SPM
-1964,Saint Pierre and Miquelon,North America,North America,Male,Baby Boomers,66,57,Saint Pi,SPM
-1965,Saint Pierre and Miquelon,North America,North America,Male,Generation X,85,57,Saint Pi,SPM
-1966,Saint Pierre and Miquelon,North America,North America,Male,Generation X,84,58,Saint Pi,SPM
-1967,Saint Pierre and Miquelon,North America,North America,Male,Generation X,66,59,Saint Pi,SPM
-1968,Saint Pierre and Miquelon,North America,North America,Male,Generation X,65,59,Saint Pi,SPM
-1969,Saint Pierre and Miquelon,North America,North America,Male,Generation X,62,59,Saint Pi,SPM
-1970,Saint Pierre and Miquelon,North America,North America,Male,Generation X,72,60,Saint Pi,SPM
-1971,Saint Pierre and Miquelon,North America,North America,Male,Generation X,78,61,Saint Pi,SPM
-1972,Saint Pierre and Miquelon,North America,North America,Male,Generation X,68,62,Saint Pi,SPM
-1973,Saint Pierre and Miquelon,North America,North America,Male,Generation X,58,63,Saint Pi,SPM
-1974,Saint Pierre and Miquelon,North America,North America,Male,Generation X,52,64,Saint Pi,SPM
-1975,Saint Pierre and Miquelon,North America,North America,Male,Generation X,47,65,Saint Pi,SPM
-1976,Saint Pierre and Miquelon,North America,North America,Male,Generation X,42,66,Saint Pi,SPM
-1977,Saint Pierre and Miquelon,North America,North America,Male,Generation X,41,65,Saint Pi,SPM
-1978,Saint Pierre and Miquelon,North America,North America,Male,Generation X,44,65,Saint Pi,SPM
-1979,Saint Pierre and Miquelon,North America,North America,Male,Generation X,46,65,Saint Pi,SPM
-1980,Saint Pierre and Miquelon,North America,North America,Male,Generation X,48,64,Saint Pi,SPM
-1981,Saint Pierre and Miquelon,North America,North America,Male,Millennial Generation,50,65,Saint Pi,SPM
-1982,Saint Pierre and Miquelon,North America,North America,Male,Millennial Generation,52,67,Saint Pi,SPM
-1983,Saint Pierre and Miquelon,North America,North America,Male,Millennial Generation,54,66,Saint Pi,SPM
-1984,Saint Pierre and Miquelon,North America,North America,Male,Millennial Generation,56,66,Saint Pi,SPM
-1985,Saint Pierre and Miquelon,North America,North America,Male,Millennial Generation,58,67,Saint Pi,SPM
-1986,Saint Pierre and Miquelon,North America,North America,Male,Millennial Generation,59,67,Saint Pi,SPM
-1987,Saint Pierre and Miquelon,North America,North America,Male,Millennial Generation,60,68,Saint Pi,SPM
-1988,Saint Pierre and Miquelon,North America,North America,Male,Millennial Generation,61,68,Saint Pi,SPM
-1989,Saint Pierre and Miquelon,North America,North America,Male,Millennial Generation,61,68,Saint Pi,SPM
-1990,Saint Pierre and Miquelon,North America,North America,Male,Millennial Generation,61,69,Saint Pi,SPM
-1991,Saint Pierre and Miquelon,North America,North America,Male,Millennial Generation,61,68,Saint Pi,SPM
-1992,Saint Pierre and Miquelon,North America,North America,Male,Millennial Generation,60,69,Saint Pi,SPM
-1993,Saint Pierre and Miquelon,North America,North America,Male,Millennial Generation,60,69,Saint Pi,SPM
-1994,Saint Pierre and Miquelon,North America,North America,Male,Millennial Generation,59,69,Saint Pi,SPM
-1995,Saint Pierre and Miquelon,North America,North America,Male,Millennial Generation,57,69,Saint Pi,SPM
-1996,Saint Pierre and Miquelon,North America,North America,Male,Millennial Generation,55,70,Saint Pi,SPM
-1997,Saint Pierre and Miquelon,North America,North America,Male,Generation Z,53,70,Saint Pi,SPM
-1998,Saint Pierre and Miquelon,North America,North America,Male,Generation Z,50,70,Saint Pi,SPM
-1999,Saint Pierre and Miquelon,North America,North America,Male,Generation Z,47,70,Saint Pi,SPM
-2000,Saint Pierre and Miquelon,North America,North America,Male,Generation Z,45,70,Saint Pi,SPM
-2001,Saint Pierre and Miquelon,North America,North America,Male,Generation Z,43,70,Saint Pi,SPM
-2002,Saint Pierre and Miquelon,North America,North America,Male,Generation Z,40,70,Saint Pi,SPM
-2003,Saint Pierre and Miquelon,North America,North America,Male,Generation Z,38,70,Saint Pi,SPM
-2004,Saint Pierre and Miquelon,North America,North America,Male,Generation Z,37,71,Saint Pi,SPM
-2005,Saint Pierre and Miquelon,North America,North America,Male,Generation Z,34,72,Saint Pi,SPM
-2006,Saint Pierre and Miquelon,North America,North America,Male,Generation Z,32,71,Saint Pi,SPM
-2007,Saint Pierre and Miquelon,North America,North America,Male,Generation Z,32,72,Saint Pi,SPM
-2008,Saint Pierre and Miquelon,North America,North America,Male,Generation Z,31,74,Saint Pi,SPM
-2009,Saint Pierre and Miquelon,North America,North America,Male,Generation Z,30,73,Saint Pi,SPM
-2010,Saint Pierre and Miquelon,North America,North America,Male,Generation Z,30,73,Saint Pi,SPM
-2011,Saint Pierre and Miquelon,North America,North America,Male,Generation Z,28,73,Saint Pi,SPM
-2012,Saint Pierre and Miquelon,North America,North America,Male,Generation Z,26,73,Saint Pi,SPM
-2013,Saint Pierre and Miquelon,North America,North America,Male,Generation Alpha,25,73,Saint Pi,SPM
-2014,Saint Pierre and Miquelon,North America,North America,Male,Generation Alpha,24,73,Saint Pi,SPM
-2015,Saint Pierre and Miquelon,North America,North America,Male,Generation Alpha,23,73,Saint Pi,SPM
-2016,Saint Pierre and Miquelon,North America,North America,Male,Generation Alpha,23,73,Saint Pi,SPM
-2017,Saint Pierre and Miquelon,North America,North America,Male,Generation Alpha,23,73,Saint Pi,SPM
-2018,Saint Pierre and Miquelon,North America,North America,Male,Generation Alpha,23,73,Saint Pi,SPM
-2019,Saint Pierre and Miquelon,North America,North America,Male,Generation Alpha,23,73,Saint Pi,SPM
-2020,Saint Pierre and Miquelon,North America,North America,Male,Generation Alpha,23,73,Saint Pi,SPM
-2021,Saint Pierre and Miquelon,North America,North America,Male,Generation Alpha,23,74,Saint Pi,SPM
-2022,Saint Pierre and Miquelon,North America,North America,Male,Generation Alpha,23,74,Saint Pi,SPM
-2023,Saint Pierre and Miquelon,North America,North America,Male,Generation Alpha,22,74,Saint Pi,SPM
-2024,Saint Pierre and Miquelon,North America,North America,Male,Generation Alpha,22,74,Saint Pi,SPM
+1950,Saint Pierre and Miquelon,Northern America,North America,Male,Baby Boomers,70,52,Saint Pi,SPM
+1951,Saint Pierre and Miquelon,Northern America,North America,Male,Baby Boomers,69,53,Saint Pi,SPM
+1952,Saint Pierre and Miquelon,Northern America,North America,Male,Baby Boomers,66,53,Saint Pi,SPM
+1953,Saint Pierre and Miquelon,Northern America,North America,Male,Baby Boomers,71,54,Saint Pi,SPM
+1954,Saint Pierre and Miquelon,Northern America,North America,Male,Baby Boomers,76,55,Saint Pi,SPM
+1955,Saint Pierre and Miquelon,Northern America,North America,Male,Baby Boomers,81,55,Saint Pi,SPM
+1956,Saint Pierre and Miquelon,Northern America,North America,Male,Baby Boomers,86,55,Saint Pi,SPM
+1957,Saint Pierre and Miquelon,Northern America,North America,Male,Baby Boomers,99,55,Saint Pi,SPM
+1958,Saint Pierre and Miquelon,Northern America,North America,Male,Baby Boomers,97,56,Saint Pi,SPM
+1959,Saint Pierre and Miquelon,Northern America,North America,Male,Baby Boomers,67,56,Saint Pi,SPM
+1960,Saint Pierre and Miquelon,Northern America,North America,Male,Baby Boomers,79,56,Saint Pi,SPM
+1961,Saint Pierre and Miquelon,Northern America,North America,Male,Baby Boomers,85,56,Saint Pi,SPM
+1962,Saint Pierre and Miquelon,Northern America,North America,Male,Baby Boomers,75,57,Saint Pi,SPM
+1963,Saint Pierre and Miquelon,Northern America,North America,Male,Baby Boomers,66,58,Saint Pi,SPM
+1964,Saint Pierre and Miquelon,Northern America,North America,Male,Baby Boomers,66,57,Saint Pi,SPM
+1965,Saint Pierre and Miquelon,Northern America,North America,Male,Generation X,85,57,Saint Pi,SPM
+1966,Saint Pierre and Miquelon,Northern America,North America,Male,Generation X,84,58,Saint Pi,SPM
+1967,Saint Pierre and Miquelon,Northern America,North America,Male,Generation X,66,59,Saint Pi,SPM
+1968,Saint Pierre and Miquelon,Northern America,North America,Male,Generation X,65,59,Saint Pi,SPM
+1969,Saint Pierre and Miquelon,Northern America,North America,Male,Generation X,62,59,Saint Pi,SPM
+1970,Saint Pierre and Miquelon,Northern America,North America,Male,Generation X,72,60,Saint Pi,SPM
+1971,Saint Pierre and Miquelon,Northern America,North America,Male,Generation X,78,61,Saint Pi,SPM
+1972,Saint Pierre and Miquelon,Northern America,North America,Male,Generation X,68,62,Saint Pi,SPM
+1973,Saint Pierre and Miquelon,Northern America,North America,Male,Generation X,58,63,Saint Pi,SPM
+1974,Saint Pierre and Miquelon,Northern America,North America,Male,Generation X,52,64,Saint Pi,SPM
+1975,Saint Pierre and Miquelon,Northern America,North America,Male,Generation X,47,65,Saint Pi,SPM
+1976,Saint Pierre and Miquelon,Northern America,North America,Male,Generation X,42,66,Saint Pi,SPM
+1977,Saint Pierre and Miquelon,Northern America,North America,Male,Generation X,41,65,Saint Pi,SPM
+1978,Saint Pierre and Miquelon,Northern America,North America,Male,Generation X,44,65,Saint Pi,SPM
+1979,Saint Pierre and Miquelon,Northern America,North America,Male,Generation X,46,65,Saint Pi,SPM
+1980,Saint Pierre and Miquelon,Northern America,North America,Male,Generation X,48,64,Saint Pi,SPM
+1981,Saint Pierre and Miquelon,Northern America,North America,Male,Millennial Generation,50,65,Saint Pi,SPM
+1982,Saint Pierre and Miquelon,Northern America,North America,Male,Millennial Generation,52,67,Saint Pi,SPM
+1983,Saint Pierre and Miquelon,Northern America,North America,Male,Millennial Generation,54,66,Saint Pi,SPM
+1984,Saint Pierre and Miquelon,Northern America,North America,Male,Millennial Generation,56,66,Saint Pi,SPM
+1985,Saint Pierre and Miquelon,Northern America,North America,Male,Millennial Generation,58,67,Saint Pi,SPM
+1986,Saint Pierre and Miquelon,Northern America,North America,Male,Millennial Generation,59,67,Saint Pi,SPM
+1987,Saint Pierre and Miquelon,Northern America,North America,Male,Millennial Generation,60,68,Saint Pi,SPM
+1988,Saint Pierre and Miquelon,Northern America,North America,Male,Millennial Generation,61,68,Saint Pi,SPM
+1989,Saint Pierre and Miquelon,Northern America,North America,Male,Millennial Generation,61,68,Saint Pi,SPM
+1990,Saint Pierre and Miquelon,Northern America,North America,Male,Millennial Generation,61,69,Saint Pi,SPM
+1991,Saint Pierre and Miquelon,Northern America,North America,Male,Millennial Generation,61,68,Saint Pi,SPM
+1992,Saint Pierre and Miquelon,Northern America,North America,Male,Millennial Generation,60,69,Saint Pi,SPM
+1993,Saint Pierre and Miquelon,Northern America,North America,Male,Millennial Generation,60,69,Saint Pi,SPM
+1994,Saint Pierre and Miquelon,Northern America,North America,Male,Millennial Generation,59,69,Saint Pi,SPM
+1995,Saint Pierre and Miquelon,Northern America,North America,Male,Millennial Generation,57,69,Saint Pi,SPM
+1996,Saint Pierre and Miquelon,Northern America,North America,Male,Millennial Generation,55,70,Saint Pi,SPM
+1997,Saint Pierre and Miquelon,Northern America,North America,Male,Generation Z,53,70,Saint Pi,SPM
+1998,Saint Pierre and Miquelon,Northern America,North America,Male,Generation Z,50,70,Saint Pi,SPM
+1999,Saint Pierre and Miquelon,Northern America,North America,Male,Generation Z,47,70,Saint Pi,SPM
+2000,Saint Pierre and Miquelon,Northern America,North America,Male,Generation Z,45,70,Saint Pi,SPM
+2001,Saint Pierre and Miquelon,Northern America,North America,Male,Generation Z,43,70,Saint Pi,SPM
+2002,Saint Pierre and Miquelon,Northern America,North America,Male,Generation Z,40,70,Saint Pi,SPM
+2003,Saint Pierre and Miquelon,Northern America,North America,Male,Generation Z,38,70,Saint Pi,SPM
+2004,Saint Pierre and Miquelon,Northern America,North America,Male,Generation Z,37,71,Saint Pi,SPM
+2005,Saint Pierre and Miquelon,Northern America,North America,Male,Generation Z,34,72,Saint Pi,SPM
+2006,Saint Pierre and Miquelon,Northern America,North America,Male,Generation Z,32,71,Saint Pi,SPM
+2007,Saint Pierre and Miquelon,Northern America,North America,Male,Generation Z,32,72,Saint Pi,SPM
+2008,Saint Pierre and Miquelon,Northern America,North America,Male,Generation Z,31,74,Saint Pi,SPM
+2009,Saint Pierre and Miquelon,Northern America,North America,Male,Generation Z,30,73,Saint Pi,SPM
+2010,Saint Pierre and Miquelon,Northern America,North America,Male,Generation Z,30,73,Saint Pi,SPM
+2011,Saint Pierre and Miquelon,Northern America,North America,Male,Generation Z,28,73,Saint Pi,SPM
+2012,Saint Pierre and Miquelon,Northern America,North America,Male,Generation Z,26,73,Saint Pi,SPM
+2013,Saint Pierre and Miquelon,Northern America,North America,Male,Generation Alpha,25,73,Saint Pi,SPM
+2014,Saint Pierre and Miquelon,Northern America,North America,Male,Generation Alpha,24,73,Saint Pi,SPM
+2015,Saint Pierre and Miquelon,Northern America,North America,Male,Generation Alpha,23,73,Saint Pi,SPM
+2016,Saint Pierre and Miquelon,Northern America,North America,Male,Generation Alpha,23,73,Saint Pi,SPM
+2017,Saint Pierre and Miquelon,Northern America,North America,Male,Generation Alpha,23,73,Saint Pi,SPM
+2018,Saint Pierre and Miquelon,Northern America,North America,Male,Generation Alpha,23,73,Saint Pi,SPM
+2019,Saint Pierre and Miquelon,Northern America,North America,Male,Generation Alpha,23,73,Saint Pi,SPM
+2020,Saint Pierre and Miquelon,Northern America,North America,Male,Generation Alpha,23,73,Saint Pi,SPM
+2021,Saint Pierre and Miquelon,Northern America,North America,Male,Generation Alpha,23,74,Saint Pi,SPM
+2022,Saint Pierre and Miquelon,Northern America,North America,Male,Generation Alpha,23,74,Saint Pi,SPM
+2023,Saint Pierre and Miquelon,Northern America,North America,Male,Generation Alpha,22,74,Saint Pi,SPM
+2024,Saint Pierre and Miquelon,Northern America,North America,Male,Generation Alpha,22,74,Saint Pi,SPM
 1950,Saint Vincent and the Grenadines,Caribbean,South America,Male,Baby Boomers,1617,50,Saint Vi,VCT
 1951,Saint Vincent and the Grenadines,Caribbean,South America,Male,Baby Boomers,1654,50,Saint Vi,VCT
 1952,Saint Vincent and the Grenadines,Caribbean,South America,Male,Baby Boomers,1697,50,Saint Vi,VCT
@@ -16875,80 +16875,80 @@ Year,Country,Subregion,Continent,Gender,Generation,Population,Life Expectancy,Ab
 2022,United Republic of Tanzania,Eastern Africa,Africa,Male,Generation Alpha,1190752,65,United R,TZA
 2023,United Republic of Tanzania,Eastern Africa,Africa,Male,Generation Alpha,1210500,65,United R,TZA
 2024,United Republic of Tanzania,Eastern Africa,Africa,Male,Generation Alpha,1226760,66,United R,TZA
-1951,United States of America,North America,North America,Male,Baby Boomers,1831305,65,United S,USA
-1952,United States of America,North America,North America,Male,Baby Boomers,1858595,66,United S,USA
-1953,United States of America,North America,North America,Male,Baby Boomers,1888701,66,United S,USA
-1954,United States of America,North America,North America,Male,Baby Boomers,1938607,67,United S,USA
-1955,United States of America,North America,North America,Male,Baby Boomers,1954809,67,United S,USA
-1956,United States of America,North America,North America,Male,Baby Boomers,2005677,67,United S,USA
-1957,United States of America,North America,North America,Male,Baby Boomers,2047023,66,United S,USA
-1958,United States of America,North America,North America,Male,Baby Boomers,2022322,67,United S,USA
-1959,United States of America,North America,North America,Male,Baby Boomers,2044127,67,United S,USA
-1960,United States of America,North America,North America,Male,Baby Boomers,2043937,67,United S,USA
-1961,United States of America,North America,North America,Male,Baby Boomers,2055414,67,United S,USA
-1962,United States of America,North America,North America,Male,Baby Boomers,2013453,67,United S,USA
-1963,United States of America,North America,North America,Male,Baby Boomers,1988818,67,United S,USA
-1964,United States of America,North America,North America,Male,Baby Boomers,1952617,67,United S,USA
-1965,United States of America,North America,North America,Male,Generation X,1835152,67,United S,USA
-1966,United States of America,North America,North America,Male,Generation X,1764720,67,United S,USA
-1967,United States of America,North America,North America,Male,Generation X,1728330,67,United S,USA
-1968,United States of America,North America,North America,Male,Generation X,1727789,67,United S,USA
-1969,United States of America,North America,North America,Male,Generation X,1776593,67,United S,USA
-1970,United States of America,North America,North America,Male,Generation X,1864649,67,United S,USA
-1971,United States of America,North America,North America,Male,Generation X,1764559,67,United S,USA
-1972,United States of America,North America,North America,Male,Generation X,1621221,67,United S,USA
-1973,United States of America,North America,North America,Male,Generation X,1564372,68,United S,USA
-1974,United States of America,North America,North America,Male,Generation X,1575340,68,United S,USA
-1975,United States of America,North America,North America,Male,Generation X,1565592,69,United S,USA
-1976,United States of America,North America,North America,Male,Generation X,1575036,69,United S,USA
-1977,United States of America,North America,North America,Male,Generation X,1650519,69,United S,USA
-1978,United States of America,North America,North America,Male,Generation X,1669492,70,United S,USA
-1979,United States of America,North America,North America,Male,Generation X,1747373,70,United S,USA
-1980,United States of America,North America,North America,Male,Generation X,1813447,70,United S,USA
-1981,United States of America,North America,North America,Male,Millennial Generation,1820065,70,United S,USA
-1982,United States of America,North America,North America,Male,Millennial Generation,1851974,71,United S,USA
-1983,United States of America,North America,North America,Male,Millennial Generation,1842231,71,United S,USA
-1984,United States of America,North America,North America,Male,Millennial Generation,1859863,71,United S,USA
-1985,United States of America,North America,North America,Male,Millennial Generation,1902900,71,United S,USA
-1986,United States of America,North America,North America,Male,Millennial Generation,1903254,71,United S,USA
-1987,United States of America,North America,North America,Male,Millennial Generation,1935441,71,United S,USA
-1988,United States of America,North America,North America,Male,Millennial Generation,1994052,71,United S,USA
-1989,United States of America,North America,North America,Male,Millennial Generation,2063989,72,United S,USA
-1990,United States of America,North America,North America,Male,Millennial Generation,2119157,72,United S,USA
-1991,United States of America,North America,North America,Male,Millennial Generation,2093084,72,United S,USA
-1992,United States of America,North America,North America,Male,Millennial Generation,2074824,72,United S,USA
-1993,United States of America,North America,North America,Male,Millennial Generation,2043743,72,United S,USA
-1994,United States of America,North America,North America,Male,Millennial Generation,2018750,72,United S,USA
-1995,United States of America,North America,North America,Male,Millennial Generation,1994621,73,United S,USA
-1996,United States of America,North America,North America,Male,Millennial Generation,1990397,73,United S,USA
-1997,United States of America,North America,North America,Male,Generation Z,1989631,74,United S,USA
-1998,United States of America,North America,North America,Male,Generation Z,2018032,74,United S,USA
-1999,United States of America,North America,North America,Male,Generation Z,2038144,74,United S,USA
-2000,United States of America,North America,North America,Male,Generation Z,2085043,74,United S,USA
-2001,United States of America,North America,North America,Male,Generation Z,2069364,74,United S,USA
-2002,United States of America,North America,North America,Male,Generation Z,2069498,74,United S,USA
-2003,United States of America,North America,North America,Male,Generation Z,2100690,75,United S,USA
-2004,United States of America,North America,North America,Male,Generation Z,2113181,75,United S,USA
-2005,United States of America,North America,North America,Male,Generation Z,2132759,75,United S,USA
-2006,United States of America,North America,North America,Male,Generation Z,2189682,75,United S,USA
-2007,United States of America,North America,North America,Male,Generation Z,2211702,76,United S,USA
-2008,United States of America,North America,North America,Male,Generation Z,2182120,76,United S,USA
-2009,United States of America,North America,North America,Male,Generation Z,2124005,76,United S,USA
-2010,United States of America,North America,North America,Male,Generation Z,2065684,76,United S,USA
-2011,United States of America,North America,North America,Male,Generation Z,2040815,76,United S,USA
-2012,United States of America,North America,North America,Male,Generation Z,2036990,77,United S,USA
-2013,United States of America,North America,North America,Male,Generation Alpha,2030656,77,United S,USA
-2014,United States of America,North America,North America,Male,Generation Alpha,2048825,77,United S,USA
-2015,United States of America,North America,North America,Male,Generation Alpha,2044824,76,United S,USA
-2016,United States of America,North America,North America,Male,Generation Alpha,2024117,76,United S,USA
-2017,United States of America,North America,North America,Male,Generation Alpha,1980329,76,United S,USA
-2018,United States of America,North America,North America,Male,Generation Alpha,1943490,76,United S,USA
-2019,United States of America,North America,North America,Male,Generation Alpha,1921544,77,United S,USA
-2020,United States of America,North America,North America,Male,Generation Alpha,1877383,75,United S,USA
-2021,United States of America,North America,North America,Male,Generation Alpha,1905038,74,United S,USA
-2022,United States of America,North America,North America,Male,Generation Alpha,1907108,75,United S,USA
-2023,United States of America,North America,North America,Male,Generation Alpha,1917464,77,United S,USA
-2024,United States of America,North America,North America,Male,Generation Alpha,1924479,77,United S,USA
+1951,United States of America,Northern America,North America,Male,Baby Boomers,1831305,65,United S,USA
+1952,United States of America,Northern America,North America,Male,Baby Boomers,1858595,66,United S,USA
+1953,United States of America,Northern America,North America,Male,Baby Boomers,1888701,66,United S,USA
+1954,United States of America,Northern America,North America,Male,Baby Boomers,1938607,67,United S,USA
+1955,United States of America,Northern America,North America,Male,Baby Boomers,1954809,67,United S,USA
+1956,United States of America,Northern America,North America,Male,Baby Boomers,2005677,67,United S,USA
+1957,United States of America,Northern America,North America,Male,Baby Boomers,2047023,66,United S,USA
+1958,United States of America,Northern America,North America,Male,Baby Boomers,2022322,67,United S,USA
+1959,United States of America,Northern America,North America,Male,Baby Boomers,2044127,67,United S,USA
+1960,United States of America,Northern America,North America,Male,Baby Boomers,2043937,67,United S,USA
+1961,United States of America,Northern America,North America,Male,Baby Boomers,2055414,67,United S,USA
+1962,United States of America,Northern America,North America,Male,Baby Boomers,2013453,67,United S,USA
+1963,United States of America,Northern America,North America,Male,Baby Boomers,1988818,67,United S,USA
+1964,United States of America,Northern America,North America,Male,Baby Boomers,1952617,67,United S,USA
+1965,United States of America,Northern America,North America,Male,Generation X,1835152,67,United S,USA
+1966,United States of America,Northern America,North America,Male,Generation X,1764720,67,United S,USA
+1967,United States of America,Northern America,North America,Male,Generation X,1728330,67,United S,USA
+1968,United States of America,Northern America,North America,Male,Generation X,1727789,67,United S,USA
+1969,United States of America,Northern America,North America,Male,Generation X,1776593,67,United S,USA
+1970,United States of America,Northern America,North America,Male,Generation X,1864649,67,United S,USA
+1971,United States of America,Northern America,North America,Male,Generation X,1764559,67,United S,USA
+1972,United States of America,Northern America,North America,Male,Generation X,1621221,67,United S,USA
+1973,United States of America,Northern America,North America,Male,Generation X,1564372,68,United S,USA
+1974,United States of America,Northern America,North America,Male,Generation X,1575340,68,United S,USA
+1975,United States of America,Northern America,North America,Male,Generation X,1565592,69,United S,USA
+1976,United States of America,Northern America,North America,Male,Generation X,1575036,69,United S,USA
+1977,United States of America,Northern America,North America,Male,Generation X,1650519,69,United S,USA
+1978,United States of America,Northern America,North America,Male,Generation X,1669492,70,United S,USA
+1979,United States of America,Northern America,North America,Male,Generation X,1747373,70,United S,USA
+1980,United States of America,Northern America,North America,Male,Generation X,1813447,70,United S,USA
+1981,United States of America,Northern America,North America,Male,Millennial Generation,1820065,70,United S,USA
+1982,United States of America,Northern America,North America,Male,Millennial Generation,1851974,71,United S,USA
+1983,United States of America,Northern America,North America,Male,Millennial Generation,1842231,71,United S,USA
+1984,United States of America,Northern America,North America,Male,Millennial Generation,1859863,71,United S,USA
+1985,United States of America,Northern America,North America,Male,Millennial Generation,1902900,71,United S,USA
+1986,United States of America,Northern America,North America,Male,Millennial Generation,1903254,71,United S,USA
+1987,United States of America,Northern America,North America,Male,Millennial Generation,1935441,71,United S,USA
+1988,United States of America,Northern America,North America,Male,Millennial Generation,1994052,71,United S,USA
+1989,United States of America,Northern America,North America,Male,Millennial Generation,2063989,72,United S,USA
+1990,United States of America,Northern America,North America,Male,Millennial Generation,2119157,72,United S,USA
+1991,United States of America,Northern America,North America,Male,Millennial Generation,2093084,72,United S,USA
+1992,United States of America,Northern America,North America,Male,Millennial Generation,2074824,72,United S,USA
+1993,United States of America,Northern America,North America,Male,Millennial Generation,2043743,72,United S,USA
+1994,United States of America,Northern America,North America,Male,Millennial Generation,2018750,72,United S,USA
+1995,United States of America,Northern America,North America,Male,Millennial Generation,1994621,73,United S,USA
+1996,United States of America,Northern America,North America,Male,Millennial Generation,1990397,73,United S,USA
+1997,United States of America,Northern America,North America,Male,Generation Z,1989631,74,United S,USA
+1998,United States of America,Northern America,North America,Male,Generation Z,2018032,74,United S,USA
+1999,United States of America,Northern America,North America,Male,Generation Z,2038144,74,United S,USA
+2000,United States of America,Northern America,North America,Male,Generation Z,2085043,74,United S,USA
+2001,United States of America,Northern America,North America,Male,Generation Z,2069364,74,United S,USA
+2002,United States of America,Northern America,North America,Male,Generation Z,2069498,74,United S,USA
+2003,United States of America,Northern America,North America,Male,Generation Z,2100690,75,United S,USA
+2004,United States of America,Northern America,North America,Male,Generation Z,2113181,75,United S,USA
+2005,United States of America,Northern America,North America,Male,Generation Z,2132759,75,United S,USA
+2006,United States of America,Northern America,North America,Male,Generation Z,2189682,75,United S,USA
+2007,United States of America,Northern America,North America,Male,Generation Z,2211702,76,United S,USA
+2008,United States of America,Northern America,North America,Male,Generation Z,2182120,76,United S,USA
+2009,United States of America,Northern America,North America,Male,Generation Z,2124005,76,United S,USA
+2010,United States of America,Northern America,North America,Male,Generation Z,2065684,76,United S,USA
+2011,United States of America,Northern America,North America,Male,Generation Z,2040815,76,United S,USA
+2012,United States of America,Northern America,North America,Male,Generation Z,2036990,77,United S,USA
+2013,United States of America,Northern America,North America,Male,Generation Alpha,2030656,77,United S,USA
+2014,United States of America,Northern America,North America,Male,Generation Alpha,2048825,77,United S,USA
+2015,United States of America,Northern America,North America,Male,Generation Alpha,2044824,76,United S,USA
+2016,United States of America,Northern America,North America,Male,Generation Alpha,2024117,76,United S,USA
+2017,United States of America,Northern America,North America,Male,Generation Alpha,1980329,76,United S,USA
+2018,United States of America,Northern America,North America,Male,Generation Alpha,1943490,76,United S,USA
+2019,United States of America,Northern America,North America,Male,Generation Alpha,1921544,77,United S,USA
+2020,United States of America,Northern America,North America,Male,Generation Alpha,1877383,75,United S,USA
+2021,United States of America,Northern America,North America,Male,Generation Alpha,1905038,74,United S,USA
+2022,United States of America,Northern America,North America,Male,Generation Alpha,1907108,75,United S,USA
+2023,United States of America,Northern America,North America,Male,Generation Alpha,1917464,77,United S,USA
+2024,United States of America,Northern America,North America,Male,Generation Alpha,1924479,77,United S,USA
 1950,United States Virgin Islands,Caribbean,South America,Male,Baby Boomers,449,55,United S,VIR
 1951,United States Virgin Islands,Caribbean,South America,Male,Baby Boomers,490,55,United S,VIR
 1952,United States Virgin Islands,Caribbean,South America,Male,Baby Boomers,434,57,United S,VIR
@@ -19424,81 +19424,81 @@ Year,Country,Subregion,Continent,Gender,Generation,Population,Life Expectancy,Ab
 2022,Benin,Western Africa,Africa,Female,Generation Alpha,236019,62,Benin,BEN
 2023,Benin,Western Africa,Africa,Female,Generation Alpha,238833,62,Benin,BEN
 2024,Benin,Western Africa,Africa,Female,Generation Alpha,241533,63,Benin,BEN
-1950,Bermuda,North America,North America,Female,Baby Boomers,549,58,Bermuda,BMU
-1951,Bermuda,North America,North America,Female,Baby Boomers,545,54,Bermuda,BMU
-1952,Bermuda,North America,North America,Female,Baby Boomers,541,59,Bermuda,BMU
-1953,Bermuda,North America,North America,Female,Baby Boomers,538,61,Bermuda,BMU
-1954,Bermuda,North America,North America,Female,Baby Boomers,534,59,Bermuda,BMU
-1955,Bermuda,North America,North America,Female,Baby Boomers,532,63,Bermuda,BMU
-1956,Bermuda,North America,North America,Female,Baby Boomers,531,69,Bermuda,BMU
-1957,Bermuda,North America,North America,Female,Baby Boomers,530,68,Bermuda,BMU
-1958,Bermuda,North America,North America,Female,Baby Boomers,534,70,Bermuda,BMU
-1959,Bermuda,North America,North America,Female,Baby Boomers,530,70,Bermuda,BMU
-1960,Bermuda,North America,North America,Female,Baby Boomers,529,70,Bermuda,BMU
-1961,Bermuda,North America,North America,Female,Baby Boomers,526,66,Bermuda,BMU
-1962,Bermuda,North America,North America,Female,Baby Boomers,532,68,Bermuda,BMU
-1963,Bermuda,North America,North America,Female,Baby Boomers,550,64,Bermuda,BMU
-1964,Bermuda,North America,North America,Female,Baby Boomers,527,70,Bermuda,BMU
-1965,Bermuda,North America,North America,Female,Generation X,519,70,Bermuda,BMU
-1966,Bermuda,North America,North America,Female,Generation X,493,67,Bermuda,BMU
-1967,Bermuda,North America,North America,Female,Generation X,478,73,Bermuda,BMU
-1968,Bermuda,North America,North America,Female,Generation X,471,73,Bermuda,BMU
-1969,Bermuda,North America,North America,Female,Generation X,467,72,Bermuda,BMU
-1970,Bermuda,North America,North America,Female,Generation X,465,75,Bermuda,BMU
-1971,Bermuda,North America,North America,Female,Generation X,464,73,Bermuda,BMU
-1972,Bermuda,North America,North America,Female,Generation X,453,74,Bermuda,BMU
-1973,Bermuda,North America,North America,Female,Generation X,443,76,Bermuda,BMU
-1974,Bermuda,North America,North America,Female,Generation X,426,76,Bermuda,BMU
-1975,Bermuda,North America,North America,Female,Generation X,403,76,Bermuda,BMU
-1976,Bermuda,North America,North America,Female,Generation X,409,76,Bermuda,BMU
-1977,Bermuda,North America,North America,Female,Generation X,375,76,Bermuda,BMU
-1978,Bermuda,North America,North America,Female,Generation X,355,77,Bermuda,BMU
-1979,Bermuda,North America,North America,Female,Generation X,380,77,Bermuda,BMU
-1980,Bermuda,North America,North America,Female,Generation X,381,78,Bermuda,BMU
-1981,Bermuda,North America,North America,Female,Millennial Generation,368,78,Bermuda,BMU
-1982,Bermuda,North America,North America,Female,Millennial Generation,380,78,Bermuda,BMU
-1983,Bermuda,North America,North America,Female,Millennial Generation,426,78,Bermuda,BMU
-1984,Bermuda,North America,North America,Female,Millennial Generation,399,78,Bermuda,BMU
-1985,Bermuda,North America,North America,Female,Millennial Generation,429,76,Bermuda,BMU
-1986,Bermuda,North America,North America,Female,Millennial Generation,425,78,Bermuda,BMU
-1987,Bermuda,North America,North America,Female,Millennial Generation,432,78,Bermuda,BMU
-1988,Bermuda,North America,North America,Female,Millennial Generation,449,79,Bermuda,BMU
-1989,Bermuda,North America,North America,Female,Millennial Generation,440,78,Bermuda,BMU
-1990,Bermuda,North America,North America,Female,Millennial Generation,429,79,Bermuda,BMU
-1991,Bermuda,North America,North America,Female,Millennial Generation,438,79,Bermuda,BMU
-1992,Bermuda,North America,North America,Female,Millennial Generation,429,76,Bermuda,BMU
-1993,Bermuda,North America,North America,Female,Millennial Generation,420,79,Bermuda,BMU
-1994,Bermuda,North America,North America,Female,Millennial Generation,413,76,Bermuda,BMU
-1995,Bermuda,North America,North America,Female,Millennial Generation,407,80,Bermuda,BMU
-1996,Bermuda,North America,North America,Female,Millennial Generation,406,81,Bermuda,BMU
-1997,Bermuda,North America,North America,Female,Generation Z,401,82,Bermuda,BMU
-1998,Bermuda,North America,North America,Female,Generation Z,422,83,Bermuda,BMU
-1999,Bermuda,North America,North America,Female,Generation Z,421,82,Bermuda,BMU
-2000,Bermuda,North America,North America,Female,Generation Z,409,82,Bermuda,BMU
-2001,Bermuda,North America,North America,Female,Generation Z,430,84,Bermuda,BMU
-2002,Bermuda,North America,North America,Female,Generation Z,409,82,Bermuda,BMU
-2003,Bermuda,North America,North America,Female,Generation Z,402,81,Bermuda,BMU
-2004,Bermuda,North America,North America,Female,Generation Z,391,85,Bermuda,BMU
-2005,Bermuda,North America,North America,Female,Generation Z,372,82,Bermuda,BMU
-2006,Bermuda,North America,North America,Female,Generation Z,374,81,Bermuda,BMU
-2007,Bermuda,North America,North America,Female,Generation Z,410,84,Bermuda,BMU
-2008,Bermuda,North America,North America,Female,Generation Z,387,82,Bermuda,BMU
-2009,Bermuda,North America,North America,Female,Generation Z,386,83,Bermuda,BMU
-2010,Bermuda,North America,North America,Female,Generation Z,370,85,Bermuda,BMU
-2011,Bermuda,North America,North America,Female,Generation Z,332,86,Bermuda,BMU
-2012,Bermuda,North America,North America,Female,Generation Z,329,86,Bermuda,BMU
-2013,Bermuda,North America,North America,Female,Generation Alpha,331,84,Bermuda,BMU
-2014,Bermuda,North America,North America,Female,Generation Alpha,293,83,Bermuda,BMU
-2015,Bermuda,North America,North America,Female,Generation Alpha,295,86,Bermuda,BMU
-2016,Bermuda,North America,North America,Female,Generation Alpha,292,85,Bermuda,BMU
-2017,Bermuda,North America,North America,Female,Generation Alpha,279,85,Bermuda,BMU
-2018,Bermuda,North America,North America,Female,Generation Alpha,255,84,Bermuda,BMU
-2019,Bermuda,North America,North America,Female,Generation Alpha,253,84,Bermuda,BMU
-2020,Bermuda,North America,North America,Female,Generation Alpha,253,84,Bermuda,BMU
-2021,Bermuda,North America,North America,Female,Generation Alpha,244,83,Bermuda,BMU
-2022,Bermuda,North America,North America,Female,Generation Alpha,236,85,Bermuda,BMU
-2023,Bermuda,North America,North America,Female,Generation Alpha,230,85,Bermuda,BMU
-2024,Bermuda,North America,North America,Female,Generation Alpha,225,85,Bermuda,BMU
+1950,Bermuda,Northern America,North America,Female,Baby Boomers,549,58,Bermuda,BMU
+1951,Bermuda,Northern America,North America,Female,Baby Boomers,545,54,Bermuda,BMU
+1952,Bermuda,Northern America,North America,Female,Baby Boomers,541,59,Bermuda,BMU
+1953,Bermuda,Northern America,North America,Female,Baby Boomers,538,61,Bermuda,BMU
+1954,Bermuda,Northern America,North America,Female,Baby Boomers,534,59,Bermuda,BMU
+1955,Bermuda,Northern America,North America,Female,Baby Boomers,532,63,Bermuda,BMU
+1956,Bermuda,Northern America,North America,Female,Baby Boomers,531,69,Bermuda,BMU
+1957,Bermuda,Northern America,North America,Female,Baby Boomers,530,68,Bermuda,BMU
+1958,Bermuda,Northern America,North America,Female,Baby Boomers,534,70,Bermuda,BMU
+1959,Bermuda,Northern America,North America,Female,Baby Boomers,530,70,Bermuda,BMU
+1960,Bermuda,Northern America,North America,Female,Baby Boomers,529,70,Bermuda,BMU
+1961,Bermuda,Northern America,North America,Female,Baby Boomers,526,66,Bermuda,BMU
+1962,Bermuda,Northern America,North America,Female,Baby Boomers,532,68,Bermuda,BMU
+1963,Bermuda,Northern America,North America,Female,Baby Boomers,550,64,Bermuda,BMU
+1964,Bermuda,Northern America,North America,Female,Baby Boomers,527,70,Bermuda,BMU
+1965,Bermuda,Northern America,North America,Female,Generation X,519,70,Bermuda,BMU
+1966,Bermuda,Northern America,North America,Female,Generation X,493,67,Bermuda,BMU
+1967,Bermuda,Northern America,North America,Female,Generation X,478,73,Bermuda,BMU
+1968,Bermuda,Northern America,North America,Female,Generation X,471,73,Bermuda,BMU
+1969,Bermuda,Northern America,North America,Female,Generation X,467,72,Bermuda,BMU
+1970,Bermuda,Northern America,North America,Female,Generation X,465,75,Bermuda,BMU
+1971,Bermuda,Northern America,North America,Female,Generation X,464,73,Bermuda,BMU
+1972,Bermuda,Northern America,North America,Female,Generation X,453,74,Bermuda,BMU
+1973,Bermuda,Northern America,North America,Female,Generation X,443,76,Bermuda,BMU
+1974,Bermuda,Northern America,North America,Female,Generation X,426,76,Bermuda,BMU
+1975,Bermuda,Northern America,North America,Female,Generation X,403,76,Bermuda,BMU
+1976,Bermuda,Northern America,North America,Female,Generation X,409,76,Bermuda,BMU
+1977,Bermuda,Northern America,North America,Female,Generation X,375,76,Bermuda,BMU
+1978,Bermuda,Northern America,North America,Female,Generation X,355,77,Bermuda,BMU
+1979,Bermuda,Northern America,North America,Female,Generation X,380,77,Bermuda,BMU
+1980,Bermuda,Northern America,North America,Female,Generation X,381,78,Bermuda,BMU
+1981,Bermuda,Northern America,North America,Female,Millennial Generation,368,78,Bermuda,BMU
+1982,Bermuda,Northern America,North America,Female,Millennial Generation,380,78,Bermuda,BMU
+1983,Bermuda,Northern America,North America,Female,Millennial Generation,426,78,Bermuda,BMU
+1984,Bermuda,Northern America,North America,Female,Millennial Generation,399,78,Bermuda,BMU
+1985,Bermuda,Northern America,North America,Female,Millennial Generation,429,76,Bermuda,BMU
+1986,Bermuda,Northern America,North America,Female,Millennial Generation,425,78,Bermuda,BMU
+1987,Bermuda,Northern America,North America,Female,Millennial Generation,432,78,Bermuda,BMU
+1988,Bermuda,Northern America,North America,Female,Millennial Generation,449,79,Bermuda,BMU
+1989,Bermuda,Northern America,North America,Female,Millennial Generation,440,78,Bermuda,BMU
+1990,Bermuda,Northern America,North America,Female,Millennial Generation,429,79,Bermuda,BMU
+1991,Bermuda,Northern America,North America,Female,Millennial Generation,438,79,Bermuda,BMU
+1992,Bermuda,Northern America,North America,Female,Millennial Generation,429,76,Bermuda,BMU
+1993,Bermuda,Northern America,North America,Female,Millennial Generation,420,79,Bermuda,BMU
+1994,Bermuda,Northern America,North America,Female,Millennial Generation,413,76,Bermuda,BMU
+1995,Bermuda,Northern America,North America,Female,Millennial Generation,407,80,Bermuda,BMU
+1996,Bermuda,Northern America,North America,Female,Millennial Generation,406,81,Bermuda,BMU
+1997,Bermuda,Northern America,North America,Female,Generation Z,401,82,Bermuda,BMU
+1998,Bermuda,Northern America,North America,Female,Generation Z,422,83,Bermuda,BMU
+1999,Bermuda,Northern America,North America,Female,Generation Z,421,82,Bermuda,BMU
+2000,Bermuda,Northern America,North America,Female,Generation Z,409,82,Bermuda,BMU
+2001,Bermuda,Northern America,North America,Female,Generation Z,430,84,Bermuda,BMU
+2002,Bermuda,Northern America,North America,Female,Generation Z,409,82,Bermuda,BMU
+2003,Bermuda,Northern America,North America,Female,Generation Z,402,81,Bermuda,BMU
+2004,Bermuda,Northern America,North America,Female,Generation Z,391,85,Bermuda,BMU
+2005,Bermuda,Northern America,North America,Female,Generation Z,372,82,Bermuda,BMU
+2006,Bermuda,Northern America,North America,Female,Generation Z,374,81,Bermuda,BMU
+2007,Bermuda,Northern America,North America,Female,Generation Z,410,84,Bermuda,BMU
+2008,Bermuda,Northern America,North America,Female,Generation Z,387,82,Bermuda,BMU
+2009,Bermuda,Northern America,North America,Female,Generation Z,386,83,Bermuda,BMU
+2010,Bermuda,Northern America,North America,Female,Generation Z,370,85,Bermuda,BMU
+2011,Bermuda,Northern America,North America,Female,Generation Z,332,86,Bermuda,BMU
+2012,Bermuda,Northern America,North America,Female,Generation Z,329,86,Bermuda,BMU
+2013,Bermuda,Northern America,North America,Female,Generation Alpha,331,84,Bermuda,BMU
+2014,Bermuda,Northern America,North America,Female,Generation Alpha,293,83,Bermuda,BMU
+2015,Bermuda,Northern America,North America,Female,Generation Alpha,295,86,Bermuda,BMU
+2016,Bermuda,Northern America,North America,Female,Generation Alpha,292,85,Bermuda,BMU
+2017,Bermuda,Northern America,North America,Female,Generation Alpha,279,85,Bermuda,BMU
+2018,Bermuda,Northern America,North America,Female,Generation Alpha,255,84,Bermuda,BMU
+2019,Bermuda,Northern America,North America,Female,Generation Alpha,253,84,Bermuda,BMU
+2020,Bermuda,Northern America,North America,Female,Generation Alpha,253,84,Bermuda,BMU
+2021,Bermuda,Northern America,North America,Female,Generation Alpha,244,83,Bermuda,BMU
+2022,Bermuda,Northern America,North America,Female,Generation Alpha,236,85,Bermuda,BMU
+2023,Bermuda,Northern America,North America,Female,Generation Alpha,230,85,Bermuda,BMU
+2024,Bermuda,Northern America,North America,Female,Generation Alpha,225,85,Bermuda,BMU
 1950,Bhutan,Southern Asia,Asia,Female,Baby Boomers,4074,31,Bhutan,BTN
 1951,Bhutan,Southern Asia,Asia,Female,Baby Boomers,4165,31,Bhutan,BTN
 1952,Bhutan,Southern Asia,Asia,Female,Baby Boomers,4266,31,Bhutan,BTN
@@ -20549,81 +20549,81 @@ Year,Country,Subregion,Continent,Gender,Generation,Population,Life Expectancy,Ab
 2022,Cameroon,Middle Africa,Africa,Female,Generation Alpha,472461,73,Cameroon,CMR
 2023,Cameroon,Middle Africa,Africa,Female,Generation Alpha,476717,74,Cameroon,CMR
 2024,Cameroon,Middle Africa,Africa,Female,Generation Alpha,482126,74,Cameroon,CMR
-1950,Canada,North America,North America,Female,Baby Boomers,178562,36,Canada,CAN
-1951,Canada,North America,North America,Female,Baby Boomers,183414,36,Canada,CAN
-1952,Canada,North America,North America,Female,Baby Boomers,193117,36,Canada,CAN
-1953,Canada,North America,North America,Female,Baby Boomers,200874,37,Canada,CAN
-1954,Canada,North America,North America,Female,Baby Boomers,209076,38,Canada,CAN
-1955,Canada,North America,North America,Female,Baby Boomers,212021,39,Canada,CAN
-1956,Canada,North America,North America,Female,Baby Boomers,215817,40,Canada,CAN
-1957,Canada,North America,North America,Female,Baby Boomers,223248,40,Canada,CAN
-1958,Canada,North America,North America,Female,Baby Boomers,224865,41,Canada,CAN
-1959,Canada,North America,North America,Female,Baby Boomers,229955,42,Canada,CAN
-1960,Canada,North America,North America,Female,Baby Boomers,229226,42,Canada,CAN
-1961,Canada,North America,North America,Female,Baby Boomers,227728,43,Canada,CAN
-1962,Canada,North America,North America,Female,Baby Boomers,225127,44,Canada,CAN
-1963,Canada,North America,North America,Female,Baby Boomers,222859,44,Canada,CAN
-1964,Canada,North America,North America,Female,Baby Boomers,216454,44,Canada,CAN
-1965,Canada,North America,North America,Female,Generation X,199683,45,Canada,CAN
-1966,Canada,North America,North America,Female,Generation X,184856,46,Canada,CAN
-1967,Canada,North America,North America,Female,Generation X,177575,46,Canada,CAN
-1968,Canada,North America,North America,Female,Generation X,174083,47,Canada,CAN
-1969,Canada,North America,North America,Female,Generation X,176733,48,Canada,CAN
-1970,Canada,North America,North America,Female,Generation X,177485,49,Canada,CAN
-1971,Canada,North America,North America,Female,Generation X,175702,50,Canada,CAN
-1972,Canada,North America,North America,Female,Generation X,170415,50,Canada,CAN
-1973,Canada,North America,North America,Female,Generation X,168693,51,Canada,CAN
-1974,Canada,North America,North America,Female,Generation X,169875,51,Canada,CAN
-1975,Canada,North America,North America,Female,Generation X,174286,51,Canada,CAN
-1976,Canada,North America,North America,Female,Generation X,177003,51,Canada,CAN
-1977,Canada,North America,North America,Female,Generation X,179760,51,Canada,CAN
-1978,Canada,North America,North America,Female,Generation X,179486,52,Canada,CAN
-1979,Canada,North America,North America,Female,Generation X,182977,52,Canada,CAN
-1980,Canada,North America,North America,Female,Generation X,185035,52,Canada,CAN
-1981,Canada,North America,North America,Female,Millennial Generation,184703,53,Canada,CAN
-1982,Canada,North America,North America,Female,Millennial Generation,186619,53,Canada,CAN
-1983,Canada,North America,North America,Female,Millennial Generation,187395,54,Canada,CAN
-1984,Canada,North America,North America,Female,Millennial Generation,189100,54,Canada,CAN
-1985,Canada,North America,North America,Female,Millennial Generation,188389,55,Canada,CAN
-1986,Canada,North America,North America,Female,Millennial Generation,189138,55,Canada,CAN
-1987,Canada,North America,North America,Female,Millennial Generation,188456,56,Canada,CAN
-1988,Canada,North America,North America,Female,Millennial Generation,192795,56,Canada,CAN
-1989,Canada,North America,North America,Female,Millennial Generation,201575,56,Canada,CAN
-1990,Canada,North America,North America,Female,Millennial Generation,207679,56,Canada,CAN
-1991,Canada,North America,North America,Female,Millennial Generation,197359,56,Canada,CAN
-1992,Canada,North America,North America,Female,Millennial Generation,194370,56,Canada,CAN
-1993,Canada,North America,North America,Female,Millennial Generation,189451,56,Canada,CAN
-1994,Canada,North America,North America,Female,Millennial Generation,187380,55,Canada,CAN
-1995,Canada,North America,North America,Female,Millennial Generation,184084,55,Canada,CAN
-1996,Canada,North America,North America,Female,Millennial Generation,178119,54,Canada,CAN
-1997,Canada,North America,North America,Female,Generation Z,170081,54,Canada,CAN
-1998,Canada,North America,North America,Female,Generation Z,166745,54,Canada,CAN
-1999,Canada,North America,North America,Female,Generation Z,163470,54,Canada,CAN
-2000,Canada,North America,North America,Female,Generation Z,157380,55,Canada,CAN
-2001,Canada,North America,North America,Female,Generation Z,158930,55,Canada,CAN
-2002,Canada,North America,North America,Female,Generation Z,158288,55,Canada,CAN
-2003,Canada,North America,North America,Female,Generation Z,160783,55,Canada,CAN
-2004,Canada,North America,North America,Female,Generation Z,161226,56,Canada,CAN
-2005,Canada,North America,North America,Female,Generation Z,163449,56,Canada,CAN
-2006,Canada,North America,North America,Female,Generation Z,168874,56,Canada,CAN
-2007,Canada,North America,North America,Female,Generation Z,177547,56,Canada,CAN
-2008,Canada,North America,North America,Female,Generation Z,181795,57,Canada,CAN
-2009,Canada,North America,North America,Female,Generation Z,182957,57,Canada,CAN
-2010,Canada,North America,North America,Female,Generation Z,181559,58,Canada,CAN
-2011,Canada,North America,North America,Female,Generation Z,182149,58,Canada,CAN
-2012,Canada,North America,North America,Female,Generation Z,183818,59,Canada,CAN
-2013,Canada,North America,North America,Female,Generation Alpha,183057,60,Canada,CAN
-2014,Canada,North America,North America,Female,Generation Alpha,184498,60,Canada,CAN
-2015,Canada,North America,North America,Female,Generation Alpha,180933,61,Canada,CAN
-2016,Canada,North America,North America,Female,Generation Alpha,180008,62,Canada,CAN
-2017,Canada,North America,North America,Female,Generation Alpha,181806,62,Canada,CAN
-2018,Canada,North America,North America,Female,Generation Alpha,179826,63,Canada,CAN
-2019,Canada,North America,North America,Female,Generation Alpha,177006,63,Canada,CAN
-2020,Canada,North America,North America,Female,Generation Alpha,180383,63,Canada,CAN
-2021,Canada,North America,North America,Female,Generation Alpha,181951,62,Canada,CAN
-2022,Canada,North America,North America,Female,Generation Alpha,183149,63,Canada,CAN
-2023,Canada,North America,North America,Female,Generation Alpha,184727,63,Canada,CAN
-2024,Canada,North America,North America,Female,Generation Alpha,186354,64,Canada,CAN
+1950,Canada,Northern America,North America,Female,Baby Boomers,178562,36,Canada,CAN
+1951,Canada,Northern America,North America,Female,Baby Boomers,183414,36,Canada,CAN
+1952,Canada,Northern America,North America,Female,Baby Boomers,193117,36,Canada,CAN
+1953,Canada,Northern America,North America,Female,Baby Boomers,200874,37,Canada,CAN
+1954,Canada,Northern America,North America,Female,Baby Boomers,209076,38,Canada,CAN
+1955,Canada,Northern America,North America,Female,Baby Boomers,212021,39,Canada,CAN
+1956,Canada,Northern America,North America,Female,Baby Boomers,215817,40,Canada,CAN
+1957,Canada,Northern America,North America,Female,Baby Boomers,223248,40,Canada,CAN
+1958,Canada,Northern America,North America,Female,Baby Boomers,224865,41,Canada,CAN
+1959,Canada,Northern America,North America,Female,Baby Boomers,229955,42,Canada,CAN
+1960,Canada,Northern America,North America,Female,Baby Boomers,229226,42,Canada,CAN
+1961,Canada,Northern America,North America,Female,Baby Boomers,227728,43,Canada,CAN
+1962,Canada,Northern America,North America,Female,Baby Boomers,225127,44,Canada,CAN
+1963,Canada,Northern America,North America,Female,Baby Boomers,222859,44,Canada,CAN
+1964,Canada,Northern America,North America,Female,Baby Boomers,216454,44,Canada,CAN
+1965,Canada,Northern America,North America,Female,Generation X,199683,45,Canada,CAN
+1966,Canada,Northern America,North America,Female,Generation X,184856,46,Canada,CAN
+1967,Canada,Northern America,North America,Female,Generation X,177575,46,Canada,CAN
+1968,Canada,Northern America,North America,Female,Generation X,174083,47,Canada,CAN
+1969,Canada,Northern America,North America,Female,Generation X,176733,48,Canada,CAN
+1970,Canada,Northern America,North America,Female,Generation X,177485,49,Canada,CAN
+1971,Canada,Northern America,North America,Female,Generation X,175702,50,Canada,CAN
+1972,Canada,Northern America,North America,Female,Generation X,170415,50,Canada,CAN
+1973,Canada,Northern America,North America,Female,Generation X,168693,51,Canada,CAN
+1974,Canada,Northern America,North America,Female,Generation X,169875,51,Canada,CAN
+1975,Canada,Northern America,North America,Female,Generation X,174286,51,Canada,CAN
+1976,Canada,Northern America,North America,Female,Generation X,177003,51,Canada,CAN
+1977,Canada,Northern America,North America,Female,Generation X,179760,51,Canada,CAN
+1978,Canada,Northern America,North America,Female,Generation X,179486,52,Canada,CAN
+1979,Canada,Northern America,North America,Female,Generation X,182977,52,Canada,CAN
+1980,Canada,Northern America,North America,Female,Generation X,185035,52,Canada,CAN
+1981,Canada,Northern America,North America,Female,Millennial Generation,184703,53,Canada,CAN
+1982,Canada,Northern America,North America,Female,Millennial Generation,186619,53,Canada,CAN
+1983,Canada,Northern America,North America,Female,Millennial Generation,187395,54,Canada,CAN
+1984,Canada,Northern America,North America,Female,Millennial Generation,189100,54,Canada,CAN
+1985,Canada,Northern America,North America,Female,Millennial Generation,188389,55,Canada,CAN
+1986,Canada,Northern America,North America,Female,Millennial Generation,189138,55,Canada,CAN
+1987,Canada,Northern America,North America,Female,Millennial Generation,188456,56,Canada,CAN
+1988,Canada,Northern America,North America,Female,Millennial Generation,192795,56,Canada,CAN
+1989,Canada,Northern America,North America,Female,Millennial Generation,201575,56,Canada,CAN
+1990,Canada,Northern America,North America,Female,Millennial Generation,207679,56,Canada,CAN
+1991,Canada,Northern America,North America,Female,Millennial Generation,197359,56,Canada,CAN
+1992,Canada,Northern America,North America,Female,Millennial Generation,194370,56,Canada,CAN
+1993,Canada,Northern America,North America,Female,Millennial Generation,189451,56,Canada,CAN
+1994,Canada,Northern America,North America,Female,Millennial Generation,187380,55,Canada,CAN
+1995,Canada,Northern America,North America,Female,Millennial Generation,184084,55,Canada,CAN
+1996,Canada,Northern America,North America,Female,Millennial Generation,178119,54,Canada,CAN
+1997,Canada,Northern America,North America,Female,Generation Z,170081,54,Canada,CAN
+1998,Canada,Northern America,North America,Female,Generation Z,166745,54,Canada,CAN
+1999,Canada,Northern America,North America,Female,Generation Z,163470,54,Canada,CAN
+2000,Canada,Northern America,North America,Female,Generation Z,157380,55,Canada,CAN
+2001,Canada,Northern America,North America,Female,Generation Z,158930,55,Canada,CAN
+2002,Canada,Northern America,North America,Female,Generation Z,158288,55,Canada,CAN
+2003,Canada,Northern America,North America,Female,Generation Z,160783,55,Canada,CAN
+2004,Canada,Northern America,North America,Female,Generation Z,161226,56,Canada,CAN
+2005,Canada,Northern America,North America,Female,Generation Z,163449,56,Canada,CAN
+2006,Canada,Northern America,North America,Female,Generation Z,168874,56,Canada,CAN
+2007,Canada,Northern America,North America,Female,Generation Z,177547,56,Canada,CAN
+2008,Canada,Northern America,North America,Female,Generation Z,181795,57,Canada,CAN
+2009,Canada,Northern America,North America,Female,Generation Z,182957,57,Canada,CAN
+2010,Canada,Northern America,North America,Female,Generation Z,181559,58,Canada,CAN
+2011,Canada,Northern America,North America,Female,Generation Z,182149,58,Canada,CAN
+2012,Canada,Northern America,North America,Female,Generation Z,183818,59,Canada,CAN
+2013,Canada,Northern America,North America,Female,Generation Alpha,183057,60,Canada,CAN
+2014,Canada,Northern America,North America,Female,Generation Alpha,184498,60,Canada,CAN
+2015,Canada,Northern America,North America,Female,Generation Alpha,180933,61,Canada,CAN
+2016,Canada,Northern America,North America,Female,Generation Alpha,180008,62,Canada,CAN
+2017,Canada,Northern America,North America,Female,Generation Alpha,181806,62,Canada,CAN
+2018,Canada,Northern America,North America,Female,Generation Alpha,179826,63,Canada,CAN
+2019,Canada,Northern America,North America,Female,Generation Alpha,177006,63,Canada,CAN
+2020,Canada,Northern America,North America,Female,Generation Alpha,180383,63,Canada,CAN
+2021,Canada,Northern America,North America,Female,Generation Alpha,181951,62,Canada,CAN
+2022,Canada,Northern America,North America,Female,Generation Alpha,183149,63,Canada,CAN
+2023,Canada,Northern America,North America,Female,Generation Alpha,184727,63,Canada,CAN
+2024,Canada,Northern America,North America,Female,Generation Alpha,186354,64,Canada,CAN
 1950,Cayman Islands,Caribbean,South America,Female,Baby Boomers,121,71,Cayman I,CYM
 1951,Cayman Islands,Caribbean,South America,Female,Baby Boomers,120,71,Cayman I,CYM
 1952,Cayman Islands,Caribbean,South America,Female,Baby Boomers,128,71,Cayman I,CYM
@@ -24149,81 +24149,81 @@ Year,Country,Subregion,Continent,Gender,Generation,Population,Life Expectancy,Ab
 2022,Greece,Southern Europe,Europe,Female,Generation Alpha,37375,83,Greece,GRC
 2023,Greece,Southern Europe,Europe,Female,Generation Alpha,36860,84,Greece,GRC
 2024,Greece,Southern Europe,Europe,Female,Generation Alpha,36528,85,Greece,GRC
-1950,Greenland,North America,North America,Female,Baby Boomers,487,46,Greenlan,GRL
-1951,Greenland,North America,North America,Female,Baby Boomers,479,47,Greenlan,GRL
-1952,Greenland,North America,North America,Female,Baby Boomers,509,47,Greenlan,GRL
-1953,Greenland,North America,North America,Female,Baby Boomers,533,47,Greenlan,GRL
-1954,Greenland,North America,North America,Female,Baby Boomers,560,49,Greenlan,GRL
-1955,Greenland,North America,North America,Female,Baby Boomers,588,51,Greenlan,GRL
-1956,Greenland,North America,North America,Female,Baby Boomers,612,54,Greenlan,GRL
-1957,Greenland,North America,North America,Female,Baby Boomers,641,57,Greenlan,GRL
-1958,Greenland,North America,North America,Female,Baby Boomers,673,59,Greenlan,GRL
-1959,Greenland,North America,North America,Female,Baby Boomers,709,61,Greenlan,GRL
-1960,Greenland,North America,North America,Female,Baby Boomers,745,62,Greenlan,GRL
-1961,Greenland,North America,North America,Female,Baby Boomers,768,62,Greenlan,GRL
-1962,Greenland,North America,North America,Female,Baby Boomers,775,63,Greenlan,GRL
-1963,Greenland,North America,North America,Female,Baby Boomers,778,63,Greenlan,GRL
-1964,Greenland,North America,North America,Female,Baby Boomers,783,64,Greenlan,GRL
-1965,Greenland,North America,North America,Female,Generation X,786,65,Greenlan,GRL
-1966,Greenland,North America,North America,Female,Generation X,762,65,Greenlan,GRL
-1967,Greenland,North America,North America,Female,Generation X,738,64,Greenlan,GRL
-1968,Greenland,North America,North America,Female,Generation X,693,65,Greenlan,GRL
-1969,Greenland,North America,North America,Female,Generation X,628,65,Greenlan,GRL
-1970,Greenland,North America,North America,Female,Generation X,559,66,Greenlan,GRL
-1971,Greenland,North America,North America,Female,Generation X,519,66,Greenlan,GRL
-1972,Greenland,North America,North America,Female,Generation X,487,66,Greenlan,GRL
-1973,Greenland,North America,North America,Female,Generation X,455,65,Greenlan,GRL
-1974,Greenland,North America,North America,Female,Generation X,425,65,Greenlan,GRL
-1975,Greenland,North America,North America,Female,Generation X,419,64,Greenlan,GRL
-1976,Greenland,North America,North America,Female,Generation X,422,65,Greenlan,GRL
-1977,Greenland,North America,North America,Female,Generation X,437,66,Greenlan,GRL
-1978,Greenland,North America,North America,Female,Generation X,439,66,Greenlan,GRL
-1979,Greenland,North America,North America,Female,Generation X,454,67,Greenlan,GRL
-1980,Greenland,North America,North America,Female,Generation X,487,66,Greenlan,GRL
-1981,Greenland,North America,North America,Female,Millennial Generation,503,66,Greenlan,GRL
-1982,Greenland,North America,North America,Female,Millennial Generation,508,66,Greenlan,GRL
-1983,Greenland,North America,North America,Female,Millennial Generation,504,66,Greenlan,GRL
-1984,Greenland,North America,North America,Female,Millennial Generation,521,66,Greenlan,GRL
-1985,Greenland,North America,North America,Female,Millennial Generation,542,66,Greenlan,GRL
-1986,Greenland,North America,North America,Female,Millennial Generation,538,67,Greenlan,GRL
-1987,Greenland,North America,North America,Female,Millennial Generation,548,68,Greenlan,GRL
-1988,Greenland,North America,North America,Female,Millennial Generation,578,68,Greenlan,GRL
-1989,Greenland,North America,North America,Female,Millennial Generation,592,68,Greenlan,GRL
-1990,Greenland,North America,North America,Female,Millennial Generation,602,67,Greenlan,GRL
-1991,Greenland,North America,North America,Female,Millennial Generation,592,68,Greenlan,GRL
-1992,Greenland,North America,North America,Female,Millennial Generation,594,70,Greenlan,GRL
-1993,Greenland,North America,North America,Female,Millennial Generation,579,69,Greenlan,GRL
-1994,Greenland,North America,North America,Female,Millennial Generation,558,67,Greenlan,GRL
-1995,Greenland,North America,North America,Female,Millennial Generation,535,67,Greenlan,GRL
-1996,Greenland,North America,North America,Female,Millennial Generation,520,68,Greenlan,GRL
-1997,Greenland,North America,North America,Female,Generation Z,515,68,Greenlan,GRL
-1998,Greenland,North America,North America,Female,Generation Z,482,69,Greenlan,GRL
-1999,Greenland,North America,North America,Female,Generation Z,458,70,Greenlan,GRL
-2000,Greenland,North America,North America,Female,Generation Z,443,70,Greenlan,GRL
-2001,Greenland,North America,North America,Female,Generation Z,451,71,Greenlan,GRL
-2002,Greenland,North America,North America,Female,Generation Z,452,73,Greenlan,GRL
-2003,Greenland,North America,North America,Female,Generation Z,439,73,Greenlan,GRL
-2004,Greenland,North America,North America,Female,Generation Z,434,73,Greenlan,GRL
-2005,Greenland,North America,North America,Female,Generation Z,428,71,Greenlan,GRL
-2006,Greenland,North America,North America,Female,Generation Z,416,72,Greenlan,GRL
-2007,Greenland,North America,North America,Female,Generation Z,418,72,Greenlan,GRL
-2008,Greenland,North America,North America,Female,Generation Z,420,73,Greenlan,GRL
-2009,Greenland,North America,North America,Female,Generation Z,427,73,Greenlan,GRL
-2010,Greenland,North America,North America,Female,Generation Z,415,74,Greenlan,GRL
-2011,Greenland,North America,North America,Female,Generation Z,400,74,Greenlan,GRL
-2012,Greenland,North America,North America,Female,Generation Z,390,75,Greenlan,GRL
-2013,Greenland,North America,North America,Female,Generation Alpha,394,75,Greenlan,GRL
-2014,Greenland,North America,North America,Female,Generation Alpha,398,76,Greenlan,GRL
-2015,Greenland,North America,North America,Female,Generation Alpha,408,76,Greenlan,GRL
-2016,Greenland,North America,North America,Female,Generation Alpha,410,76,Greenlan,GRL
-2017,Greenland,North America,North America,Female,Generation Alpha,412,76,Greenlan,GRL
-2018,Greenland,North America,North America,Female,Generation Alpha,408,75,Greenlan,GRL
-2019,Greenland,North America,North America,Female,Generation Alpha,404,76,Greenlan,GRL
-2020,Greenland,North America,North America,Female,Generation Alpha,400,76,Greenlan,GRL
-2021,Greenland,North America,North America,Female,Generation Alpha,395,76,Greenlan,GRL
-2022,Greenland,North America,North America,Female,Generation Alpha,388,76,Greenlan,GRL
-2023,Greenland,North America,North America,Female,Generation Alpha,381,76,Greenlan,GRL
-2024,Greenland,North America,North America,Female,Generation Alpha,374,76,Greenlan,GRL
+1950,Greenland,Northern America,North America,Female,Baby Boomers,487,46,Greenlan,GRL
+1951,Greenland,Northern America,North America,Female,Baby Boomers,479,47,Greenlan,GRL
+1952,Greenland,Northern America,North America,Female,Baby Boomers,509,47,Greenlan,GRL
+1953,Greenland,Northern America,North America,Female,Baby Boomers,533,47,Greenlan,GRL
+1954,Greenland,Northern America,North America,Female,Baby Boomers,560,49,Greenlan,GRL
+1955,Greenland,Northern America,North America,Female,Baby Boomers,588,51,Greenlan,GRL
+1956,Greenland,Northern America,North America,Female,Baby Boomers,612,54,Greenlan,GRL
+1957,Greenland,Northern America,North America,Female,Baby Boomers,641,57,Greenlan,GRL
+1958,Greenland,Northern America,North America,Female,Baby Boomers,673,59,Greenlan,GRL
+1959,Greenland,Northern America,North America,Female,Baby Boomers,709,61,Greenlan,GRL
+1960,Greenland,Northern America,North America,Female,Baby Boomers,745,62,Greenlan,GRL
+1961,Greenland,Northern America,North America,Female,Baby Boomers,768,62,Greenlan,GRL
+1962,Greenland,Northern America,North America,Female,Baby Boomers,775,63,Greenlan,GRL
+1963,Greenland,Northern America,North America,Female,Baby Boomers,778,63,Greenlan,GRL
+1964,Greenland,Northern America,North America,Female,Baby Boomers,783,64,Greenlan,GRL
+1965,Greenland,Northern America,North America,Female,Generation X,786,65,Greenlan,GRL
+1966,Greenland,Northern America,North America,Female,Generation X,762,65,Greenlan,GRL
+1967,Greenland,Northern America,North America,Female,Generation X,738,64,Greenlan,GRL
+1968,Greenland,Northern America,North America,Female,Generation X,693,65,Greenlan,GRL
+1969,Greenland,Northern America,North America,Female,Generation X,628,65,Greenlan,GRL
+1970,Greenland,Northern America,North America,Female,Generation X,559,66,Greenlan,GRL
+1971,Greenland,Northern America,North America,Female,Generation X,519,66,Greenlan,GRL
+1972,Greenland,Northern America,North America,Female,Generation X,487,66,Greenlan,GRL
+1973,Greenland,Northern America,North America,Female,Generation X,455,65,Greenlan,GRL
+1974,Greenland,Northern America,North America,Female,Generation X,425,65,Greenlan,GRL
+1975,Greenland,Northern America,North America,Female,Generation X,419,64,Greenlan,GRL
+1976,Greenland,Northern America,North America,Female,Generation X,422,65,Greenlan,GRL
+1977,Greenland,Northern America,North America,Female,Generation X,437,66,Greenlan,GRL
+1978,Greenland,Northern America,North America,Female,Generation X,439,66,Greenlan,GRL
+1979,Greenland,Northern America,North America,Female,Generation X,454,67,Greenlan,GRL
+1980,Greenland,Northern America,North America,Female,Generation X,487,66,Greenlan,GRL
+1981,Greenland,Northern America,North America,Female,Millennial Generation,503,66,Greenlan,GRL
+1982,Greenland,Northern America,North America,Female,Millennial Generation,508,66,Greenlan,GRL
+1983,Greenland,Northern America,North America,Female,Millennial Generation,504,66,Greenlan,GRL
+1984,Greenland,Northern America,North America,Female,Millennial Generation,521,66,Greenlan,GRL
+1985,Greenland,Northern America,North America,Female,Millennial Generation,542,66,Greenlan,GRL
+1986,Greenland,Northern America,North America,Female,Millennial Generation,538,67,Greenlan,GRL
+1987,Greenland,Northern America,North America,Female,Millennial Generation,548,68,Greenlan,GRL
+1988,Greenland,Northern America,North America,Female,Millennial Generation,578,68,Greenlan,GRL
+1989,Greenland,Northern America,North America,Female,Millennial Generation,592,68,Greenlan,GRL
+1990,Greenland,Northern America,North America,Female,Millennial Generation,602,67,Greenlan,GRL
+1991,Greenland,Northern America,North America,Female,Millennial Generation,592,68,Greenlan,GRL
+1992,Greenland,Northern America,North America,Female,Millennial Generation,594,70,Greenlan,GRL
+1993,Greenland,Northern America,North America,Female,Millennial Generation,579,69,Greenlan,GRL
+1994,Greenland,Northern America,North America,Female,Millennial Generation,558,67,Greenlan,GRL
+1995,Greenland,Northern America,North America,Female,Millennial Generation,535,67,Greenlan,GRL
+1996,Greenland,Northern America,North America,Female,Millennial Generation,520,68,Greenlan,GRL
+1997,Greenland,Northern America,North America,Female,Generation Z,515,68,Greenlan,GRL
+1998,Greenland,Northern America,North America,Female,Generation Z,482,69,Greenlan,GRL
+1999,Greenland,Northern America,North America,Female,Generation Z,458,70,Greenlan,GRL
+2000,Greenland,Northern America,North America,Female,Generation Z,443,70,Greenlan,GRL
+2001,Greenland,Northern America,North America,Female,Generation Z,451,71,Greenlan,GRL
+2002,Greenland,Northern America,North America,Female,Generation Z,452,73,Greenlan,GRL
+2003,Greenland,Northern America,North America,Female,Generation Z,439,73,Greenlan,GRL
+2004,Greenland,Northern America,North America,Female,Generation Z,434,73,Greenlan,GRL
+2005,Greenland,Northern America,North America,Female,Generation Z,428,71,Greenlan,GRL
+2006,Greenland,Northern America,North America,Female,Generation Z,416,72,Greenlan,GRL
+2007,Greenland,Northern America,North America,Female,Generation Z,418,72,Greenlan,GRL
+2008,Greenland,Northern America,North America,Female,Generation Z,420,73,Greenlan,GRL
+2009,Greenland,Northern America,North America,Female,Generation Z,427,73,Greenlan,GRL
+2010,Greenland,Northern America,North America,Female,Generation Z,415,74,Greenlan,GRL
+2011,Greenland,Northern America,North America,Female,Generation Z,400,74,Greenlan,GRL
+2012,Greenland,Northern America,North America,Female,Generation Z,390,75,Greenlan,GRL
+2013,Greenland,Northern America,North America,Female,Generation Alpha,394,75,Greenlan,GRL
+2014,Greenland,Northern America,North America,Female,Generation Alpha,398,76,Greenlan,GRL
+2015,Greenland,Northern America,North America,Female,Generation Alpha,408,76,Greenlan,GRL
+2016,Greenland,Northern America,North America,Female,Generation Alpha,410,76,Greenlan,GRL
+2017,Greenland,Northern America,North America,Female,Generation Alpha,412,76,Greenlan,GRL
+2018,Greenland,Northern America,North America,Female,Generation Alpha,408,75,Greenlan,GRL
+2019,Greenland,Northern America,North America,Female,Generation Alpha,404,76,Greenlan,GRL
+2020,Greenland,Northern America,North America,Female,Generation Alpha,400,76,Greenlan,GRL
+2021,Greenland,Northern America,North America,Female,Generation Alpha,395,76,Greenlan,GRL
+2022,Greenland,Northern America,North America,Female,Generation Alpha,388,76,Greenlan,GRL
+2023,Greenland,Northern America,North America,Female,Generation Alpha,381,76,Greenlan,GRL
+2024,Greenland,Northern America,North America,Female,Generation Alpha,374,76,Greenlan,GRL
 1950,Grenada,Caribbean,South America,Female,Baby Boomers,1349,55,Grenada,GRD
 1951,Grenada,Caribbean,South America,Female,Baby Boomers,1407,55,Grenada,GRD
 1952,Grenada,Caribbean,South America,Female,Baby Boomers,1528,56,Grenada,GRD
@@ -31424,81 +31424,81 @@ Year,Country,Subregion,Continent,Gender,Generation,Population,Life Expectancy,Ab
 2022,Saint Martin (French part),Caribbean,South America,Female,Generation Alpha,225,84,Saint Ma,MAF
 2023,Saint Martin (French part),Caribbean,South America,Female,Generation Alpha,216,84,Saint Ma,MAF
 2024,Saint Martin (French part),Caribbean,South America,Female,Generation Alpha,207,84,Saint Ma,MAF
-1950,Saint Pierre and Miquelon,North America,North America,Female,Baby Boomers,68,68,Saint Pi,SPM
-1951,Saint Pierre and Miquelon,North America,North America,Female,Baby Boomers,66,68,Saint Pi,SPM
-1952,Saint Pierre and Miquelon,North America,North America,Female,Baby Boomers,64,68,Saint Pi,SPM
-1953,Saint Pierre and Miquelon,North America,North America,Female,Baby Boomers,68,69,Saint Pi,SPM
-1954,Saint Pierre and Miquelon,North America,North America,Female,Baby Boomers,73,69,Saint Pi,SPM
-1955,Saint Pierre and Miquelon,North America,North America,Female,Baby Boomers,78,69,Saint Pi,SPM
-1956,Saint Pierre and Miquelon,North America,North America,Female,Baby Boomers,83,69,Saint Pi,SPM
-1957,Saint Pierre and Miquelon,North America,North America,Female,Baby Boomers,96,70,Saint Pi,SPM
-1958,Saint Pierre and Miquelon,North America,North America,Female,Baby Boomers,93,70,Saint Pi,SPM
-1959,Saint Pierre and Miquelon,North America,North America,Female,Baby Boomers,65,70,Saint Pi,SPM
-1960,Saint Pierre and Miquelon,North America,North America,Female,Baby Boomers,76,70,Saint Pi,SPM
-1961,Saint Pierre and Miquelon,North America,North America,Female,Baby Boomers,82,70,Saint Pi,SPM
-1962,Saint Pierre and Miquelon,North America,North America,Female,Baby Boomers,73,71,Saint Pi,SPM
-1963,Saint Pierre and Miquelon,North America,North America,Female,Baby Boomers,64,71,Saint Pi,SPM
-1964,Saint Pierre and Miquelon,North America,North America,Female,Baby Boomers,64,71,Saint Pi,SPM
-1965,Saint Pierre and Miquelon,North America,North America,Female,Generation X,83,70,Saint Pi,SPM
-1966,Saint Pierre and Miquelon,North America,North America,Female,Generation X,81,71,Saint Pi,SPM
-1967,Saint Pierre and Miquelon,North America,North America,Female,Generation X,63,71,Saint Pi,SPM
-1968,Saint Pierre and Miquelon,North America,North America,Female,Generation X,62,72,Saint Pi,SPM
-1969,Saint Pierre and Miquelon,North America,North America,Female,Generation X,60,72,Saint Pi,SPM
-1970,Saint Pierre and Miquelon,North America,North America,Female,Generation X,69,73,Saint Pi,SPM
-1971,Saint Pierre and Miquelon,North America,North America,Female,Generation X,76,73,Saint Pi,SPM
-1972,Saint Pierre and Miquelon,North America,North America,Female,Generation X,66,74,Saint Pi,SPM
-1973,Saint Pierre and Miquelon,North America,North America,Female,Generation X,56,74,Saint Pi,SPM
-1974,Saint Pierre and Miquelon,North America,North America,Female,Generation X,51,75,Saint Pi,SPM
-1975,Saint Pierre and Miquelon,North America,North America,Female,Generation X,45,76,Saint Pi,SPM
-1976,Saint Pierre and Miquelon,North America,North America,Female,Generation X,41,77,Saint Pi,SPM
-1977,Saint Pierre and Miquelon,North America,North America,Female,Generation X,40,76,Saint Pi,SPM
-1978,Saint Pierre and Miquelon,North America,North America,Female,Generation X,42,77,Saint Pi,SPM
-1979,Saint Pierre and Miquelon,North America,North America,Female,Generation X,45,76,Saint Pi,SPM
-1980,Saint Pierre and Miquelon,North America,North America,Female,Generation X,47,75,Saint Pi,SPM
-1981,Saint Pierre and Miquelon,North America,North America,Female,Millennial Generation,49,75,Saint Pi,SPM
-1982,Saint Pierre and Miquelon,North America,North America,Female,Millennial Generation,50,77,Saint Pi,SPM
-1983,Saint Pierre and Miquelon,North America,North America,Female,Millennial Generation,53,76,Saint Pi,SPM
-1984,Saint Pierre and Miquelon,North America,North America,Female,Millennial Generation,55,76,Saint Pi,SPM
-1985,Saint Pierre and Miquelon,North America,North America,Female,Millennial Generation,56,77,Saint Pi,SPM
-1986,Saint Pierre and Miquelon,North America,North America,Female,Millennial Generation,57,77,Saint Pi,SPM
-1987,Saint Pierre and Miquelon,North America,North America,Female,Millennial Generation,58,77,Saint Pi,SPM
-1988,Saint Pierre and Miquelon,North America,North America,Female,Millennial Generation,58,78,Saint Pi,SPM
-1989,Saint Pierre and Miquelon,North America,North America,Female,Millennial Generation,58,78,Saint Pi,SPM
-1990,Saint Pierre and Miquelon,North America,North America,Female,Millennial Generation,58,78,Saint Pi,SPM
-1991,Saint Pierre and Miquelon,North America,North America,Female,Millennial Generation,58,78,Saint Pi,SPM
-1992,Saint Pierre and Miquelon,North America,North America,Female,Millennial Generation,58,79,Saint Pi,SPM
-1993,Saint Pierre and Miquelon,North America,North America,Female,Millennial Generation,58,79,Saint Pi,SPM
-1994,Saint Pierre and Miquelon,North America,North America,Female,Millennial Generation,57,78,Saint Pi,SPM
-1995,Saint Pierre and Miquelon,North America,North America,Female,Millennial Generation,55,78,Saint Pi,SPM
-1996,Saint Pierre and Miquelon,North America,North America,Female,Millennial Generation,53,79,Saint Pi,SPM
-1997,Saint Pierre and Miquelon,North America,North America,Female,Generation Z,50,80,Saint Pi,SPM
-1998,Saint Pierre and Miquelon,North America,North America,Female,Generation Z,48,80,Saint Pi,SPM
-1999,Saint Pierre and Miquelon,North America,North America,Female,Generation Z,44,80,Saint Pi,SPM
-2000,Saint Pierre and Miquelon,North America,North America,Female,Generation Z,42,80,Saint Pi,SPM
-2001,Saint Pierre and Miquelon,North America,North America,Female,Generation Z,40,80,Saint Pi,SPM
-2002,Saint Pierre and Miquelon,North America,North America,Female,Generation Z,38,80,Saint Pi,SPM
-2003,Saint Pierre and Miquelon,North America,North America,Female,Generation Z,36,80,Saint Pi,SPM
-2004,Saint Pierre and Miquelon,North America,North America,Female,Generation Z,34,80,Saint Pi,SPM
-2005,Saint Pierre and Miquelon,North America,North America,Female,Generation Z,33,82,Saint Pi,SPM
-2006,Saint Pierre and Miquelon,North America,North America,Female,Generation Z,31,81,Saint Pi,SPM
-2007,Saint Pierre and Miquelon,North America,North America,Female,Generation Z,30,81,Saint Pi,SPM
-2008,Saint Pierre and Miquelon,North America,North America,Female,Generation Z,30,83,Saint Pi,SPM
-2009,Saint Pierre and Miquelon,North America,North America,Female,Generation Z,29,81,Saint Pi,SPM
-2010,Saint Pierre and Miquelon,North America,North America,Female,Generation Z,28,81,Saint Pi,SPM
-2011,Saint Pierre and Miquelon,North America,North America,Female,Generation Z,27,81,Saint Pi,SPM
-2012,Saint Pierre and Miquelon,North America,North America,Female,Generation Z,25,81,Saint Pi,SPM
-2013,Saint Pierre and Miquelon,North America,North America,Female,Generation Alpha,24,81,Saint Pi,SPM
-2014,Saint Pierre and Miquelon,North America,North America,Female,Generation Alpha,22,81,Saint Pi,SPM
-2015,Saint Pierre and Miquelon,North America,North America,Female,Generation Alpha,22,81,Saint Pi,SPM
-2016,Saint Pierre and Miquelon,North America,North America,Female,Generation Alpha,22,81,Saint Pi,SPM
-2017,Saint Pierre and Miquelon,North America,North America,Female,Generation Alpha,22,81,Saint Pi,SPM
-2018,Saint Pierre and Miquelon,North America,North America,Female,Generation Alpha,22,81,Saint Pi,SPM
-2019,Saint Pierre and Miquelon,North America,North America,Female,Generation Alpha,21,81,Saint Pi,SPM
-2020,Saint Pierre and Miquelon,North America,North America,Female,Generation Alpha,22,81,Saint Pi,SPM
-2021,Saint Pierre and Miquelon,North America,North America,Female,Generation Alpha,22,81,Saint Pi,SPM
-2022,Saint Pierre and Miquelon,North America,North America,Female,Generation Alpha,21,82,Saint Pi,SPM
-2023,Saint Pierre and Miquelon,North America,North America,Female,Generation Alpha,21,82,Saint Pi,SPM
-2024,Saint Pierre and Miquelon,North America,North America,Female,Generation Alpha,20,82,Saint Pi,SPM
+1950,Saint Pierre and Miquelon,Northern America,North America,Female,Baby Boomers,68,68,Saint Pi,SPM
+1951,Saint Pierre and Miquelon,Northern America,North America,Female,Baby Boomers,66,68,Saint Pi,SPM
+1952,Saint Pierre and Miquelon,Northern America,North America,Female,Baby Boomers,64,68,Saint Pi,SPM
+1953,Saint Pierre and Miquelon,Northern America,North America,Female,Baby Boomers,68,69,Saint Pi,SPM
+1954,Saint Pierre and Miquelon,Northern America,North America,Female,Baby Boomers,73,69,Saint Pi,SPM
+1955,Saint Pierre and Miquelon,Northern America,North America,Female,Baby Boomers,78,69,Saint Pi,SPM
+1956,Saint Pierre and Miquelon,Northern America,North America,Female,Baby Boomers,83,69,Saint Pi,SPM
+1957,Saint Pierre and Miquelon,Northern America,North America,Female,Baby Boomers,96,70,Saint Pi,SPM
+1958,Saint Pierre and Miquelon,Northern America,North America,Female,Baby Boomers,93,70,Saint Pi,SPM
+1959,Saint Pierre and Miquelon,Northern America,North America,Female,Baby Boomers,65,70,Saint Pi,SPM
+1960,Saint Pierre and Miquelon,Northern America,North America,Female,Baby Boomers,76,70,Saint Pi,SPM
+1961,Saint Pierre and Miquelon,Northern America,North America,Female,Baby Boomers,82,70,Saint Pi,SPM
+1962,Saint Pierre and Miquelon,Northern America,North America,Female,Baby Boomers,73,71,Saint Pi,SPM
+1963,Saint Pierre and Miquelon,Northern America,North America,Female,Baby Boomers,64,71,Saint Pi,SPM
+1964,Saint Pierre and Miquelon,Northern America,North America,Female,Baby Boomers,64,71,Saint Pi,SPM
+1965,Saint Pierre and Miquelon,Northern America,North America,Female,Generation X,83,70,Saint Pi,SPM
+1966,Saint Pierre and Miquelon,Northern America,North America,Female,Generation X,81,71,Saint Pi,SPM
+1967,Saint Pierre and Miquelon,Northern America,North America,Female,Generation X,63,71,Saint Pi,SPM
+1968,Saint Pierre and Miquelon,Northern America,North America,Female,Generation X,62,72,Saint Pi,SPM
+1969,Saint Pierre and Miquelon,Northern America,North America,Female,Generation X,60,72,Saint Pi,SPM
+1970,Saint Pierre and Miquelon,Northern America,North America,Female,Generation X,69,73,Saint Pi,SPM
+1971,Saint Pierre and Miquelon,Northern America,North America,Female,Generation X,76,73,Saint Pi,SPM
+1972,Saint Pierre and Miquelon,Northern America,North America,Female,Generation X,66,74,Saint Pi,SPM
+1973,Saint Pierre and Miquelon,Northern America,North America,Female,Generation X,56,74,Saint Pi,SPM
+1974,Saint Pierre and Miquelon,Northern America,North America,Female,Generation X,51,75,Saint Pi,SPM
+1975,Saint Pierre and Miquelon,Northern America,North America,Female,Generation X,45,76,Saint Pi,SPM
+1976,Saint Pierre and Miquelon,Northern America,North America,Female,Generation X,41,77,Saint Pi,SPM
+1977,Saint Pierre and Miquelon,Northern America,North America,Female,Generation X,40,76,Saint Pi,SPM
+1978,Saint Pierre and Miquelon,Northern America,North America,Female,Generation X,42,77,Saint Pi,SPM
+1979,Saint Pierre and Miquelon,Northern America,North America,Female,Generation X,45,76,Saint Pi,SPM
+1980,Saint Pierre and Miquelon,Northern America,North America,Female,Generation X,47,75,Saint Pi,SPM
+1981,Saint Pierre and Miquelon,Northern America,North America,Female,Millennial Generation,49,75,Saint Pi,SPM
+1982,Saint Pierre and Miquelon,Northern America,North America,Female,Millennial Generation,50,77,Saint Pi,SPM
+1983,Saint Pierre and Miquelon,Northern America,North America,Female,Millennial Generation,53,76,Saint Pi,SPM
+1984,Saint Pierre and Miquelon,Northern America,North America,Female,Millennial Generation,55,76,Saint Pi,SPM
+1985,Saint Pierre and Miquelon,Northern America,North America,Female,Millennial Generation,56,77,Saint Pi,SPM
+1986,Saint Pierre and Miquelon,Northern America,North America,Female,Millennial Generation,57,77,Saint Pi,SPM
+1987,Saint Pierre and Miquelon,Northern America,North America,Female,Millennial Generation,58,77,Saint Pi,SPM
+1988,Saint Pierre and Miquelon,Northern America,North America,Female,Millennial Generation,58,78,Saint Pi,SPM
+1989,Saint Pierre and Miquelon,Northern America,North America,Female,Millennial Generation,58,78,Saint Pi,SPM
+1990,Saint Pierre and Miquelon,Northern America,North America,Female,Millennial Generation,58,78,Saint Pi,SPM
+1991,Saint Pierre and Miquelon,Northern America,North America,Female,Millennial Generation,58,78,Saint Pi,SPM
+1992,Saint Pierre and Miquelon,Northern America,North America,Female,Millennial Generation,58,79,Saint Pi,SPM
+1993,Saint Pierre and Miquelon,Northern America,North America,Female,Millennial Generation,58,79,Saint Pi,SPM
+1994,Saint Pierre and Miquelon,Northern America,North America,Female,Millennial Generation,57,78,Saint Pi,SPM
+1995,Saint Pierre and Miquelon,Northern America,North America,Female,Millennial Generation,55,78,Saint Pi,SPM
+1996,Saint Pierre and Miquelon,Northern America,North America,Female,Millennial Generation,53,79,Saint Pi,SPM
+1997,Saint Pierre and Miquelon,Northern America,North America,Female,Generation Z,50,80,Saint Pi,SPM
+1998,Saint Pierre and Miquelon,Northern America,North America,Female,Generation Z,48,80,Saint Pi,SPM
+1999,Saint Pierre and Miquelon,Northern America,North America,Female,Generation Z,44,80,Saint Pi,SPM
+2000,Saint Pierre and Miquelon,Northern America,North America,Female,Generation Z,42,80,Saint Pi,SPM
+2001,Saint Pierre and Miquelon,Northern America,North America,Female,Generation Z,40,80,Saint Pi,SPM
+2002,Saint Pierre and Miquelon,Northern America,North America,Female,Generation Z,38,80,Saint Pi,SPM
+2003,Saint Pierre and Miquelon,Northern America,North America,Female,Generation Z,36,80,Saint Pi,SPM
+2004,Saint Pierre and Miquelon,Northern America,North America,Female,Generation Z,34,80,Saint Pi,SPM
+2005,Saint Pierre and Miquelon,Northern America,North America,Female,Generation Z,33,82,Saint Pi,SPM
+2006,Saint Pierre and Miquelon,Northern America,North America,Female,Generation Z,31,81,Saint Pi,SPM
+2007,Saint Pierre and Miquelon,Northern America,North America,Female,Generation Z,30,81,Saint Pi,SPM
+2008,Saint Pierre and Miquelon,Northern America,North America,Female,Generation Z,30,83,Saint Pi,SPM
+2009,Saint Pierre and Miquelon,Northern America,North America,Female,Generation Z,29,81,Saint Pi,SPM
+2010,Saint Pierre and Miquelon,Northern America,North America,Female,Generation Z,28,81,Saint Pi,SPM
+2011,Saint Pierre and Miquelon,Northern America,North America,Female,Generation Z,27,81,Saint Pi,SPM
+2012,Saint Pierre and Miquelon,Northern America,North America,Female,Generation Z,25,81,Saint Pi,SPM
+2013,Saint Pierre and Miquelon,Northern America,North America,Female,Generation Alpha,24,81,Saint Pi,SPM
+2014,Saint Pierre and Miquelon,Northern America,North America,Female,Generation Alpha,22,81,Saint Pi,SPM
+2015,Saint Pierre and Miquelon,Northern America,North America,Female,Generation Alpha,22,81,Saint Pi,SPM
+2016,Saint Pierre and Miquelon,Northern America,North America,Female,Generation Alpha,22,81,Saint Pi,SPM
+2017,Saint Pierre and Miquelon,Northern America,North America,Female,Generation Alpha,22,81,Saint Pi,SPM
+2018,Saint Pierre and Miquelon,Northern America,North America,Female,Generation Alpha,22,81,Saint Pi,SPM
+2019,Saint Pierre and Miquelon,Northern America,North America,Female,Generation Alpha,21,81,Saint Pi,SPM
+2020,Saint Pierre and Miquelon,Northern America,North America,Female,Generation Alpha,22,81,Saint Pi,SPM
+2021,Saint Pierre and Miquelon,Northern America,North America,Female,Generation Alpha,22,81,Saint Pi,SPM
+2022,Saint Pierre and Miquelon,Northern America,North America,Female,Generation Alpha,21,82,Saint Pi,SPM
+2023,Saint Pierre and Miquelon,Northern America,North America,Female,Generation Alpha,21,82,Saint Pi,SPM
+2024,Saint Pierre and Miquelon,Northern America,North America,Female,Generation Alpha,20,82,Saint Pi,SPM
 1950,Saint Vincent and the Grenadines,Caribbean,South America,Female,Baby Boomers,1567,53,Saint Vi,VCT
 1951,Saint Vincent and the Grenadines,Caribbean,South America,Female,Baby Boomers,1602,53,Saint Vi,VCT
 1952,Saint Vincent and the Grenadines,Caribbean,South America,Female,Baby Boomers,1644,53,Saint Vi,VCT
@@ -34649,81 +34649,81 @@ Year,Country,Subregion,Continent,Gender,Generation,Population,Life Expectancy,Ab
 2022,United Republic of Tanzania,Eastern Africa,Africa,Female,Generation Alpha,1156069,69,United R,TZA
 2023,United Republic of Tanzania,Eastern Africa,Africa,Female,Generation Alpha,1174103,70,United R,TZA
 2024,United Republic of Tanzania,Eastern Africa,Africa,Female,Generation Alpha,1189873,70,United R,TZA
-1950,United States of America,North America,North America,Female,Baby Boomers,1645407,71,United S,USA
-1951,United States of America,North America,North America,Female,Baby Boomers,1740785,71,United S,USA
-1952,United States of America,North America,North America,Female,Baby Boomers,1768407,71,United S,USA
-1953,United States of America,North America,North America,Female,Baby Boomers,1793639,72,United S,USA
-1954,United States of America,North America,North America,Female,Baby Boomers,1844535,73,United S,USA
-1955,United States of America,North America,North America,Female,Baby Boomers,1859951,73,United S,USA
-1956,United States of America,North America,North America,Female,Baby Boomers,1908352,73,United S,USA
-1957,United States of America,North America,North America,Female,Baby Boomers,1949545,73,United S,USA
-1958,United States of America,North America,North America,Female,Baby Boomers,1926020,73,United S,USA
-1959,United States of America,North America,North America,Female,Baby Boomers,1948644,73,United S,USA
-1960,United States of America,North America,North America,Female,Baby Boomers,1948462,73,United S,USA
-1961,United States of America,North America,North America,Female,Baby Boomers,1957538,74,United S,USA
-1962,United States of America,North America,North America,Female,Baby Boomers,1921234,74,United S,USA
-1963,United States of America,North America,North America,Female,Baby Boomers,1890511,74,United S,USA
-1964,United States of America,North America,North America,Female,Baby Boomers,1863184,74,United S,USA
-1965,United States of America,North America,North America,Female,Generation X,1746100,74,United S,USA
-1966,United States of America,North America,North America,Female,Generation X,1682288,74,United S,USA
-1967,United States of America,North America,North America,Female,Generation X,1646029,74,United S,USA
-1968,United States of America,North America,North America,Female,Generation X,1640825,74,United S,USA
-1969,United States of America,North America,North America,Female,Generation X,1687173,74,United S,USA
-1970,United States of America,North America,North America,Female,Generation X,1769116,75,United S,USA
-1971,United States of America,North America,North America,Female,Generation X,1677337,75,United S,USA
-1972,United States of America,North America,North America,Female,Generation X,1542550,75,United S,USA
-1973,United States of America,North America,North America,Female,Generation X,1487045,75,United S,USA
-1974,United States of America,North America,North America,Female,Generation X,1493214,76,United S,USA
-1975,United States of America,North America,North America,Female,Generation X,1485381,76,United S,USA
-1976,United States of America,North America,North America,Female,Generation X,1495760,77,United S,USA
-1977,United States of America,North America,North America,Female,Generation X,1567444,77,United S,USA
-1978,United States of America,North America,North America,Female,Generation X,1585463,77,United S,USA
-1979,United States of America,North America,North America,Female,Generation X,1661001,78,United S,USA
-1980,United States of America,North America,North America,Female,Generation X,1722172,77,United S,USA
-1981,United States of America,North America,North America,Female,Millennial Generation,1730099,78,United S,USA
-1982,United States of America,North America,North America,Female,Millennial Generation,1762106,78,United S,USA
-1983,United States of America,North America,North America,Female,Millennial Generation,1751170,78,United S,USA
-1984,United States of America,North America,North America,Female,Millennial Generation,1771298,78,United S,USA
-1985,United States of America,North America,North America,Female,Millennial Generation,1808840,78,United S,USA
-1986,United States of America,North America,North America,Female,Millennial Generation,1810898,78,United S,USA
-1987,United States of America,North America,North America,Female,Millennial Generation,1843277,78,United S,USA
-1988,United States of America,North America,North America,Female,Millennial Generation,1899097,78,United S,USA
-1989,United States of America,North America,North America,Female,Millennial Generation,1965703,79,United S,USA
-1990,United States of America,North America,North America,Female,Millennial Generation,2020168,79,United S,USA
-1991,United States of America,North America,North America,Female,Millennial Generation,2001037,79,United S,USA
-1992,United States of America,North America,North America,Female,Millennial Generation,1976023,79,United S,USA
-1993,United States of America,North America,North America,Female,Millennial Generation,1946422,79,United S,USA
-1994,United States of America,North America,North America,Female,Millennial Generation,1926289,79,United S,USA
-1995,United States of America,North America,North America,Female,Millennial Generation,1901449,79,United S,USA
-1996,United States of America,North America,North America,Female,Millennial Generation,1901048,79,United S,USA
-1997,United States of America,North America,North America,Female,Generation Z,1898502,79,United S,USA
-1998,United States of America,North America,North America,Female,Generation Z,1927442,79,United S,USA
-1999,United States of America,North America,North America,Female,Generation Z,1942939,79,United S,USA
-2000,United States of America,North America,North America,Female,Generation Z,1989545,79,United S,USA
-2001,United States of America,North America,North America,Female,Generation Z,1978359,80,United S,USA
-2002,United States of America,North America,North America,Female,Generation Z,1974711,80,United S,USA
-2003,United States of America,North America,North America,Female,Generation Z,2002565,80,United S,USA
-2004,United States of America,North America,North America,Female,Generation Z,2014472,80,United S,USA
-2005,United States of America,North America,North America,Female,Generation Z,2033135,80,United S,USA
-2006,United States of America,North America,North America,Female,Generation Z,2087400,80,United S,USA
-2007,United States of America,North America,North America,Female,Generation Z,2112419,81,United S,USA
-2008,United States of America,North America,North America,Female,Generation Z,2082175,81,United S,USA
-2009,United States of America,North America,North America,Female,Generation Z,2026723,81,United S,USA
-2010,United States of America,North America,North America,Female,Generation Z,1971073,81,United S,USA
-2011,United States of America,North America,North America,Female,Generation Z,1945486,81,United S,USA
-2012,United States of America,North America,North America,Female,Generation Z,1945549,81,United S,USA
-2013,United States of America,North America,North America,Female,Generation Alpha,1935802,81,United S,USA
-2014,United States of America,North America,North America,Female,Generation Alpha,1954986,81,United S,USA
-2015,United States of America,North America,North America,Female,Generation Alpha,1951167,81,United S,USA
-2016,United States of America,North America,North America,Female,Generation Alpha,1933254,81,United S,USA
-2017,United States of America,North America,North America,Female,Generation Alpha,1889626,81,United S,USA
-2018,United States of America,North America,North America,Female,Generation Alpha,1858021,82,United S,USA
-2019,United States of America,North America,North America,Female,Generation Alpha,1835286,82,United S,USA
-2020,United States of America,North America,North America,Female,Generation Alpha,1793107,80,United S,USA
-2021,United States of America,North America,North America,Female,Generation Alpha,1817784,80,United S,USA
-2022,United States of America,North America,North America,Female,Generation Alpha,1819759,81,United S,USA
-2023,United States of America,North America,North America,Female,Generation Alpha,1827897,82,United S,USA
-2024,United States of America,North America,North America,Female,Generation Alpha,1834584,82,United S,USA
+1950,United States of America,Northern America,North America,Female,Baby Boomers,1645407,71,United S,USA
+1951,United States of America,Northern America,North America,Female,Baby Boomers,1740785,71,United S,USA
+1952,United States of America,Northern America,North America,Female,Baby Boomers,1768407,71,United S,USA
+1953,United States of America,Northern America,North America,Female,Baby Boomers,1793639,72,United S,USA
+1954,United States of America,Northern America,North America,Female,Baby Boomers,1844535,73,United S,USA
+1955,United States of America,Northern America,North America,Female,Baby Boomers,1859951,73,United S,USA
+1956,United States of America,Northern America,North America,Female,Baby Boomers,1908352,73,United S,USA
+1957,United States of America,Northern America,North America,Female,Baby Boomers,1949545,73,United S,USA
+1958,United States of America,Northern America,North America,Female,Baby Boomers,1926020,73,United S,USA
+1959,United States of America,Northern America,North America,Female,Baby Boomers,1948644,73,United S,USA
+1960,United States of America,Northern America,North America,Female,Baby Boomers,1948462,73,United S,USA
+1961,United States of America,Northern America,North America,Female,Baby Boomers,1957538,74,United S,USA
+1962,United States of America,Northern America,North America,Female,Baby Boomers,1921234,74,United S,USA
+1963,United States of America,Northern America,North America,Female,Baby Boomers,1890511,74,United S,USA
+1964,United States of America,Northern America,North America,Female,Baby Boomers,1863184,74,United S,USA
+1965,United States of America,Northern America,North America,Female,Generation X,1746100,74,United S,USA
+1966,United States of America,Northern America,North America,Female,Generation X,1682288,74,United S,USA
+1967,United States of America,Northern America,North America,Female,Generation X,1646029,74,United S,USA
+1968,United States of America,Northern America,North America,Female,Generation X,1640825,74,United S,USA
+1969,United States of America,Northern America,North America,Female,Generation X,1687173,74,United S,USA
+1970,United States of America,Northern America,North America,Female,Generation X,1769116,75,United S,USA
+1971,United States of America,Northern America,North America,Female,Generation X,1677337,75,United S,USA
+1972,United States of America,Northern America,North America,Female,Generation X,1542550,75,United S,USA
+1973,United States of America,Northern America,North America,Female,Generation X,1487045,75,United S,USA
+1974,United States of America,Northern America,North America,Female,Generation X,1493214,76,United S,USA
+1975,United States of America,Northern America,North America,Female,Generation X,1485381,76,United S,USA
+1976,United States of America,Northern America,North America,Female,Generation X,1495760,77,United S,USA
+1977,United States of America,Northern America,North America,Female,Generation X,1567444,77,United S,USA
+1978,United States of America,Northern America,North America,Female,Generation X,1585463,77,United S,USA
+1979,United States of America,Northern America,North America,Female,Generation X,1661001,78,United S,USA
+1980,United States of America,Northern America,North America,Female,Generation X,1722172,77,United S,USA
+1981,United States of America,Northern America,North America,Female,Millennial Generation,1730099,78,United S,USA
+1982,United States of America,Northern America,North America,Female,Millennial Generation,1762106,78,United S,USA
+1983,United States of America,Northern America,North America,Female,Millennial Generation,1751170,78,United S,USA
+1984,United States of America,Northern America,North America,Female,Millennial Generation,1771298,78,United S,USA
+1985,United States of America,Northern America,North America,Female,Millennial Generation,1808840,78,United S,USA
+1986,United States of America,Northern America,North America,Female,Millennial Generation,1810898,78,United S,USA
+1987,United States of America,Northern America,North America,Female,Millennial Generation,1843277,78,United S,USA
+1988,United States of America,Northern America,North America,Female,Millennial Generation,1899097,78,United S,USA
+1989,United States of America,Northern America,North America,Female,Millennial Generation,1965703,79,United S,USA
+1990,United States of America,Northern America,North America,Female,Millennial Generation,2020168,79,United S,USA
+1991,United States of America,Northern America,North America,Female,Millennial Generation,2001037,79,United S,USA
+1992,United States of America,Northern America,North America,Female,Millennial Generation,1976023,79,United S,USA
+1993,United States of America,Northern America,North America,Female,Millennial Generation,1946422,79,United S,USA
+1994,United States of America,Northern America,North America,Female,Millennial Generation,1926289,79,United S,USA
+1995,United States of America,Northern America,North America,Female,Millennial Generation,1901449,79,United S,USA
+1996,United States of America,Northern America,North America,Female,Millennial Generation,1901048,79,United S,USA
+1997,United States of America,Northern America,North America,Female,Generation Z,1898502,79,United S,USA
+1998,United States of America,Northern America,North America,Female,Generation Z,1927442,79,United S,USA
+1999,United States of America,Northern America,North America,Female,Generation Z,1942939,79,United S,USA
+2000,United States of America,Northern America,North America,Female,Generation Z,1989545,79,United S,USA
+2001,United States of America,Northern America,North America,Female,Generation Z,1978359,80,United S,USA
+2002,United States of America,Northern America,North America,Female,Generation Z,1974711,80,United S,USA
+2003,United States of America,Northern America,North America,Female,Generation Z,2002565,80,United S,USA
+2004,United States of America,Northern America,North America,Female,Generation Z,2014472,80,United S,USA
+2005,United States of America,Northern America,North America,Female,Generation Z,2033135,80,United S,USA
+2006,United States of America,Northern America,North America,Female,Generation Z,2087400,80,United S,USA
+2007,United States of America,Northern America,North America,Female,Generation Z,2112419,81,United S,USA
+2008,United States of America,Northern America,North America,Female,Generation Z,2082175,81,United S,USA
+2009,United States of America,Northern America,North America,Female,Generation Z,2026723,81,United S,USA
+2010,United States of America,Northern America,North America,Female,Generation Z,1971073,81,United S,USA
+2011,United States of America,Northern America,North America,Female,Generation Z,1945486,81,United S,USA
+2012,United States of America,Northern America,North America,Female,Generation Z,1945549,81,United S,USA
+2013,United States of America,Northern America,North America,Female,Generation Alpha,1935802,81,United S,USA
+2014,United States of America,Northern America,North America,Female,Generation Alpha,1954986,81,United S,USA
+2015,United States of America,Northern America,North America,Female,Generation Alpha,1951167,81,United S,USA
+2016,United States of America,Northern America,North America,Female,Generation Alpha,1933254,81,United S,USA
+2017,United States of America,Northern America,North America,Female,Generation Alpha,1889626,81,United S,USA
+2018,United States of America,Northern America,North America,Female,Generation Alpha,1858021,82,United S,USA
+2019,United States of America,Northern America,North America,Female,Generation Alpha,1835286,82,United S,USA
+2020,United States of America,Northern America,North America,Female,Generation Alpha,1793107,80,United S,USA
+2021,United States of America,Northern America,North America,Female,Generation Alpha,1817784,80,United S,USA
+2022,United States of America,Northern America,North America,Female,Generation Alpha,1819759,81,United S,USA
+2023,United States of America,Northern America,North America,Female,Generation Alpha,1827897,82,United S,USA
+2024,United States of America,Northern America,North America,Female,Generation Alpha,1834584,82,United S,USA
 1950,United States Virgin Islands,Caribbean,South America,Female,Baby Boomers,432,59,United S,VIR
 1951,United States Virgin Islands,Caribbean,South America,Female,Baby Boomers,473,59,United S,VIR
 1952,United States Virgin Islands,Caribbean,South America,Female,Baby Boomers,419,63,United S,VIR
