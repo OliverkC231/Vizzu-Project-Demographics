@@ -318,6 +318,21 @@ if st.button('Create Story'):
     )
     story.add_slide(slide10)
 
+    slide11 = Slide(
+        Step(
+            Data.filer(f"record['Generation'] && record['Gender'] == '{selected_gender}'"),
+            Config.bubble(
+                {
+                    'size': 'Population',
+                    'geometry': 'circle',
+                    'color': 'continent',
+                    'label': 'continent',
+                    'title': f"Distribution of all {selected_gender}s born since 1950 Worldwide"
+                }
+            )
+        )
+    )
+
     # Switch on the tooltip that appears when the user hovers the mouse over a chart element.
     story.set_feature('tooltip', True)
 
