@@ -58,7 +58,7 @@ continent = df['Continent'].loc[df['Country'] == selected_country].drop_duplicat
 gender_list = df['Gender'].drop_duplicates()
 selected_gender = st.selectbox('Gender:', gender_list)
 
-# g_type = df['G_Type'].loc[df['Country'] == selected_country].values[0]
+g_type = df['G_Type'].loc[df['Country'] == selected_country].values[0]
 
 # Function to match year with generation
 def get_generation(year):
@@ -123,7 +123,7 @@ if st.button('Create Story'):
     story.add_slide(slide1)
 
     pop2 = df[(df['Year'] == selected_year) & (df['Country'] == selected_country)]['Population'].sum()
-    title2 = f"There were {format_population(pop2)} people born in {selected_year} ({abr_country})"
+    title2 = f"You are one of {format_population(pop2)} people born in {selected_year} ({abr_country})"
 
     slide2 = Slide(
         Step(
@@ -153,7 +153,7 @@ if st.button('Create Story'):
                     'geometry': 'circle',
                     'color': 'Country',
                     'label': 'ISO3_code',
-                    'legend': None,
+                    #'legend': None,
                     'title': title3
                 }
             )
@@ -224,8 +224,7 @@ if st.button('Create Story'):
                     'x': 'Population',
                     'color': 'Generation',
                     'stackedBy': 'Generation',
-                    'lightness': {selected_year},
-                    'title': f"Distribution of {selected_gender}s born since 1950 ({abr_country})"
+                    'title': f"Distribution of {g_type} born since 1950 ({abr_country})"
                 }
             )
         )
@@ -241,7 +240,7 @@ if st.button('Create Story'):
                     'y': 'Population',
                     'y': 'ISO3_code',
                     'color': 'Country',
-                    'title': f"Distribution of of all {selected_gender}s born since 1950 ({subregion})"
+                    'title': f"Distribution of of all {g_type} born since 1950 ({subregion})"
                 }
             )
         )
@@ -255,7 +254,7 @@ if st.button('Create Story'):
                     'y': 'ISO3_code',
                     'stackedBy': 'Generation',
                     'color': 'Generation',
-                    'title': f"Distribution of all {selected_gender}s born since 1950 ({subregion})"
+                    'title': f"Distribution of all {g_type} born since 1950 ({subregion})"
                 }
             )
         )
@@ -271,7 +270,7 @@ if st.button('Create Story'):
                     'x': 'Population',
                     'y': 'Subregion',
                     'color': 'Country',
-                    'title': f"Distribution of all {selected_gender}s born since 1950 ({continent})"
+                    'title': f"Distribution of all {g_type} born since 1950 ({continent})"
                 }
             )
         )
@@ -285,7 +284,7 @@ if st.button('Create Story'):
                     'y': 'Subregion',
                     'stackedBy': 'Generation',
                     'color': 'Generation',
-                    'title': f"Distribution of all {selected_gender}s born since 1950 ({continent})"
+                    'title': f"Distribution of all {g_type} born since 1950 ({continent})"
                 }
             )
         )
@@ -301,7 +300,7 @@ if st.button('Create Story'):
                     'x': 'Continent',
                     'y': 'Population',
                     'color': 'Generation',
-                    'title': f"Distribution of all {selected_gender}s born since 1950 Worldwide"
+                    'title': f"Distribution of all {g_type} born since 1950 Worldwide"
                 }
             )
         )
@@ -315,7 +314,7 @@ if st.button('Create Story'):
                     'y': 'Population',
                     'stackedBy': 'Generation',
                     'color': 'Generation',
-                    'title': f"Distribution of all {selected_gender}s born since 1950 Worldwide"
+                    'title': f"Distribution of all {g_type} born since 1950 worldwide"
                 }
             )
         )
