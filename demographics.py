@@ -76,11 +76,16 @@ def get_generation(year):
 
 # Number input for year with automatic generation matching
 selected_year = st.slider('Year Born', min_value=1950, max_value=2024, value=1980)
-df['SelectedYear'] = df['Year'].apply(lambda x: 'yes' if x == selected_year else 'no')
 generation = get_generation(selected_year)
 
 
 if st.button('Create Story'):
+
+    # Add 'SelectedYear' column to indicate whether the year is the selected year
+    df['SelectedYear'] = df['Year'].apply(lambda x: 'yes' if x == selected_year else 'no')
+
+    # Calculate the total population for the selected year
+    t_pop = df[df['SelectedYear'] == 'yes']['Population'].sum()
 
     # Wrap the presentation in a centered div
     st.markdown('<div class="centered">', unsafe_allow_html=True)
