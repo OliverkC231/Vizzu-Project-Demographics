@@ -113,7 +113,6 @@ if st.button('Create Story'):
                     'size': 'Population',
                     'geometry': 'circle',
                     'label': 'Population',
-                    'legend': 'None'
                     'title': title1
                 }
             )
