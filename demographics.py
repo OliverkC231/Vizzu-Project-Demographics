@@ -224,6 +224,7 @@ if st.button('Create Story'):
                     'x': 'Population',
                     'color': 'Generation',
                     'stackedBy': 'Generation',
+                    'lightness': {selected_year},
                     'title': f"Distribution of {selected_gender}s born since 1950 ({abr_country})"
                 }
             )
