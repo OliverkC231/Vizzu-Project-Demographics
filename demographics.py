@@ -260,8 +260,7 @@ if st.button('Create Story'):
             Config.bar(
                 {
                     'x': 'Population',
-                    'color': 'Generation',
-                    'lightness': 'YearType',
+                    'color': 'YearType',
                     'title': title6
                 }
             )
