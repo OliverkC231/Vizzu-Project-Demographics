@@ -237,7 +237,7 @@ if st.button('Create Story'):
             Config.bar(
                 {
                     'y': 'Population',
-                    'y': 'Country',
+                    'y': 'ISO3_code',
                     'color': 'Country',
                     'title': f"Distribution of of all {selected_gender}s born since 1950 ({subregion})"
                 }
@@ -250,7 +250,7 @@ if st.button('Create Story'):
             Config.stackedBar(
                 {
                     'x': 'Population',
-                    'y': 'Country',
+                    'y': 'ISO3_code',
                     'stackedBy': 'Generation',
                     'color': 'Generation',
                     'title': f"Distribution of all {selected_gender}s born since 1950 ({subregion})"
