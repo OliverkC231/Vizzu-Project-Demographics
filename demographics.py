@@ -192,7 +192,6 @@ if st.button('Create Story'):
                     'geometry': 'circle',
                     'color': 'Continent',
                     'label': 'Continent',
-                    'legend': 'Population',
                     'title': title5
                 }
             )
@@ -225,7 +224,6 @@ if st.button('Create Story'):
                     'x': 'Population',
                     'color': 'Generation',
                     'stackedBy': 'Generation',
-                    'legend': 'Generation',
                     'title': f"Distribution of {g_type} born since 1950 ({abr_country})"
                 }
             )
