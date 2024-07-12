@@ -102,7 +102,7 @@ if st.button('Create Story'):
 
     # Slide 1: No. of people with the same sex, born in the same year, same country
     pop1 = df[(df['Year'] == selected_year) & (df['Country'] == selected_country) & (df['Gender'] == selected_gender)]['Population'].sum()
-    title1 = f"You are one of {format_population(pop1)} {selected_gender}s born in {selected_year} ({abr_country})"
+    title1 = f"You are one of {format_population(pop1)} {g_type} born in {selected_year} ({abr_country})"
 
     # Slide 1: No. of people with the same sex, born in the same year, same country
     slide1 = Slide(
@@ -142,7 +142,7 @@ if st.button('Create Story'):
     story.add_slide(slide2)
 
     pop3 = df[(df['Subregion'] == subregion) & (df['Year'] == selected_year) & (df['Gender'] == selected_gender)]['Population'].sum()
-    title3 = f"You are one of {format_population(pop3)} {selected_gender}s born in {selected_year} ({subregion})"
+    title3 = f"You are one of {format_population(pop3)} {g_type} born in {selected_year} ({subregion})"
 
     slide3 = Slide(
         Step(
@@ -162,7 +162,7 @@ if st.button('Create Story'):
     story.add_slide(slide3)
 
     pop4 = df[(df['Continent'] == continent) & (df['Year'] == selected_year) & (df['Gender'] == selected_gender)]['Population'].sum()
-    title4 = f"You are one of {format_population(pop4)} {selected_gender}s born in {selected_year} ({continent})"
+    title4 = f"You are one of {format_population(pop4)} {g_type} born in {selected_year} ({continent})"
 
     slide4 = Slide(
         Step(
@@ -181,7 +181,7 @@ if st.button('Create Story'):
     story.add_slide(slide4)
 
     pop5 = df[(df['Year'] == selected_year) & (df['Gender'] == selected_gender)]['Population'].sum()
-    title5 = f"You are one of {format_population(pop5)} {selected_gender}s born in {selected_year} in the World"
+    title5 = f"You are one of {format_population(pop5)} {g_type} born in {selected_year} in the world"
 
     slide5 = Slide(
         Step(
@@ -200,7 +200,7 @@ if st.button('Create Story'):
     story.add_slide(slide5)
 
     pop6 = df[(df['Country'] == selected_country) & (df['Generation'] == generation) & (df['Gender'] == selected_gender)]['Population'].sum()
-    title6 = f"You are one of {format_population(pop6)} {selected_gender} {generation}s born ({abr_country})"
+    title6 = f"You are one of {format_population(pop6)} {g_type} {generation}s born ({abr_country})"
 
     slide6 = Slide(
         Step(
