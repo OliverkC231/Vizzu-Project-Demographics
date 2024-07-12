@@ -84,6 +84,11 @@ with col3:
     selected_year = st.slider('Year Born', min_value=1950, max_value=2024, value=1980)
     generation = get_generation(selected_year)
 
+def get_color(year):
+    if year == selected_year:
+        return "Yes"
+
+color = get_color(selected_year)
 
 if st.button('Create Story'):
 
@@ -254,11 +259,12 @@ if st.button('Create Story'):
 
     slide6 = Slide(
         Step(
-            Data.filter(f"record['Country'] == '{selected_country}' && record['Generation'] == '{generation}' && record['Gender'] == '{selected_gender}'"),
+            Data.filter(f"record['Country'] == '{selected_country}' && record['Generation'] == '{generation}' && record['Gender'] == '{selected_gender}' && record['Color'] == '{color}'"),
             Config.bar(
                 {
                     'x': 'Population',
                     'color': 'Generation',
+                    'lightness': 'Color',
                     'title': title6
                 }
             )
