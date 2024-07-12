@@ -152,8 +152,7 @@ if st.button('Create Story'):
                     'size': 'Population',
                     'geometry': 'circle',
                     'color': 'Country',
-                    'label': 'ISO3_code',
-                    'legend': None,
+                    'label': 'Population',
                     'title': title3
                 }
             )
@@ -172,7 +171,7 @@ if st.button('Create Story'):
                     'size': 'Population',
                     'geometry': 'circle',
                     'color': 'Country',
-                    'label': 'ISO3_code',
+                    'label': 'Population',
                     'title': title4
                 }
             )
@@ -191,7 +190,7 @@ if st.button('Create Story'):
                     'size': 'Population',
                     'geometry': 'circle',
                     'color': 'Continent',
-                    'label': 'Continent',
+                    'label': 'Population',
                     'title': title5
                 }
             )
