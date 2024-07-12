@@ -153,6 +153,7 @@ if st.button('Create Story'):
                     'geometry': 'circle',
                     'color': 'Country',
                     'label': 'Population',
+                    'legend': None,
                     'title': title3
                 }
             )
