@@ -250,7 +250,7 @@ if st.button('Create Story'):
     story.add_slide(slide5)
 
     pop6 = df[(df['Country'] == selected_country) & (df['Generation'] == generation) & (df['Gender'] == selected_gender)]['Population'].sum()
-    title6 = f"You are one of {format_population(pop6)} {gender2}s {generation}s born ({abr_country})"
+    title6 = f"You are one of {format_population(pop6)} {gender2} {generation}s born ({abr_country})"
 
     slide6 = Slide(
         Step(
