@@ -259,7 +259,6 @@ if st.button('Create Story'):
                 {
                     'x': 'Population',
                     'color': 'Generation',
-                    'legend': 'Generation',
                     'title': title6
                 }
             )
