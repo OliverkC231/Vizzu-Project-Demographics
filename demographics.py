@@ -113,6 +113,7 @@ if st.button('Create Story'):
                     'size': 'Population',
                     'geometry': 'circle',
                     'label': 'Population',
+                    'legend': 'None'
                     'title': title1
                 }
             )
@@ -221,7 +222,7 @@ if st.button('Create Story'):
                     'x': 'Population',
                     'color': 'Generation',
                     'stackedBy': 'Generation',
-                    'title': f"Distribution of everyone born since 1950 ({abr_country})"
+                    'title': f"Distribution of {selected_gender}s born since 1950 ({abr_country})"
                 }
             )
         )
