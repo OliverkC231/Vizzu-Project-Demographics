@@ -247,7 +247,6 @@ if st.button('Create Story'):
             )
         )
     )
-
     story.add_slide(slide5)
 
     pop6 = df[(df['Country'] == selected_country) & (df['Generation'] == generation) & (df['Gender'] == selected_gender)]['Population'].sum()
