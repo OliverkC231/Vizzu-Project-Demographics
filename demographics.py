@@ -184,7 +184,8 @@ if st.button('Create Story'):
     pop4 = df[(df['Continent'] == continent) & (df['Year'] == selected_year) & (df['Gender'] == selected_gender)]['Population'].sum()
     title4 = f"You are one of {format_population(pop4)} {g_type} born in {selected_year} ({continent})"
 
-    slide4 = Slide(
+    slide4 = Slide()
+    slide4.add_step(
         Step(
             Data.filter(f"record['Continent'] == '{continent}' && record['Year'] == {selected_year} && record['Gender'] == '{selected_gender}'"),
             Config(
@@ -198,14 +199,41 @@ if st.button('Create Story'):
             )
         )
     )
+    slide4.add(
+        Step(
+        Config(
+                {
+                    'size': 'Population',
+                    'geometry': 'circle',
+                    'color': 'Country',
+                    'label': 'Population',
+                    'title': title4
+                }
+            )
+        )
+    )
     story.add_slide(slide4)
 
     pop5 = df[(df['Year'] == selected_year) & (df['Gender'] == selected_gender)]['Population'].sum()
     title5 = f"You are one of {format_population(pop5)} {g_type} born in {selected_year} in the world"
 
-    slide5 = Slide(
+    slide5 = Slide()
+    slide5.add_step(
         Step(
             Data.filter(f"record['Year'] == '{selected_year}' && record['Gender'] == '{selected_gender}'"),
+            Config(
+                {
+                    'size': 'Population',
+                    'geometry': 'circle',
+                    'color': 'Continent',
+                    'label': 'Continent',
+                    'title': title5
+                }
+            )
+        )
+    )
+    slide5.add_step(
+        Step(
             Config(
                 {
                     'size': 'Population',
@@ -217,6 +245,7 @@ if st.button('Create Story'):
             )
         )
     )
+
     story.add_slide(slide5)
 
     pop6 = df[(df['Country'] == selected_country) & (df['Generation'] == generation) & (df['Gender'] == selected_gender)]['Population'].sum()
@@ -229,6 +258,7 @@ if st.button('Create Story'):
                 {
                     'x': 'Population',
                     'color': 'Generation',
+                    'legend': 'Generation',
                     'title': title6
                 }
             )
