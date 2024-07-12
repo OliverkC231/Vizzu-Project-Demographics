@@ -173,7 +173,6 @@ if st.button('Create Story'):
                     'geometry': 'circle',
                     'color': 'Country',
                     'label': 'ISO3_code',
-                    'legend': None,
                     'title': title4
                 }
             )
