@@ -1,9 +1,9 @@
-from streamlit.components.v1 import html
+import pandas as pd
 import ssl
 import streamlit as st
-import pandas as pd
 from ipyvizzu import Data, Config, Style
 from ipyvizzustory import Story, Slide, Step
+from streamlit.components.v1 import html
 
 # Set the app title and configuration
 st.set_page_config(page_title='World Population Streamlit Story', layout='centered')
@@ -33,16 +33,12 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-
 # Fix SSL context
 ssl._create_default_https_context = ssl._create_unverified_context
 
-# Define the dimensions for the visualization
-width = 600
-height = 450
-
 # Load and prepare the data
-df = pd.read_csv('data.csv', encoding='ISO-8859-1')
+initial_csv_path = 'data.csv'  # Adjusted path for local execution
+df = pd.read_csv(initial_csv_path, encoding='ISO-8859-1')
 
 # Create columns for the selections
 col1, col2, col3 = st.columns(3)
@@ -84,14 +80,20 @@ with col3:
     selected_year = st.slider('Year Born', min_value=1950, max_value=2024, value=1980)
     generation = get_generation(selected_year)
 
+# Add new column to mark selected year
+df['IsSelectedYear'] = df['Year'].apply(lambda x: 'yes' if x == selected_year else 'no')
+
 if st.button('Create Story'):
 
     # Wrap the presentation in a centered div
     st.markdown('<div class="centered">', unsafe_allow_html=True)
 
+    # Define the dimensions for the visualization
+    width = 600
+    height = 450
     # Initialize the ipyvizzu Data object
     vizzu_data = Data()
-    vizzu_data.add_df(df)
+    vizzu_data.add_df(df)  # Use the updated DataFrame directly
 
     # Initialize the story
     story = Story(data=vizzu_data)
@@ -257,7 +259,7 @@ if st.button('Create Story'):
             Config.bar(
                 {
                     'x': 'Population',
-                    'color': 'Generation',
+                    'color': 'IsSelectedYear',
                     'title': title6
                 }
             )
