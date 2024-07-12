@@ -80,6 +80,9 @@ generation = get_generation(selected_year)
 
 
 if st.button('Create Story'):
+
+    df['SelectedYear'] = df['Year'].apply(lambda x: 'yes' if x == selected_year else 'no')
+
     # Wrap the presentation in a centered div
     st.markdown('<div class="centered">', unsafe_allow_html=True)
 
@@ -204,11 +207,12 @@ if st.button('Create Story'):
 
     slide6 = Slide(
         Step(
-            Data.filter(f"record['Country'] == '{selected_country}' && record['Generation'] == '{generation}' && record['Gender'] == '{selected_gender}'"),
+            Data.filter(f"record['Country'] == '{selected_country}' && record['Generation'] == '{generation}' && record['Gender'] == '{selected_gender}' && record['SelectedYear']"),
             Config.bar(
                 {
                     'x': 'Population',
                     'color': 'Generation',
+                    'lightness': 'SelectedYear',
                     'title': title6
                 }
             )
