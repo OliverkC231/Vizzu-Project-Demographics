@@ -199,7 +199,7 @@ if st.button('Create Story'):
             )
         )
     )
-    slide4.add(
+    slide4.add_step(
         Step(
         Config(
                 {
