@@ -84,9 +84,6 @@ with col3:
     selected_year = st.slider('Year Born', min_value=1950, max_value=2024, value=1980)
     generation = get_generation(selected_year)
 
-# Add new column to mark selected year within the generation
-df['IsSelectedYear'] = df.apply(lambda row: 'yes' if row['Year'] == selected_year else 'no', axis=1)
-
 if st.button('Create Story'):
 
     # Wrap the presentation in a centered div
@@ -256,11 +253,11 @@ if st.button('Create Story'):
 
     slide6 = Slide(
         Step(
-            Data.filter(f"record['Country'] == '{selected_country}' && record['Generation'] == '{generation}' && record['Gender'] == '{selected_gender}' && record['IsSelectedYear']"),
+            Data.filter(f"record['Country'] == '{selected_country}' && record['Generation'] == '{generation}' && record['Gender'] == '{selected_gender}'"),
             Config.bar(
                 {
                     'x': 'Population',
-                    'color': 'IsSelectedYear',
+                    'color': 'Generation',
                     'title': title6
                 }
             )
