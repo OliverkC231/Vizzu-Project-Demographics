@@ -58,6 +58,8 @@ continent = df['Continent'].loc[df['Country'] == selected_country].drop_duplicat
 gender_list = df['Gender'].drop_duplicates()
 selected_gender = st.selectbox('Gender:', gender_list)
 
+# g_type = df['G_Type'].loc[df['Country'] == selected_country].values[0]
+
 # Function to match year with generation
 def get_generation(year):
     if 1946 <= year <= 1964:
@@ -220,7 +222,6 @@ if st.button('Create Story'):
                 {
                     'x': 'Population',
                     'color': 'Generation',
-                    'lightness': {selected_year},
                     'stackedBy': 'Generation',
                     'title': f"Distribution of {selected_gender}s born since 1950 ({abr_country})"
                 }
