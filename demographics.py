@@ -62,6 +62,8 @@ with col2:
     gender_list = df['Gender'].drop_duplicates()
     selected_gender = st.selectbox('Gender:', gender_list)
 
+gender2 = df['Gender2'].loc[df['Country'] == selected_country].values[0]
+
 g_type = df['G_Type'].loc[df['Country'] == selected_country].values[0]
 
 # Function to match year with generation
@@ -249,7 +251,7 @@ if st.button('Create Story'):
     story.add_slide(slide5)
 
     pop6 = df[(df['Country'] == selected_country) & (df['Generation'] == generation) & (df['Gender'] == selected_gender)]['Population'].sum()
-    title6 = f"You are one of {format_population(pop6)} {g_type} {generation}s born ({abr_country})"
+    title6 = f"You are one of {format_population(pop6)} {gender2}s {generation}s born ({abr_country})"
 
     slide6 = Slide(
         Step(
