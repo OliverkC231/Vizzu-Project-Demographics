@@ -260,7 +260,7 @@ if st.button('Create Story'):
                 {
                     'x': 'Population',
                     'color': 'Generation',
-                    'lightness': '[IsSelectedYear && Population]',
+                    'lightness': ['IsSelectedYear', 'Population'],
                     'title': title6
                 }
             )
