@@ -149,7 +149,8 @@ if st.button('Create Story'):
     pop3 = df[(df['Subregion'] == subregion) & (df['Year'] == selected_year) & (df['Gender'] == selected_gender)]['Population'].sum()
     title3 = f"You are one of {format_population(pop3)} {g_type} born in {selected_year} ({subregion})"
 
-    slide3 = Slide(
+    slide3 = Slide()
+    slide3.add_step(
         Step(
             Data.filter(f"record['Subregion'] == '{subregion}' && record['Year'] == {selected_year} && record['Gender'] == '{selected_gender}'"),
             Config(
@@ -158,6 +159,20 @@ if st.button('Create Story'):
                     'geometry': 'circle',
                     'color': 'Country',
                     'label': 'ISO3_code',
+                    'legend': None,
+                    'title': title3
+                }
+            )
+        )
+    )
+    slide3.add_step(
+        Step(
+            Config(
+                {
+                    'size': 'Population',
+                    'geometry': 'circle',
+                    'color': 'Country',
+                    'label': 'Population',
                     'legend': None,
                     'title': title3
                 }
