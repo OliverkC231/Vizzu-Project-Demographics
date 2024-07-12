@@ -266,6 +266,15 @@ if st.button('Create Story'):
                     'color': 'IsSelectedYear',
                     'title': title6
                 }
+            ),
+            Style(
+                {
+                    "plot": {
+                        "marker": {
+                            "colorPalette": ["#1f77b4", "#ff7f0e"]  # Colors for "no" and "yes"
+                        }
+                    }
+                }
             )
         )
     )
