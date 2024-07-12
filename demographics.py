@@ -44,9 +44,12 @@ height = 450
 # Load and prepare the data
 df = pd.read_csv('data.csv', encoding='ISO-8859-1')
 
-# Create form
-country_list = df['Country'].drop_duplicates()
-selected_country = st.selectbox('Country:', country_list)
+# Create columns for the selections
+col1, col2, col3 = st.columns(3)
+
+with col1:
+    country_list = df['Country'].drop_duplicates()
+    selected_country = st.selectbox('Country:', country_list)
 
 abr_country = df['ISO3_code'].loc[df['Country'] == selected_country].values[0]
 
@@ -55,8 +58,9 @@ subregion = df['Subregion'].loc[df['Country'] == selected_country].drop_duplicat
 
 continent = df['Continent'].loc[df['Country'] == selected_country].drop_duplicates().values[0]
 
-gender_list = df['Gender'].drop_duplicates()
-selected_gender = st.selectbox('Gender:', gender_list)
+with col2:
+    gender_list = df['Gender'].drop_duplicates()
+    selected_gender = st.selectbox('Gender:', gender_list)
 
 g_type = df['G_Type'].loc[df['Country'] == selected_country].values[0]
 
@@ -65,27 +69,21 @@ def get_generation(year):
     if 1946 <= year <= 1964:
         return "Baby Boomer"
     elif 1965 <= year <= 1980:
-            return "Gen X"
+        return "Gen X"
     elif 1981 <= year <= 1996:
         return "Millennial"
     elif 1997 <= year <= 2012:
         return "Gen Z"
     else: 
         return "Gen A"
-    
 
-# Number input for year with automatic generation matching
-selected_year = st.slider('Year Born', min_value=1950, max_value=2024, value=1980)
-generation = get_generation(selected_year)
+with col3:
+    # Number input for year with automatic generation matching
+    selected_year = st.slider('Year Born', min_value=1950, max_value=2024, value=1980)
+    generation = get_generation(selected_year)
 
 
 if st.button('Create Story'):
-
-    # Add 'SelectedYear' column to indicate whether the year is the selected year
-    df['SelectedYear'] = df['Year'].apply(lambda x: 'yes' if x == selected_year else 'no')
-
-    # Calculate the total population for the selected year
-    t_pop = df[df['SelectedYear'] == 'yes']['Population'].sum()
 
     # Wrap the presentation in a centered div
     st.markdown('<div class="centered">', unsafe_allow_html=True)
