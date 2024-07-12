@@ -84,8 +84,8 @@ with col3:
     selected_year = st.slider('Year Born', min_value=1950, max_value=2024, value=1980)
     generation = get_generation(selected_year)
 
-# Add new column to distinguish selected year
-df['YearType'] = df.apply(lambda row: 'Selected Year' if row['Year'] == selected_year else 'Other Years', axis=1)
+# Add new column to mark selected year within the generation
+df['IsSelectedYear'] = df.apply(lambda row: 'yes' if row['Year'] == selected_year else 'no', axis=1)
 
 if st.button('Create Story'):
 
@@ -260,7 +260,7 @@ if st.button('Create Story'):
             Config.bar(
                 {
                     'x': 'Population',
-                    'color': 'YearType',
+                    'color': 'IsSelectedYear',
                     'title': title6
                 }
             )
