@@ -63,15 +63,15 @@ g_type = df['G_Type'].loc[df['Country'] == selected_country].values[0]
 # Function to match year with generation
 def get_generation(year):
     if 1946 <= year <= 1964:
-        return "Baby Boomers"
+        return "Baby Boomer"
     elif 1965 <= year <= 1980:
-            return "Generation X"
+            return "Gen X"
     elif 1981 <= year <= 1996:
-        return "Millennial Generation"
+        return "Millennial"
     elif 1997 <= year <= 2012:
-        return "Generation Z"
+        return "Gen Z"
     else: 
-        return "Generation Alpha"
+        return "Gen A"
     
 
 # Number input for year with automatic generation matching
