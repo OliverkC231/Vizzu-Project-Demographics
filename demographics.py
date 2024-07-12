@@ -370,7 +370,6 @@ if st.button('Create Story'):
                     'y': 'Population',
                     'stackedBy': 'Generation',
                     'color': 'Generation',
-                    'label': 'Population',
                     'title': f"Distribution of all {g_type} born since 1950 worldwide"
                 }
             )
