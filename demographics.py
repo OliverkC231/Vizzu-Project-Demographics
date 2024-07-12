@@ -255,7 +255,7 @@ if st.button('Create Story'):
 
     slide6 = Slide(
         Step(
-            Data.filter(f"record['Country'] == '{selected_country}' && record['Generation'] == '{generation}' && record['Gender'] == '{selected_gender}' && record['IsSelectedYear']"),
+            Data.filter(f"record['Country'] == '{selected_country}' && record['Generation'] == '{generation}' && record['Gender'] == '{selected_gender}'"),
             Config.bar(
                 {
                     'x': 'Population',
