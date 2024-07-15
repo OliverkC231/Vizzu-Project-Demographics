@@ -58,8 +58,6 @@ with col2:
     gender_list = df['Gender'].drop_duplicates()
     selected_gender = st.selectbox('Gender:', gender_list)
 
-gender2 = df['Gender2'].loc[df['Country'] == selected_country].values[0]
-
 g_type = df['G_Type'].loc[df['Country'] == selected_country].values[0]
 
 # Function to match year with generation
@@ -115,7 +113,7 @@ if st.button('Create Story'):
 
     # Slide 1: No. of people with the same sex, born in the same year, same country
     pop1 = df[(df['Year'] == selected_year) & (df['Country'] == selected_country) & (df['Gender'] == selected_gender)]['Population'].sum()
-    title1 = f"You are one of {format_population(pop1)} {g_type} born in {selected_year} ({abr_country})"
+    title1 = f"You Are One of {format_population(pop1)} {g_type} Born in {selected_year} ({abr_country})"
 
     # Slide 1: No. of people with the same sex, born in the same year, same country
     slide1 = Slide(
@@ -136,7 +134,7 @@ if st.button('Create Story'):
     story.add_slide(slide1)
 
     pop2 = df[(df['Year'] == selected_year) & (df['Country'] == selected_country)]['Population'].sum()
-    title2 = f"You are one of {format_population(pop2)} people born in {selected_year} ({abr_country})"
+    title2 = f"You Are One of {format_population(pop2)} People Born in {selected_year} ({abr_country})"
 
     slide2 = Slide(
         Step(
@@ -155,7 +153,7 @@ if st.button('Create Story'):
     story.add_slide(slide2)
 
     pop3 = df[(df['Subregion'] == subregion) & (df['Year'] == selected_year)]['Population'].sum()
-    title3 = f"You are one of {format_population(pop3)} people born in {selected_year} ({subregion})"
+    title3 = f"You Are One of {format_population(pop3)} People Born in {selected_year} ({subregion})"
 
     slide3 = Slide()
     slide3.add_step(
@@ -176,7 +174,7 @@ if st.button('Create Story'):
     story.add_slide(slide3)
 
     pop4 = df[(df['Continent'] == continent) & (df['Year'] == selected_year) & (df['Gender'] == selected_gender)]['Population'].sum()
-    title4 = f"You are one of {format_population(pop4)} {g_type} born in {selected_year} ({continent})"
+    title4 = f"You are One of {format_population(pop4)} {g_type} Born in {selected_year} ({continent})"
 
     slide4 = Slide()
     slide4.add_step(
@@ -196,10 +194,9 @@ if st.button('Create Story'):
     story.add_slide(slide4)
 
     pop5 = df[(df['Year'] == selected_year) & (df['Gender'] == selected_gender)]['Population'].sum()
-    title5 = f"You are one of {format_population(pop5)} {g_type} born in {selected_year} in the world"
+    title5 = f"You Are One of {format_population(pop5)} {g_type} Born in {selected_year} in the World"
 
-    slide5 = Slide()
-    slide5.add_step(
+    slide5 = Slide(
         Step(
             Data.filter(f"record['Year'] == '{selected_year}' && record['Gender'] == '{selected_gender}'"),
             Config(
@@ -207,29 +204,15 @@ if st.button('Create Story'):
                     'size': 'Population',
                     'geometry': 'circle',
                     'color': 'Continent',
-                    'label': 'Continent',
+                    'label': ['Continent', 'Population'],
                     'title': title5
                 }
             )
         )
     )
-    slide5.add_step(
-        Step(
-            Config(
-                {
-                    'size': 'Population',
-                    'geometry': 'circle',
-                    'color': 'Continent',
-                    'label': 'Population',
-                    'title': title5
-                }
-            )
-        )
-    )
-    story.add_slide(slide5)
 
     pop6 = df[(df['Country'] == selected_country) & (df['Generation'] == generation) & (df['Gender'] == selected_gender)]['Population'].sum()
-    title6 = f"You are one of {format_population(pop6)} {gender2} {generation}s born ({abr_country})"
+    title6 = f"You Are One of {format_population(pop6)} {selected_gender} {generation}s Born ({abr_country})"
 
     slide6 = Slide(
         Step(
@@ -237,7 +220,7 @@ if st.button('Create Story'):
             Config.bar(
                 {
                     'x': 'Population',
-                    'color': 'IsSelectedYear',
+                    'color': 'Generation',
                     'title': title6
                 }
             )
@@ -253,7 +236,7 @@ if st.button('Create Story'):
                     'x': 'Population',
                     'color': 'Generation',
                     'stackedBy': 'Generation',
-                    'title': f"Distribution of {g_type} born since 1950 ({abr_country})"
+                    'title': f"Distribution of {g_type} Born Since 1950 ({abr_country})"
                 }
             )
         )
@@ -269,7 +252,7 @@ if st.button('Create Story'):
                     'y': 'Population',
                     'y': 'ISO3_code',
                     'color': 'Country',
-                    'title': f"Distribution of of all {g_type} born since 1950 ({subregion})"
+                    'title': f"Distribution of All {g_type} Born Since 1950 ({subregion})"
                 }
             )
         )
@@ -283,7 +266,7 @@ if st.button('Create Story'):
                     'y': 'ISO3_code',
                     'stackedBy': 'Generation',
                     'color': 'Generation',
-                    'title': f"Distribution of all {g_type} born since 1950 ({subregion})"
+                    'title': f"Distribution of All {g_type} Born Since 1950 ({subregion})"
                 }
             )
         )
@@ -299,7 +282,7 @@ if st.button('Create Story'):
                     'x': 'Population',
                     'y': 'Subregion',
                     'color': 'Country',
-                    'title': f"Distribution of all {g_type} born since 1950 ({continent})"
+                    'title': f"Distribution of All {g_type} Born Since 1950 ({continent})"
                 }
             )
         )
@@ -313,7 +296,7 @@ if st.button('Create Story'):
                     'y': 'Subregion',
                     'stackedBy': 'Generation',
                     'color': 'Generation',
-                    'title': f"Distribution of all {g_type} born since 1950 ({continent})"
+                    'title': f"Distribution of All {g_type} Born Since 1950 ({continent})"
                 }
             )
         )
@@ -329,7 +312,7 @@ if st.button('Create Story'):
                     'x': 'Continent',
                     'y': 'Population',
                     'color': 'Generation',
-                    'title': f"Distribution of all {g_type} born since 1950 Worldwide"
+                    'title': f"Distribution of All {g_type} Born Since 1950 Worldwide"
                 }
             )
         )
@@ -343,7 +326,7 @@ if st.button('Create Story'):
                     'y': 'Population',
                     'stackedBy': 'Generation',
                     'color': 'Generation',
-                    'title': f"Distribution of all {g_type} born since 1950 worldwide"
+                    'title': f"Distribution of All {g_type} Born Since 1950 Worldwide"
                 }
             )
         )
@@ -359,7 +342,7 @@ if st.button('Create Story'):
                     'geometry': 'circle',
                     'color': 'Generation',
                     'label': 'Generation',
-                    'title': f"Distribution of all {selected_gender}s born since 1950 Worldwide"
+                    'title': f"Distribution of All {selected_gender}s Born Since 1950 Worldwide"
                 }
             )
         )
