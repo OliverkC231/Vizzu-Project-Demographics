@@ -343,7 +343,7 @@ if st.button('Create Story'):
             )
         )
         slide7.add_step(step)
-
+    else:
         # Then add the rest of the generations in reverse order
         included_generations = generations[start_index + 2:] + generations[:start_index - 1][::-1]
         for i in range(len(included_generations)):
