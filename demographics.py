@@ -343,11 +343,9 @@ if st.button('Create Story'):
             )
         )
         slide7.add_step(step)
-    else:
-        # Then add the rest of the generations in reverse order
-        included_generations = generations[start_index + 2:] + generations[:start_index - 1][::-1]
-        for i in range(len(included_generations)):
-            filter_condition = " || ".join([f"record['Generation'] == '{gen}'" for gen in initial_generations + included_generations[:i+1]])
+    elif generation == 'Gen A':
+        for i in range(start_index, len(generations)):
+            filter_condition = f"record['Generation'] == '{generations[i], -1, -1, -1, -1}'"
             step = Step(
                 Data.filter(f"record['Country'] == '{selected_country}' && ({filter_condition}) && record['Gender'] == '{selected_gender}'"),
                 Config.stackedBar(
