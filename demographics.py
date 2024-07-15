@@ -81,11 +81,6 @@ with col3:
 # Add new column to mark selected year
 df['IsSelectedYear'] = df['Year'].apply(lambda x: 'yes' if x == selected_year else 'no')
 
-# Display the DataFrame to check if the new column is added correctly
-st.write("DataFrame with 'IsSelectedYear' column added:")
-st.dataframe(df.head(10))  # Display the first 10 rows for inspection
-
-
 if st.button('Create Story'):
 
     # Wrap the presentation in a centered div
