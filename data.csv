@@ -675,81 +675,81 @@ Year,ISO3_code,Country,Subregion,Continent,Population,Gender,G_Type,Generation
 2022,ARG,Argentina,South America,South America,321675,Male,Boys,Gen A
 2023,ARG,Argentina,South America,South America,320198,Male,Boys,Gen A
 2024,ARG,Argentina,South America,South America,319526,Male,Boys,Gen A
-1950,ARM,ArBoysia,Western Asia,Asia,25025,Male,Boys,Baby Boomer
-1951,ARM,ArBoysia,Western Asia,Asia,26169,Male,Boys,Baby Boomer
-1952,ARM,ArBoysia,Western Asia,Asia,27277,Male,Boys,Baby Boomer
-1953,ARM,ArBoysia,Western Asia,Asia,28569,Male,Boys,Baby Boomer
-1954,ARM,ArBoysia,Western Asia,Asia,30010,Male,Boys,Baby Boomer
-1955,ARM,ArBoysia,Western Asia,Asia,31548,Male,Boys,Baby Boomer
-1956,ARM,ArBoysia,Western Asia,Asia,33733,Male,Boys,Baby Boomer
-1957,ARM,ArBoysia,Western Asia,Asia,35618,Male,Boys,Baby Boomer
-1958,ARM,ArBoysia,Western Asia,Asia,37263,Male,Boys,Baby Boomer
-1959,ARM,ArBoysia,Western Asia,Asia,38913,Male,Boys,Baby Boomer
-1960,ARM,ArBoysia,Western Asia,Asia,39912,Male,Boys,Baby Boomer
-1961,ARM,ArBoysia,Western Asia,Asia,39885,Male,Boys,Baby Boomer
-1962,ARM,ArBoysia,Western Asia,Asia,38919,Male,Boys,Baby Boomer
-1963,ARM,ArBoysia,Western Asia,Asia,37379,Male,Boys,Baby Boomer
-1964,ARM,ArBoysia,Western Asia,Asia,35459,Male,Boys,Baby Boomer
-1965,ARM,ArBoysia,Western Asia,Asia,33803,Male,Boys,Gen X
-1966,ARM,ArBoysia,Western Asia,Asia,32297,Male,Boys,Gen X
-1967,ARM,ArBoysia,Western Asia,Asia,31530,Male,Boys,Gen X
-1968,ARM,ArBoysia,Western Asia,Asia,31195,Male,Boys,Gen X
-1969,ARM,ArBoysia,Western Asia,Asia,30814,Male,Boys,Gen X
-1970,ARM,ArBoysia,Western Asia,Asia,30856,Male,Boys,Gen X
-1971,ARM,ArBoysia,Western Asia,Asia,31288,Male,Boys,Gen X
-1972,ARM,ArBoysia,Western Asia,Asia,31710,Male,Boys,Gen X
-1973,ARM,ArBoysia,Western Asia,Asia,32334,Male,Boys,Gen X
-1974,ARM,ArBoysia,Western Asia,Asia,33220,Male,Boys,Gen X
-1975,ARM,ArBoysia,Western Asia,Asia,34222,Male,Boys,Gen X
-1976,ARM,ArBoysia,Western Asia,Asia,35297,Male,Boys,Gen X
-1977,ARM,ArBoysia,Western Asia,Asia,36895,Male,Boys,Gen X
-1978,ARM,ArBoysia,Western Asia,Asia,38152,Male,Boys,Gen X
-1979,ARM,ArBoysia,Western Asia,Asia,39547,Male,Boys,Gen X
-1980,ARM,ArBoysia,Western Asia,Asia,40639,Male,Boys,Gen X
-1981,ARM,ArBoysia,Western Asia,Asia,41811,Male,Boys,Millennial
-1982,ARM,ArBoysia,Western Asia,Asia,42783,Male,Boys,Millennial
-1983,ARM,ArBoysia,Western Asia,Asia,44403,Male,Boys,Millennial
-1984,ARM,ArBoysia,Western Asia,Asia,45337,Male,Boys,Millennial
-1985,ARM,ArBoysia,Western Asia,Asia,45157,Male,Boys,Millennial
-1986,ARM,ArBoysia,Western Asia,Asia,44448,Male,Boys,Millennial
-1987,ARM,ArBoysia,Western Asia,Asia,43775,Male,Boys,Millennial
-1988,ARM,ArBoysia,Western Asia,Asia,42932,Male,Boys,Millennial
-1989,ARM,ArBoysia,Western Asia,Asia,42419,Male,Boys,Millennial
-1990,ARM,ArBoysia,Western Asia,Asia,44307,Male,Boys,Millennial
-1991,ARM,ArBoysia,Western Asia,Asia,42658,Male,Boys,Millennial
-1992,ARM,ArBoysia,Western Asia,Asia,40050,Male,Boys,Millennial
-1993,ARM,ArBoysia,Western Asia,Asia,34692,Male,Boys,Millennial
-1994,ARM,ArBoysia,Western Asia,Asia,31332,Male,Boys,Millennial
-1995,ARM,ArBoysia,Western Asia,Asia,28814,Male,Boys,Millennial
-1996,ARM,ArBoysia,Western Asia,Asia,27298,Male,Boys,Millennial
-1997,ARM,ArBoysia,Western Asia,Asia,25954,Male,Boys,Gen Z
-1998,ARM,ArBoysia,Western Asia,Asia,24391,Male,Boys,Gen Z
-1999,ARM,ArBoysia,Western Asia,Asia,23113,Male,Boys,Gen Z
-2000,ARM,ArBoysia,Western Asia,Asia,21566,Male,Boys,Gen Z
-2001,ARM,ArBoysia,Western Asia,Asia,20695,Male,Boys,Gen Z
-2002,ARM,ArBoysia,Western Asia,Asia,20530,Male,Boys,Gen Z
-2003,ARM,ArBoysia,Western Asia,Asia,20851,Male,Boys,Gen Z
-2004,ARM,ArBoysia,Western Asia,Asia,21276,Male,Boys,Gen Z
-2005,ARM,ArBoysia,Western Asia,Asia,21464,Male,Boys,Gen Z
-2006,ARM,ArBoysia,Western Asia,Asia,19194,Male,Boys,Gen Z
-2007,ARM,ArBoysia,Western Asia,Asia,20374,Male,Boys,Gen Z
-2008,ARM,ArBoysia,Western Asia,Asia,20945,Male,Boys,Gen Z
-2009,ARM,ArBoysia,Western Asia,Asia,22725,Male,Boys,Gen Z
-2010,ARM,ArBoysia,Western Asia,Asia,21982,Male,Boys,Gen Z
-2011,ARM,ArBoysia,Western Asia,Asia,22045,Male,Boys,Gen Z
-2012,ARM,ArBoysia,Western Asia,Asia,23540,Male,Boys,Gen Z
-2013,ARM,ArBoysia,Western Asia,Asia,23324,Male,Boys,Gen A
-2014,ARM,ArBoysia,Western Asia,Asia,24401,Male,Boys,Gen A
-2015,ARM,ArBoysia,Western Asia,Asia,22398,Male,Boys,Gen A
-2016,ARM,ArBoysia,Western Asia,Asia,22043,Male,Boys,Gen A
-2017,ARM,ArBoysia,Western Asia,Asia,20517,Male,Boys,Gen A
-2018,ARM,ArBoysia,Western Asia,Asia,19927,Male,Boys,Gen A
-2019,ARM,ArBoysia,Western Asia,Asia,19163,Male,Boys,Gen A
-2020,ARM,ArBoysia,Western Asia,Asia,18342,Male,Boys,Gen A
-2021,ARM,ArBoysia,Western Asia,Asia,17614,Male,Boys,Gen A
-2022,ARM,ArBoysia,Western Asia,Asia,16986,Male,Boys,Gen A
-2023,ARM,ArBoysia,Western Asia,Asia,16479,Male,Boys,Gen A
-2024,ARM,ArBoysia,Western Asia,Asia,15970,Male,Boys,Gen A
+1950,ARM,Armenia,Western Asia,Asia,25025,Male,Boys,Baby Boomer
+1951,ARM,Armenia,Western Asia,Asia,26169,Male,Boys,Baby Boomer
+1952,ARM,Armenia,Western Asia,Asia,27277,Male,Boys,Baby Boomer
+1953,ARM,Armenia,Western Asia,Asia,28569,Male,Boys,Baby Boomer
+1954,ARM,Armenia,Western Asia,Asia,30010,Male,Boys,Baby Boomer
+1955,ARM,Armenia,Western Asia,Asia,31548,Male,Boys,Baby Boomer
+1956,ARM,Armenia,Western Asia,Asia,33733,Male,Boys,Baby Boomer
+1957,ARM,Armenia,Western Asia,Asia,35618,Male,Boys,Baby Boomer
+1958,ARM,Armenia,Western Asia,Asia,37263,Male,Boys,Baby Boomer
+1959,ARM,Armenia,Western Asia,Asia,38913,Male,Boys,Baby Boomer
+1960,ARM,Armenia,Western Asia,Asia,39912,Male,Boys,Baby Boomer
+1961,ARM,Armenia,Western Asia,Asia,39885,Male,Boys,Baby Boomer
+1962,ARM,Armenia,Western Asia,Asia,38919,Male,Boys,Baby Boomer
+1963,ARM,Armenia,Western Asia,Asia,37379,Male,Boys,Baby Boomer
+1964,ARM,Armenia,Western Asia,Asia,35459,Male,Boys,Baby Boomer
+1965,ARM,Armenia,Western Asia,Asia,33803,Male,Boys,Gen X
+1966,ARM,Armenia,Western Asia,Asia,32297,Male,Boys,Gen X
+1967,ARM,Armenia,Western Asia,Asia,31530,Male,Boys,Gen X
+1968,ARM,Armenia,Western Asia,Asia,31195,Male,Boys,Gen X
+1969,ARM,Armenia,Western Asia,Asia,30814,Male,Boys,Gen X
+1970,ARM,Armenia,Western Asia,Asia,30856,Male,Boys,Gen X
+1971,ARM,Armenia,Western Asia,Asia,31288,Male,Boys,Gen X
+1972,ARM,Armenia,Western Asia,Asia,31710,Male,Boys,Gen X
+1973,ARM,Armenia,Western Asia,Asia,32334,Male,Boys,Gen X
+1974,ARM,Armenia,Western Asia,Asia,33220,Male,Boys,Gen X
+1975,ARM,Armenia,Western Asia,Asia,34222,Male,Boys,Gen X
+1976,ARM,Armenia,Western Asia,Asia,35297,Male,Boys,Gen X
+1977,ARM,Armenia,Western Asia,Asia,36895,Male,Boys,Gen X
+1978,ARM,Armenia,Western Asia,Asia,38152,Male,Boys,Gen X
+1979,ARM,Armenia,Western Asia,Asia,39547,Male,Boys,Gen X
+1980,ARM,Armenia,Western Asia,Asia,40639,Male,Boys,Gen X
+1981,ARM,Armenia,Western Asia,Asia,41811,Male,Boys,Millennial
+1982,ARM,Armenia,Western Asia,Asia,42783,Male,Boys,Millennial
+1983,ARM,Armenia,Western Asia,Asia,44403,Male,Boys,Millennial
+1984,ARM,Armenia,Western Asia,Asia,45337,Male,Boys,Millennial
+1985,ARM,Armenia,Western Asia,Asia,45157,Male,Boys,Millennial
+1986,ARM,Armenia,Western Asia,Asia,44448,Male,Boys,Millennial
+1987,ARM,Armenia,Western Asia,Asia,43775,Male,Boys,Millennial
+1988,ARM,Armenia,Western Asia,Asia,42932,Male,Boys,Millennial
+1989,ARM,Armenia,Western Asia,Asia,42419,Male,Boys,Millennial
+1990,ARM,Armenia,Western Asia,Asia,44307,Male,Boys,Millennial
+1991,ARM,Armenia,Western Asia,Asia,42658,Male,Boys,Millennial
+1992,ARM,Armenia,Western Asia,Asia,40050,Male,Boys,Millennial
+1993,ARM,Armenia,Western Asia,Asia,34692,Male,Boys,Millennial
+1994,ARM,Armenia,Western Asia,Asia,31332,Male,Boys,Millennial
+1995,ARM,Armenia,Western Asia,Asia,28814,Male,Boys,Millennial
+1996,ARM,Armenia,Western Asia,Asia,27298,Male,Boys,Millennial
+1997,ARM,Armenia,Western Asia,Asia,25954,Male,Boys,Gen Z
+1998,ARM,Armenia,Western Asia,Asia,24391,Male,Boys,Gen Z
+1999,ARM,Armenia,Western Asia,Asia,23113,Male,Boys,Gen Z
+2000,ARM,Armenia,Western Asia,Asia,21566,Male,Boys,Gen Z
+2001,ARM,Armenia,Western Asia,Asia,20695,Male,Boys,Gen Z
+2002,ARM,Armenia,Western Asia,Asia,20530,Male,Boys,Gen Z
+2003,ARM,Armenia,Western Asia,Asia,20851,Male,Boys,Gen Z
+2004,ARM,Armenia,Western Asia,Asia,21276,Male,Boys,Gen Z
+2005,ARM,Armenia,Western Asia,Asia,21464,Male,Boys,Gen Z
+2006,ARM,Armenia,Western Asia,Asia,19194,Male,Boys,Gen Z
+2007,ARM,Armenia,Western Asia,Asia,20374,Male,Boys,Gen Z
+2008,ARM,Armenia,Western Asia,Asia,20945,Male,Boys,Gen Z
+2009,ARM,Armenia,Western Asia,Asia,22725,Male,Boys,Gen Z
+2010,ARM,Armenia,Western Asia,Asia,21982,Male,Boys,Gen Z
+2011,ARM,Armenia,Western Asia,Asia,22045,Male,Boys,Gen Z
+2012,ARM,Armenia,Western Asia,Asia,23540,Male,Boys,Gen Z
+2013,ARM,Armenia,Western Asia,Asia,23324,Male,Boys,Gen A
+2014,ARM,Armenia,Western Asia,Asia,24401,Male,Boys,Gen A
+2015,ARM,Armenia,Western Asia,Asia,22398,Male,Boys,Gen A
+2016,ARM,Armenia,Western Asia,Asia,22043,Male,Boys,Gen A
+2017,ARM,Armenia,Western Asia,Asia,20517,Male,Boys,Gen A
+2018,ARM,Armenia,Western Asia,Asia,19927,Male,Boys,Gen A
+2019,ARM,Armenia,Western Asia,Asia,19163,Male,Boys,Gen A
+2020,ARM,Armenia,Western Asia,Asia,18342,Male,Boys,Gen A
+2021,ARM,Armenia,Western Asia,Asia,17614,Male,Boys,Gen A
+2022,ARM,Armenia,Western Asia,Asia,16986,Male,Boys,Gen A
+2023,ARM,Armenia,Western Asia,Asia,16479,Male,Boys,Gen A
+2024,ARM,Armenia,Western Asia,Asia,15970,Male,Boys,Gen A
 1950,ABW,Aruba,Caribbean,South America,890,Male,Boys,Baby Boomer
 1951,ABW,Aruba,Caribbean,South America,904,Male,Boys,Baby Boomer
 1952,ABW,Aruba,Caribbean,South America,914,Male,Boys,Baby Boomer
@@ -16275,81 +16275,81 @@ Year,ISO3_code,Country,Subregion,Continent,Population,Gender,G_Type,Generation
 2022,,Turkiye,Western Asia,Asia,633828,Male,Boys,Gen A
 2023,,Turkiye,Western Asia,Asia,621832,Male,Boys,Gen A
 2024,,Turkiye,Western Asia,Asia,612574,Male,Boys,Gen A
-1950,TKM,TurkBoysistan,Central Asia,Asia,23605,Male,Boys,Baby Boomer
-1951,TKM,TurkBoysistan,Central Asia,Asia,24442,Male,Boys,Baby Boomer
-1952,TKM,TurkBoysistan,Central Asia,Asia,25811,Male,Boys,Baby Boomer
-1953,TKM,TurkBoysistan,Central Asia,Asia,27226,Male,Boys,Baby Boomer
-1954,TKM,TurkBoysistan,Central Asia,Asia,28742,Male,Boys,Baby Boomer
-1955,TKM,TurkBoysistan,Central Asia,Asia,30405,Male,Boys,Baby Boomer
-1956,TKM,TurkBoysistan,Central Asia,Asia,32228,Male,Boys,Baby Boomer
-1957,TKM,TurkBoysistan,Central Asia,Asia,34181,Male,Boys,Baby Boomer
-1958,TKM,TurkBoysistan,Central Asia,Asia,36171,Male,Boys,Baby Boomer
-1959,TKM,TurkBoysistan,Central Asia,Asia,38062,Male,Boys,Baby Boomer
-1960,TKM,TurkBoysistan,Central Asia,Asia,39724,Male,Boys,Baby Boomer
-1961,TKM,TurkBoysistan,Central Asia,Asia,41057,Male,Boys,Baby Boomer
-1962,TKM,TurkBoysistan,Central Asia,Asia,41997,Male,Boys,Baby Boomer
-1963,TKM,TurkBoysistan,Central Asia,Asia,42534,Male,Boys,Baby Boomer
-1964,TKM,TurkBoysistan,Central Asia,Asia,42725,Male,Boys,Baby Boomer
-1965,TKM,TurkBoysistan,Central Asia,Asia,42668,Male,Boys,Gen X
-1966,TKM,TurkBoysistan,Central Asia,Asia,42496,Male,Boys,Gen X
-1967,TKM,TurkBoysistan,Central Asia,Asia,42362,Male,Boys,Gen X
-1968,TKM,TurkBoysistan,Central Asia,Asia,42388,Male,Boys,Gen X
-1969,TKM,TurkBoysistan,Central Asia,Asia,42638,Male,Boys,Gen X
-1970,TKM,TurkBoysistan,Central Asia,Asia,43129,Male,Boys,Gen X
-1971,TKM,TurkBoysistan,Central Asia,Asia,43811,Male,Boys,Gen X
-1972,TKM,TurkBoysistan,Central Asia,Asia,44277,Male,Boys,Gen X
-1973,TKM,TurkBoysistan,Central Asia,Asia,45195,Male,Boys,Gen X
-1974,TKM,TurkBoysistan,Central Asia,Asia,46170,Male,Boys,Gen X
-1975,TKM,TurkBoysistan,Central Asia,Asia,47125,Male,Boys,Gen X
-1976,TKM,TurkBoysistan,Central Asia,Asia,48199,Male,Boys,Gen X
-1977,TKM,TurkBoysistan,Central Asia,Asia,49217,Male,Boys,Gen X
-1978,TKM,TurkBoysistan,Central Asia,Asia,50100,Male,Boys,Gen X
-1979,TKM,TurkBoysistan,Central Asia,Asia,51241,Male,Boys,Gen X
-1980,TKM,TurkBoysistan,Central Asia,Asia,52295,Male,Boys,Gen X
-1981,TKM,TurkBoysistan,Central Asia,Asia,53740,Male,Boys,Millennial
-1982,TKM,TurkBoysistan,Central Asia,Asia,55362,Male,Boys,Millennial
-1983,TKM,TurkBoysistan,Central Asia,Asia,57937,Male,Boys,Millennial
-1984,TKM,TurkBoysistan,Central Asia,Asia,60583,Male,Boys,Millennial
-1985,TKM,TurkBoysistan,Central Asia,Asia,63923,Male,Boys,Millennial
-1986,TKM,TurkBoysistan,Central Asia,Asia,66661,Male,Boys,Millennial
-1987,TKM,TurkBoysistan,Central Asia,Asia,68613,Male,Boys,Millennial
-1988,TKM,TurkBoysistan,Central Asia,Asia,68889,Male,Boys,Millennial
-1989,TKM,TurkBoysistan,Central Asia,Asia,68567,Male,Boys,Millennial
-1990,TKM,TurkBoysistan,Central Asia,Asia,66855,Male,Boys,Millennial
-1991,TKM,TurkBoysistan,Central Asia,Asia,66369,Male,Boys,Millennial
-1992,TKM,TurkBoysistan,Central Asia,Asia,66540,Male,Boys,Millennial
-1993,TKM,TurkBoysistan,Central Asia,Asia,66352,Male,Boys,Millennial
-1994,TKM,TurkBoysistan,Central Asia,Asia,64770,Male,Boys,Millennial
-1995,TKM,TurkBoysistan,Central Asia,Asia,63252,Male,Boys,Millennial
-1996,TKM,TurkBoysistan,Central Asia,Asia,61336,Male,Boys,Millennial
-1997,TKM,TurkBoysistan,Central Asia,Asia,59655,Male,Boys,Gen Z
-1998,TKM,TurkBoysistan,Central Asia,Asia,58085,Male,Boys,Gen Z
-1999,TKM,TurkBoysistan,Central Asia,Asia,56944,Male,Boys,Gen Z
-2000,TKM,TurkBoysistan,Central Asia,Asia,55923,Male,Boys,Gen Z
-2001,TKM,TurkBoysistan,Central Asia,Asia,54631,Male,Boys,Gen Z
-2002,TKM,TurkBoysistan,Central Asia,Asia,53611,Male,Boys,Gen Z
-2003,TKM,TurkBoysistan,Central Asia,Asia,54227,Male,Boys,Gen Z
-2004,TKM,TurkBoysistan,Central Asia,Asia,54851,Male,Boys,Gen Z
-2005,TKM,TurkBoysistan,Central Asia,Asia,56338,Male,Boys,Gen Z
-2006,TKM,TurkBoysistan,Central Asia,Asia,57923,Male,Boys,Gen Z
-2007,TKM,TurkBoysistan,Central Asia,Asia,59776,Male,Boys,Gen Z
-2008,TKM,TurkBoysistan,Central Asia,Asia,62379,Male,Boys,Gen Z
-2009,TKM,TurkBoysistan,Central Asia,Asia,65497,Male,Boys,Gen Z
-2010,TKM,TurkBoysistan,Central Asia,Asia,68818,Male,Boys,Gen Z
-2011,TKM,TurkBoysistan,Central Asia,Asia,71988,Male,Boys,Gen Z
-2012,TKM,TurkBoysistan,Central Asia,Asia,74659,Male,Boys,Gen Z
-2013,TKM,TurkBoysistan,Central Asia,Asia,76506,Male,Boys,Gen A
-2014,TKM,TurkBoysistan,Central Asia,Asia,77551,Male,Boys,Gen A
-2015,TKM,TurkBoysistan,Central Asia,Asia,77671,Male,Boys,Gen A
-2016,TKM,TurkBoysistan,Central Asia,Asia,77077,Male,Boys,Gen A
-2017,TKM,TurkBoysistan,Central Asia,Asia,76026,Male,Boys,Gen A
-2018,TKM,TurkBoysistan,Central Asia,Asia,74739,Male,Boys,Gen A
-2019,TKM,TurkBoysistan,Central Asia,Asia,73372,Male,Boys,Gen A
-2020,TKM,TurkBoysistan,Central Asia,Asia,71949,Male,Boys,Gen A
-2021,TKM,TurkBoysistan,Central Asia,Asia,70704,Male,Boys,Gen A
-2022,TKM,TurkBoysistan,Central Asia,Asia,68909,Male,Boys,Gen A
-2023,TKM,TurkBoysistan,Central Asia,Asia,67444,Male,Boys,Gen A
-2024,TKM,TurkBoysistan,Central Asia,Asia,66290,Male,Boys,Gen A
+1950,TKM,Turkmenistan,Central Asia,Asia,23605,Male,Boys,Baby Boomer
+1951,TKM,Turkmenistan,Central Asia,Asia,24442,Male,Boys,Baby Boomer
+1952,TKM,Turkmenistan,Central Asia,Asia,25811,Male,Boys,Baby Boomer
+1953,TKM,Turkmenistan,Central Asia,Asia,27226,Male,Boys,Baby Boomer
+1954,TKM,Turkmenistan,Central Asia,Asia,28742,Male,Boys,Baby Boomer
+1955,TKM,Turkmenistan,Central Asia,Asia,30405,Male,Boys,Baby Boomer
+1956,TKM,Turkmenistan,Central Asia,Asia,32228,Male,Boys,Baby Boomer
+1957,TKM,Turkmenistan,Central Asia,Asia,34181,Male,Boys,Baby Boomer
+1958,TKM,Turkmenistan,Central Asia,Asia,36171,Male,Boys,Baby Boomer
+1959,TKM,Turkmenistan,Central Asia,Asia,38062,Male,Boys,Baby Boomer
+1960,TKM,Turkmenistan,Central Asia,Asia,39724,Male,Boys,Baby Boomer
+1961,TKM,Turkmenistan,Central Asia,Asia,41057,Male,Boys,Baby Boomer
+1962,TKM,Turkmenistan,Central Asia,Asia,41997,Male,Boys,Baby Boomer
+1963,TKM,Turkmenistan,Central Asia,Asia,42534,Male,Boys,Baby Boomer
+1964,TKM,Turkmenistan,Central Asia,Asia,42725,Male,Boys,Baby Boomer
+1965,TKM,Turkmenistan,Central Asia,Asia,42668,Male,Boys,Gen X
+1966,TKM,Turkmenistan,Central Asia,Asia,42496,Male,Boys,Gen X
+1967,TKM,Turkmenistan,Central Asia,Asia,42362,Male,Boys,Gen X
+1968,TKM,Turkmenistan,Central Asia,Asia,42388,Male,Boys,Gen X
+1969,TKM,Turkmenistan,Central Asia,Asia,42638,Male,Boys,Gen X
+1970,TKM,Turkmenistan,Central Asia,Asia,43129,Male,Boys,Gen X
+1971,TKM,Turkmenistan,Central Asia,Asia,43811,Male,Boys,Gen X
+1972,TKM,Turkmenistan,Central Asia,Asia,44277,Male,Boys,Gen X
+1973,TKM,Turkmenistan,Central Asia,Asia,45195,Male,Boys,Gen X
+1974,TKM,Turkmenistan,Central Asia,Asia,46170,Male,Boys,Gen X
+1975,TKM,Turkmenistan,Central Asia,Asia,47125,Male,Boys,Gen X
+1976,TKM,Turkmenistan,Central Asia,Asia,48199,Male,Boys,Gen X
+1977,TKM,Turkmenistan,Central Asia,Asia,49217,Male,Boys,Gen X
+1978,TKM,Turkmenistan,Central Asia,Asia,50100,Male,Boys,Gen X
+1979,TKM,Turkmenistan,Central Asia,Asia,51241,Male,Boys,Gen X
+1980,TKM,Turkmenistan,Central Asia,Asia,52295,Male,Boys,Gen X
+1981,TKM,Turkmenistan,Central Asia,Asia,53740,Male,Boys,Millennial
+1982,TKM,Turkmenistan,Central Asia,Asia,55362,Male,Boys,Millennial
+1983,TKM,Turkmenistan,Central Asia,Asia,57937,Male,Boys,Millennial
+1984,TKM,Turkmenistan,Central Asia,Asia,60583,Male,Boys,Millennial
+1985,TKM,Turkmenistan,Central Asia,Asia,63923,Male,Boys,Millennial
+1986,TKM,Turkmenistan,Central Asia,Asia,66661,Male,Boys,Millennial
+1987,TKM,Turkmenistan,Central Asia,Asia,68613,Male,Boys,Millennial
+1988,TKM,Turkmenistan,Central Asia,Asia,68889,Male,Boys,Millennial
+1989,TKM,Turkmenistan,Central Asia,Asia,68567,Male,Boys,Millennial
+1990,TKM,Turkmenistan,Central Asia,Asia,66855,Male,Boys,Millennial
+1991,TKM,Turkmenistan,Central Asia,Asia,66369,Male,Boys,Millennial
+1992,TKM,Turkmenistan,Central Asia,Asia,66540,Male,Boys,Millennial
+1993,TKM,Turkmenistan,Central Asia,Asia,66352,Male,Boys,Millennial
+1994,TKM,Turkmenistan,Central Asia,Asia,64770,Male,Boys,Millennial
+1995,TKM,Turkmenistan,Central Asia,Asia,63252,Male,Boys,Millennial
+1996,TKM,Turkmenistan,Central Asia,Asia,61336,Male,Boys,Millennial
+1997,TKM,Turkmenistan,Central Asia,Asia,59655,Male,Boys,Gen Z
+1998,TKM,Turkmenistan,Central Asia,Asia,58085,Male,Boys,Gen Z
+1999,TKM,Turkmenistan,Central Asia,Asia,56944,Male,Boys,Gen Z
+2000,TKM,Turkmenistan,Central Asia,Asia,55923,Male,Boys,Gen Z
+2001,TKM,Turkmenistan,Central Asia,Asia,54631,Male,Boys,Gen Z
+2002,TKM,Turkmenistan,Central Asia,Asia,53611,Male,Boys,Gen Z
+2003,TKM,Turkmenistan,Central Asia,Asia,54227,Male,Boys,Gen Z
+2004,TKM,Turkmenistan,Central Asia,Asia,54851,Male,Boys,Gen Z
+2005,TKM,Turkmenistan,Central Asia,Asia,56338,Male,Boys,Gen Z
+2006,TKM,Turkmenistan,Central Asia,Asia,57923,Male,Boys,Gen Z
+2007,TKM,Turkmenistan,Central Asia,Asia,59776,Male,Boys,Gen Z
+2008,TKM,Turkmenistan,Central Asia,Asia,62379,Male,Boys,Gen Z
+2009,TKM,Turkmenistan,Central Asia,Asia,65497,Male,Boys,Gen Z
+2010,TKM,Turkmenistan,Central Asia,Asia,68818,Male,Boys,Gen Z
+2011,TKM,Turkmenistan,Central Asia,Asia,71988,Male,Boys,Gen Z
+2012,TKM,Turkmenistan,Central Asia,Asia,74659,Male,Boys,Gen Z
+2013,TKM,Turkmenistan,Central Asia,Asia,76506,Male,Boys,Gen A
+2014,TKM,Turkmenistan,Central Asia,Asia,77551,Male,Boys,Gen A
+2015,TKM,Turkmenistan,Central Asia,Asia,77671,Male,Boys,Gen A
+2016,TKM,Turkmenistan,Central Asia,Asia,77077,Male,Boys,Gen A
+2017,TKM,Turkmenistan,Central Asia,Asia,76026,Male,Boys,Gen A
+2018,TKM,Turkmenistan,Central Asia,Asia,74739,Male,Boys,Gen A
+2019,TKM,Turkmenistan,Central Asia,Asia,73372,Male,Boys,Gen A
+2020,TKM,Turkmenistan,Central Asia,Asia,71949,Male,Boys,Gen A
+2021,TKM,Turkmenistan,Central Asia,Asia,70704,Male,Boys,Gen A
+2022,TKM,Turkmenistan,Central Asia,Asia,68909,Male,Boys,Gen A
+2023,TKM,Turkmenistan,Central Asia,Asia,67444,Male,Boys,Gen A
+2024,TKM,Turkmenistan,Central Asia,Asia,66290,Male,Boys,Gen A
 1950,TCA,Turks and Caicos Islands,Caribbean,South America,124,Male,Boys,Baby Boomer
 1951,TCA,Turks and Caicos Islands,Caribbean,South America,124,Male,Boys,Baby Boomer
 1952,TCA,Turks and Caicos Islands,Caribbean,South America,124,Male,Boys,Baby Boomer
@@ -17549,81 +17549,81 @@ Year,ISO3_code,Country,Subregion,Continent,Population,Gender,G_Type,Generation
 2022,ESH,Western Sahara,Northern Africa,Africa,4794,Male,Boys,Gen A
 2023,ESH,Western Sahara,Northern Africa,Africa,4777,Male,Boys,Gen A
 2024,ESH,Western Sahara,Northern Africa,Africa,4761,Male,Boys,Gen A
-1950,YEM,YeBoys,Western Asia,Asia,127645,Male,Boys,Baby Boomer
-1951,YEM,YeBoys,Western Asia,Asia,129743,Male,Boys,Baby Boomer
-1952,YEM,YeBoys,Western Asia,Asia,131966,Male,Boys,Baby Boomer
-1953,YEM,YeBoys,Western Asia,Asia,134810,Male,Boys,Baby Boomer
-1954,YEM,YeBoys,Western Asia,Asia,137459,Male,Boys,Baby Boomer
-1955,YEM,YeBoys,Western Asia,Asia,140094,Male,Boys,Baby Boomer
-1956,YEM,YeBoys,Western Asia,Asia,142971,Male,Boys,Baby Boomer
-1957,YEM,YeBoys,Western Asia,Asia,145528,Male,Boys,Baby Boomer
-1958,YEM,YeBoys,Western Asia,Asia,148664,Male,Boys,Baby Boomer
-1959,YEM,YeBoys,Western Asia,Asia,151919,Male,Boys,Baby Boomer
-1960,YEM,YeBoys,Western Asia,Asia,155438,Male,Boys,Baby Boomer
-1961,YEM,YeBoys,Western Asia,Asia,159224,Male,Boys,Baby Boomer
-1962,YEM,YeBoys,Western Asia,Asia,162468,Male,Boys,Baby Boomer
-1963,YEM,YeBoys,Western Asia,Asia,166042,Male,Boys,Baby Boomer
-1964,YEM,YeBoys,Western Asia,Asia,170426,Male,Boys,Baby Boomer
-1965,YEM,YeBoys,Western Asia,Asia,174272,Male,Boys,Gen X
-1966,YEM,YeBoys,Western Asia,Asia,178823,Male,Boys,Gen X
-1967,YEM,YeBoys,Western Asia,Asia,183087,Male,Boys,Gen X
-1968,YEM,YeBoys,Western Asia,Asia,186754,Male,Boys,Gen X
-1969,YEM,YeBoys,Western Asia,Asia,190046,Male,Boys,Gen X
-1970,YEM,YeBoys,Western Asia,Asia,194869,Male,Boys,Gen X
-1971,YEM,YeBoys,Western Asia,Asia,199750,Male,Boys,Gen X
-1972,YEM,YeBoys,Western Asia,Asia,205026,Male,Boys,Gen X
-1973,YEM,YeBoys,Western Asia,Asia,209423,Male,Boys,Gen X
-1974,YEM,YeBoys,Western Asia,Asia,214589,Male,Boys,Gen X
-1975,YEM,YeBoys,Western Asia,Asia,221650,Male,Boys,Gen X
-1976,YEM,YeBoys,Western Asia,Asia,227843,Male,Boys,Gen X
-1977,YEM,YeBoys,Western Asia,Asia,235079,Male,Boys,Gen X
-1978,YEM,YeBoys,Western Asia,Asia,241358,Male,Boys,Gen X
-1979,YEM,YeBoys,Western Asia,Asia,251944,Male,Boys,Gen X
-1980,YEM,YeBoys,Western Asia,Asia,259945,Male,Boys,Gen X
-1981,YEM,YeBoys,Western Asia,Asia,267766,Male,Boys,Millennial
-1982,YEM,YeBoys,Western Asia,Asia,276298,Male,Boys,Millennial
-1983,YEM,YeBoys,Western Asia,Asia,285217,Male,Boys,Millennial
-1984,YEM,YeBoys,Western Asia,Asia,293193,Male,Boys,Millennial
-1985,YEM,YeBoys,Western Asia,Asia,302673,Male,Boys,Millennial
-1986,YEM,YeBoys,Western Asia,Asia,311797,Male,Boys,Millennial
-1987,YEM,YeBoys,Western Asia,Asia,320909,Male,Boys,Millennial
-1988,YEM,YeBoys,Western Asia,Asia,330725,Male,Boys,Millennial
-1989,YEM,YeBoys,Western Asia,Asia,339116,Male,Boys,Millennial
-1990,YEM,YeBoys,Western Asia,Asia,348470,Male,Boys,Millennial
-1991,YEM,YeBoys,Western Asia,Asia,357788,Male,Boys,Millennial
-1992,YEM,YeBoys,Western Asia,Asia,366746,Male,Boys,Millennial
-1993,YEM,YeBoys,Western Asia,Asia,375438,Male,Boys,Millennial
-1994,YEM,YeBoys,Western Asia,Asia,379797,Male,Boys,Millennial
-1995,YEM,YeBoys,Western Asia,Asia,382259,Male,Boys,Millennial
-1996,YEM,YeBoys,Western Asia,Asia,370684,Male,Boys,Millennial
-1997,YEM,YeBoys,Western Asia,Asia,375021,Male,Boys,Gen Z
-1998,YEM,YeBoys,Western Asia,Asia,376684,Male,Boys,Gen Z
-1999,YEM,YeBoys,Western Asia,Asia,384277,Male,Boys,Gen Z
-2000,YEM,YeBoys,Western Asia,Asia,386854,Male,Boys,Gen Z
-2001,YEM,YeBoys,Western Asia,Asia,387817,Male,Boys,Gen Z
-2002,YEM,YeBoys,Western Asia,Asia,392465,Male,Boys,Gen Z
-2003,YEM,YeBoys,Western Asia,Asia,401766,Male,Boys,Gen Z
-2004,YEM,YeBoys,Western Asia,Asia,408604,Male,Boys,Gen Z
-2005,YEM,YeBoys,Western Asia,Asia,416197,Male,Boys,Gen Z
-2006,YEM,YeBoys,Western Asia,Asia,427152,Male,Boys,Gen Z
-2007,YEM,YeBoys,Western Asia,Asia,433271,Male,Boys,Gen Z
-2008,YEM,YeBoys,Western Asia,Asia,440978,Male,Boys,Gen Z
-2009,YEM,YeBoys,Western Asia,Asia,447735,Male,Boys,Gen Z
-2010,YEM,YeBoys,Western Asia,Asia,455826,Male,Boys,Gen Z
-2011,YEM,YeBoys,Western Asia,Asia,465326,Male,Boys,Gen Z
-2012,YEM,YeBoys,Western Asia,Asia,473812,Male,Boys,Gen Z
-2013,YEM,YeBoys,Western Asia,Asia,482980,Male,Boys,Gen A
-2014,YEM,YeBoys,Western Asia,Asia,491566,Male,Boys,Gen A
-2015,YEM,YeBoys,Western Asia,Asia,497854,Male,Boys,Gen A
-2016,YEM,YeBoys,Western Asia,Asia,502255,Male,Boys,Gen A
-2017,YEM,YeBoys,Western Asia,Asia,505471,Male,Boys,Gen A
-2018,YEM,YeBoys,Western Asia,Asia,511752,Male,Boys,Gen A
-2019,YEM,YeBoys,Western Asia,Asia,515968,Male,Boys,Gen A
-2020,YEM,YeBoys,Western Asia,Asia,519656,Male,Boys,Gen A
-2021,YEM,YeBoys,Western Asia,Asia,518923,Male,Boys,Gen A
-2022,YEM,YeBoys,Western Asia,Asia,518773,Male,Boys,Gen A
-2023,YEM,YeBoys,Western Asia,Asia,520329,Male,Boys,Gen A
-2024,YEM,YeBoys,Western Asia,Asia,522839,Male,Boys,Gen A
+1950,YEM,Yemen,Western Asia,Asia,127645,Male,Boys,Baby Boomer
+1951,YEM,Yemen,Western Asia,Asia,129743,Male,Boys,Baby Boomer
+1952,YEM,Yemen,Western Asia,Asia,131966,Male,Boys,Baby Boomer
+1953,YEM,Yemen,Western Asia,Asia,134810,Male,Boys,Baby Boomer
+1954,YEM,Yemen,Western Asia,Asia,137459,Male,Boys,Baby Boomer
+1955,YEM,Yemen,Western Asia,Asia,140094,Male,Boys,Baby Boomer
+1956,YEM,Yemen,Western Asia,Asia,142971,Male,Boys,Baby Boomer
+1957,YEM,Yemen,Western Asia,Asia,145528,Male,Boys,Baby Boomer
+1958,YEM,Yemen,Western Asia,Asia,148664,Male,Boys,Baby Boomer
+1959,YEM,Yemen,Western Asia,Asia,151919,Male,Boys,Baby Boomer
+1960,YEM,Yemen,Western Asia,Asia,155438,Male,Boys,Baby Boomer
+1961,YEM,Yemen,Western Asia,Asia,159224,Male,Boys,Baby Boomer
+1962,YEM,Yemen,Western Asia,Asia,162468,Male,Boys,Baby Boomer
+1963,YEM,Yemen,Western Asia,Asia,166042,Male,Boys,Baby Boomer
+1964,YEM,Yemen,Western Asia,Asia,170426,Male,Boys,Baby Boomer
+1965,YEM,Yemen,Western Asia,Asia,174272,Male,Boys,Gen X
+1966,YEM,Yemen,Western Asia,Asia,178823,Male,Boys,Gen X
+1967,YEM,Yemen,Western Asia,Asia,183087,Male,Boys,Gen X
+1968,YEM,Yemen,Western Asia,Asia,186754,Male,Boys,Gen X
+1969,YEM,Yemen,Western Asia,Asia,190046,Male,Boys,Gen X
+1970,YEM,Yemen,Western Asia,Asia,194869,Male,Boys,Gen X
+1971,YEM,Yemen,Western Asia,Asia,199750,Male,Boys,Gen X
+1972,YEM,Yemen,Western Asia,Asia,205026,Male,Boys,Gen X
+1973,YEM,Yemen,Western Asia,Asia,209423,Male,Boys,Gen X
+1974,YEM,Yemen,Western Asia,Asia,214589,Male,Boys,Gen X
+1975,YEM,Yemen,Western Asia,Asia,221650,Male,Boys,Gen X
+1976,YEM,Yemen,Western Asia,Asia,227843,Male,Boys,Gen X
+1977,YEM,Yemen,Western Asia,Asia,235079,Male,Boys,Gen X
+1978,YEM,Yemen,Western Asia,Asia,241358,Male,Boys,Gen X
+1979,YEM,Yemen,Western Asia,Asia,251944,Male,Boys,Gen X
+1980,YEM,Yemen,Western Asia,Asia,259945,Male,Boys,Gen X
+1981,YEM,Yemen,Western Asia,Asia,267766,Male,Boys,Millennial
+1982,YEM,Yemen,Western Asia,Asia,276298,Male,Boys,Millennial
+1983,YEM,Yemen,Western Asia,Asia,285217,Male,Boys,Millennial
+1984,YEM,Yemen,Western Asia,Asia,293193,Male,Boys,Millennial
+1985,YEM,Yemen,Western Asia,Asia,302673,Male,Boys,Millennial
+1986,YEM,Yemen,Western Asia,Asia,311797,Male,Boys,Millennial
+1987,YEM,Yemen,Western Asia,Asia,320909,Male,Boys,Millennial
+1988,YEM,Yemen,Western Asia,Asia,330725,Male,Boys,Millennial
+1989,YEM,Yemen,Western Asia,Asia,339116,Male,Boys,Millennial
+1990,YEM,Yemen,Western Asia,Asia,348470,Male,Boys,Millennial
+1991,YEM,Yemen,Western Asia,Asia,357788,Male,Boys,Millennial
+1992,YEM,Yemen,Western Asia,Asia,366746,Male,Boys,Millennial
+1993,YEM,Yemen,Western Asia,Asia,375438,Male,Boys,Millennial
+1994,YEM,Yemen,Western Asia,Asia,379797,Male,Boys,Millennial
+1995,YEM,Yemen,Western Asia,Asia,382259,Male,Boys,Millennial
+1996,YEM,Yemen,Western Asia,Asia,370684,Male,Boys,Millennial
+1997,YEM,Yemen,Western Asia,Asia,375021,Male,Boys,Gen Z
+1998,YEM,Yemen,Western Asia,Asia,376684,Male,Boys,Gen Z
+1999,YEM,Yemen,Western Asia,Asia,384277,Male,Boys,Gen Z
+2000,YEM,Yemen,Western Asia,Asia,386854,Male,Boys,Gen Z
+2001,YEM,Yemen,Western Asia,Asia,387817,Male,Boys,Gen Z
+2002,YEM,Yemen,Western Asia,Asia,392465,Male,Boys,Gen Z
+2003,YEM,Yemen,Western Asia,Asia,401766,Male,Boys,Gen Z
+2004,YEM,Yemen,Western Asia,Asia,408604,Male,Boys,Gen Z
+2005,YEM,Yemen,Western Asia,Asia,416197,Male,Boys,Gen Z
+2006,YEM,Yemen,Western Asia,Asia,427152,Male,Boys,Gen Z
+2007,YEM,Yemen,Western Asia,Asia,433271,Male,Boys,Gen Z
+2008,YEM,Yemen,Western Asia,Asia,440978,Male,Boys,Gen Z
+2009,YEM,Yemen,Western Asia,Asia,447735,Male,Boys,Gen Z
+2010,YEM,Yemen,Western Asia,Asia,455826,Male,Boys,Gen Z
+2011,YEM,Yemen,Western Asia,Asia,465326,Male,Boys,Gen Z
+2012,YEM,Yemen,Western Asia,Asia,473812,Male,Boys,Gen Z
+2013,YEM,Yemen,Western Asia,Asia,482980,Male,Boys,Gen A
+2014,YEM,Yemen,Western Asia,Asia,491566,Male,Boys,Gen A
+2015,YEM,Yemen,Western Asia,Asia,497854,Male,Boys,Gen A
+2016,YEM,Yemen,Western Asia,Asia,502255,Male,Boys,Gen A
+2017,YEM,Yemen,Western Asia,Asia,505471,Male,Boys,Gen A
+2018,YEM,Yemen,Western Asia,Asia,511752,Male,Boys,Gen A
+2019,YEM,Yemen,Western Asia,Asia,515968,Male,Boys,Gen A
+2020,YEM,Yemen,Western Asia,Asia,519656,Male,Boys,Gen A
+2021,YEM,Yemen,Western Asia,Asia,518923,Male,Boys,Gen A
+2022,YEM,Yemen,Western Asia,Asia,518773,Male,Boys,Gen A
+2023,YEM,Yemen,Western Asia,Asia,520329,Male,Boys,Gen A
+2024,YEM,Yemen,Western Asia,Asia,522839,Male,Boys,Gen A
 1950,ZMB,Zambia,Eastern Africa,Africa,56635,Male,Boys,Baby Boomer
 1951,ZMB,Zambia,Eastern Africa,Africa,58242,Male,Boys,Baby Boomer
 1952,ZMB,Zambia,Eastern Africa,Africa,60089,Male,Boys,Baby Boomer
@@ -18449,81 +18449,81 @@ Year,ISO3_code,Country,Subregion,Continent,Population,Gender,G_Type,Generation
 2022,ARG,Argentina,South America,South America,306066,Female,Girls,Gen A
 2023,ARG,Argentina,South America,South America,304661,Female,Girls,Gen A
 2024,ARG,Argentina,South America,South America,304021,Female,Girls,Gen A
-1950,ARM,ArBoysia,Western Asia,Asia,23520,Female,Girls,Baby Boomer
-1951,ARM,ArBoysia,Western Asia,Asia,24572,Female,Girls,Baby Boomer
-1952,ARM,ArBoysia,Western Asia,Asia,25613,Female,Girls,Baby Boomer
-1953,ARM,ArBoysia,Western Asia,Asia,26826,Female,Girls,Baby Boomer
-1954,ARM,ArBoysia,Western Asia,Asia,28178,Female,Girls,Baby Boomer
-1955,ARM,ArBoysia,Western Asia,Asia,29623,Female,Girls,Baby Boomer
-1956,ARM,ArBoysia,Western Asia,Asia,31704,Female,Girls,Baby Boomer
-1957,ARM,ArBoysia,Western Asia,Asia,33476,Female,Girls,Baby Boomer
-1958,ARM,ArBoysia,Western Asia,Asia,35022,Female,Girls,Baby Boomer
-1959,ARM,ArBoysia,Western Asia,Asia,36572,Female,Girls,Baby Boomer
-1960,ARM,ArBoysia,Western Asia,Asia,37512,Female,Girls,Baby Boomer
-1961,ARM,ArBoysia,Western Asia,Asia,37486,Female,Girls,Baby Boomer
-1962,ARM,ArBoysia,Western Asia,Asia,36578,Female,Girls,Baby Boomer
-1963,ARM,ArBoysia,Western Asia,Asia,35131,Female,Girls,Baby Boomer
-1964,ARM,ArBoysia,Western Asia,Asia,33326,Female,Girls,Baby Boomer
-1965,ARM,ArBoysia,Western Asia,Asia,31769,Female,Girls,Gen X
-1966,ARM,ArBoysia,Western Asia,Asia,30355,Female,Girls,Gen X
-1967,ARM,ArBoysia,Western Asia,Asia,29633,Female,Girls,Gen X
-1968,ARM,ArBoysia,Western Asia,Asia,29319,Female,Girls,Gen X
-1969,ARM,ArBoysia,Western Asia,Asia,28960,Female,Girls,Gen X
-1970,ARM,ArBoysia,Western Asia,Asia,29000,Female,Girls,Gen X
-1971,ARM,ArBoysia,Western Asia,Asia,29406,Female,Girls,Gen X
-1972,ARM,ArBoysia,Western Asia,Asia,29802,Female,Girls,Gen X
-1973,ARM,ArBoysia,Western Asia,Asia,30389,Female,Girls,Gen X
-1974,ARM,ArBoysia,Western Asia,Asia,31221,Female,Girls,Gen X
-1975,ARM,ArBoysia,Western Asia,Asia,32164,Female,Girls,Gen X
-1976,ARM,ArBoysia,Western Asia,Asia,33174,Female,Girls,Gen X
-1977,ARM,ArBoysia,Western Asia,Asia,34676,Female,Girls,Gen X
-1978,ARM,ArBoysia,Western Asia,Asia,35858,Female,Girls,Gen X
-1979,ARM,ArBoysia,Western Asia,Asia,37168,Female,Girls,Gen X
-1980,ARM,ArBoysia,Western Asia,Asia,38195,Female,Girls,Gen X
-1981,ARM,ArBoysia,Western Asia,Asia,39297,Female,Girls,Millennial
-1982,ARM,ArBoysia,Western Asia,Asia,40209,Female,Girls,Millennial
-1983,ARM,ArBoysia,Western Asia,Asia,41733,Female,Girls,Millennial
-1984,ARM,ArBoysia,Western Asia,Asia,42610,Female,Girls,Millennial
-1985,ARM,ArBoysia,Western Asia,Asia,42440,Female,Girls,Millennial
-1986,ARM,ArBoysia,Western Asia,Asia,41774,Female,Girls,Millennial
-1987,ARM,ArBoysia,Western Asia,Asia,41103,Female,Girls,Millennial
-1988,ARM,ArBoysia,Western Asia,Asia,40387,Female,Girls,Millennial
-1989,ARM,ArBoysia,Western Asia,Asia,39942,Female,Girls,Millennial
-1990,ARM,ArBoysia,Western Asia,Asia,41838,Female,Girls,Millennial
-1991,ARM,ArBoysia,Western Asia,Asia,40282,Female,Girls,Millennial
-1992,ARM,ArBoysia,Western Asia,Asia,37571,Female,Girls,Millennial
-1993,ARM,ArBoysia,Western Asia,Asia,32123,Female,Girls,Millennial
-1994,ARM,ArBoysia,Western Asia,Asia,28536,Female,Girls,Millennial
-1995,ARM,ArBoysia,Western Asia,Asia,25889,Female,Girls,Millennial
-1996,ARM,ArBoysia,Western Asia,Asia,24179,Female,Girls,Millennial
-1997,ARM,ArBoysia,Western Asia,Asia,22668,Female,Girls,Gen Z
-1998,ARM,ArBoysia,Western Asia,Asia,21008,Female,Girls,Gen Z
-1999,ARM,ArBoysia,Western Asia,Asia,19754,Female,Girls,Gen Z
-2000,ARM,ArBoysia,Western Asia,Asia,18385,Female,Girls,Gen Z
-2001,ARM,ArBoysia,Western Asia,Asia,17658,Female,Girls,Gen Z
-2002,ARM,ArBoysia,Western Asia,Asia,17532,Female,Girls,Gen Z
-2003,ARM,ArBoysia,Western Asia,Asia,17837,Female,Girls,Gen Z
-2004,ARM,ArBoysia,Western Asia,Asia,18232,Female,Girls,Gen Z
-2005,ARM,ArBoysia,Western Asia,Asia,18455,Female,Girls,Gen Z
-2006,ARM,ArBoysia,Western Asia,Asia,16560,Female,Girls,Gen Z
-2007,ARM,ArBoysia,Western Asia,Asia,17624,Female,Girls,Gen Z
-2008,ARM,ArBoysia,Western Asia,Asia,18166,Female,Girls,Gen Z
-2009,ARM,ArBoysia,Western Asia,Asia,19779,Female,Girls,Gen Z
-2010,ARM,ArBoysia,Western Asia,Asia,19182,Female,Girls,Gen Z
-2011,ARM,ArBoysia,Western Asia,Asia,19303,Female,Girls,Gen Z
-2012,ARM,ArBoysia,Western Asia,Asia,20685,Female,Girls,Gen Z
-2013,ARM,ArBoysia,Western Asia,Asia,20568,Female,Girls,Gen A
-2014,ARM,ArBoysia,Western Asia,Asia,21613,Female,Girls,Gen A
-2015,ARM,ArBoysia,Western Asia,Asia,19927,Female,Girls,Gen A
-2016,ARM,ArBoysia,Western Asia,Asia,19716,Female,Girls,Gen A
-2017,ARM,ArBoysia,Western Asia,Asia,18451,Female,Girls,Gen A
-2018,ARM,ArBoysia,Western Asia,Asia,17985,Female,Girls,Gen A
-2019,ARM,ArBoysia,Western Asia,Asia,17358,Female,Girls,Gen A
-2020,ARM,ArBoysia,Western Asia,Asia,16674,Female,Girls,Gen A
-2021,ARM,ArBoysia,Western Asia,Asia,16086,Female,Girls,Gen A
-2022,ARM,ArBoysia,Western Asia,Asia,15570,Female,Girls,Gen A
-2023,ARM,ArBoysia,Western Asia,Asia,15161,Female,Girls,Gen A
-2024,ARM,ArBoysia,Western Asia,Asia,14747,Female,Girls,Gen A
+1950,ARM,Armenia,Western Asia,Asia,23520,Female,Girls,Baby Boomer
+1951,ARM,Armenia,Western Asia,Asia,24572,Female,Girls,Baby Boomer
+1952,ARM,Armenia,Western Asia,Asia,25613,Female,Girls,Baby Boomer
+1953,ARM,Armenia,Western Asia,Asia,26826,Female,Girls,Baby Boomer
+1954,ARM,Armenia,Western Asia,Asia,28178,Female,Girls,Baby Boomer
+1955,ARM,Armenia,Western Asia,Asia,29623,Female,Girls,Baby Boomer
+1956,ARM,Armenia,Western Asia,Asia,31704,Female,Girls,Baby Boomer
+1957,ARM,Armenia,Western Asia,Asia,33476,Female,Girls,Baby Boomer
+1958,ARM,Armenia,Western Asia,Asia,35022,Female,Girls,Baby Boomer
+1959,ARM,Armenia,Western Asia,Asia,36572,Female,Girls,Baby Boomer
+1960,ARM,Armenia,Western Asia,Asia,37512,Female,Girls,Baby Boomer
+1961,ARM,Armenia,Western Asia,Asia,37486,Female,Girls,Baby Boomer
+1962,ARM,Armenia,Western Asia,Asia,36578,Female,Girls,Baby Boomer
+1963,ARM,Armenia,Western Asia,Asia,35131,Female,Girls,Baby Boomer
+1964,ARM,Armenia,Western Asia,Asia,33326,Female,Girls,Baby Boomer
+1965,ARM,Armenia,Western Asia,Asia,31769,Female,Girls,Gen X
+1966,ARM,Armenia,Western Asia,Asia,30355,Female,Girls,Gen X
+1967,ARM,Armenia,Western Asia,Asia,29633,Female,Girls,Gen X
+1968,ARM,Armenia,Western Asia,Asia,29319,Female,Girls,Gen X
+1969,ARM,Armenia,Western Asia,Asia,28960,Female,Girls,Gen X
+1970,ARM,Armenia,Western Asia,Asia,29000,Female,Girls,Gen X
+1971,ARM,Armenia,Western Asia,Asia,29406,Female,Girls,Gen X
+1972,ARM,Armenia,Western Asia,Asia,29802,Female,Girls,Gen X
+1973,ARM,Armenia,Western Asia,Asia,30389,Female,Girls,Gen X
+1974,ARM,Armenia,Western Asia,Asia,31221,Female,Girls,Gen X
+1975,ARM,Armenia,Western Asia,Asia,32164,Female,Girls,Gen X
+1976,ARM,Armenia,Western Asia,Asia,33174,Female,Girls,Gen X
+1977,ARM,Armenia,Western Asia,Asia,34676,Female,Girls,Gen X
+1978,ARM,Armenia,Western Asia,Asia,35858,Female,Girls,Gen X
+1979,ARM,Armenia,Western Asia,Asia,37168,Female,Girls,Gen X
+1980,ARM,Armenia,Western Asia,Asia,38195,Female,Girls,Gen X
+1981,ARM,Armenia,Western Asia,Asia,39297,Female,Girls,Millennial
+1982,ARM,Armenia,Western Asia,Asia,40209,Female,Girls,Millennial
+1983,ARM,Armenia,Western Asia,Asia,41733,Female,Girls,Millennial
+1984,ARM,Armenia,Western Asia,Asia,42610,Female,Girls,Millennial
+1985,ARM,Armenia,Western Asia,Asia,42440,Female,Girls,Millennial
+1986,ARM,Armenia,Western Asia,Asia,41774,Female,Girls,Millennial
+1987,ARM,Armenia,Western Asia,Asia,41103,Female,Girls,Millennial
+1988,ARM,Armenia,Western Asia,Asia,40387,Female,Girls,Millennial
+1989,ARM,Armenia,Western Asia,Asia,39942,Female,Girls,Millennial
+1990,ARM,Armenia,Western Asia,Asia,41838,Female,Girls,Millennial
+1991,ARM,Armenia,Western Asia,Asia,40282,Female,Girls,Millennial
+1992,ARM,Armenia,Western Asia,Asia,37571,Female,Girls,Millennial
+1993,ARM,Armenia,Western Asia,Asia,32123,Female,Girls,Millennial
+1994,ARM,Armenia,Western Asia,Asia,28536,Female,Girls,Millennial
+1995,ARM,Armenia,Western Asia,Asia,25889,Female,Girls,Millennial
+1996,ARM,Armenia,Western Asia,Asia,24179,Female,Girls,Millennial
+1997,ARM,Armenia,Western Asia,Asia,22668,Female,Girls,Gen Z
+1998,ARM,Armenia,Western Asia,Asia,21008,Female,Girls,Gen Z
+1999,ARM,Armenia,Western Asia,Asia,19754,Female,Girls,Gen Z
+2000,ARM,Armenia,Western Asia,Asia,18385,Female,Girls,Gen Z
+2001,ARM,Armenia,Western Asia,Asia,17658,Female,Girls,Gen Z
+2002,ARM,Armenia,Western Asia,Asia,17532,Female,Girls,Gen Z
+2003,ARM,Armenia,Western Asia,Asia,17837,Female,Girls,Gen Z
+2004,ARM,Armenia,Western Asia,Asia,18232,Female,Girls,Gen Z
+2005,ARM,Armenia,Western Asia,Asia,18455,Female,Girls,Gen Z
+2006,ARM,Armenia,Western Asia,Asia,16560,Female,Girls,Gen Z
+2007,ARM,Armenia,Western Asia,Asia,17624,Female,Girls,Gen Z
+2008,ARM,Armenia,Western Asia,Asia,18166,Female,Girls,Gen Z
+2009,ARM,Armenia,Western Asia,Asia,19779,Female,Girls,Gen Z
+2010,ARM,Armenia,Western Asia,Asia,19182,Female,Girls,Gen Z
+2011,ARM,Armenia,Western Asia,Asia,19303,Female,Girls,Gen Z
+2012,ARM,Armenia,Western Asia,Asia,20685,Female,Girls,Gen Z
+2013,ARM,Armenia,Western Asia,Asia,20568,Female,Girls,Gen A
+2014,ARM,Armenia,Western Asia,Asia,21613,Female,Girls,Gen A
+2015,ARM,Armenia,Western Asia,Asia,19927,Female,Girls,Gen A
+2016,ARM,Armenia,Western Asia,Asia,19716,Female,Girls,Gen A
+2017,ARM,Armenia,Western Asia,Asia,18451,Female,Girls,Gen A
+2018,ARM,Armenia,Western Asia,Asia,17985,Female,Girls,Gen A
+2019,ARM,Armenia,Western Asia,Asia,17358,Female,Girls,Gen A
+2020,ARM,Armenia,Western Asia,Asia,16674,Female,Girls,Gen A
+2021,ARM,Armenia,Western Asia,Asia,16086,Female,Girls,Gen A
+2022,ARM,Armenia,Western Asia,Asia,15570,Female,Girls,Gen A
+2023,ARM,Armenia,Western Asia,Asia,15161,Female,Girls,Gen A
+2024,ARM,Armenia,Western Asia,Asia,14747,Female,Girls,Gen A
 1950,ABW,Aruba,Caribbean,South America,853,Female,Girls,Baby Boomer
 1951,ABW,Aruba,Caribbean,South America,866,Female,Girls,Baby Boomer
 1952,ABW,Aruba,Caribbean,South America,876,Female,Girls,Baby Boomer
@@ -34049,81 +34049,81 @@ Year,ISO3_code,Country,Subregion,Continent,Population,Gender,G_Type,Generation
 2022,,Turkiye,Western Asia,Asia,603072,Female,Girls,Gen A
 2023,,Turkiye,Western Asia,Asia,592221,Female,Girls,Gen A
 2024,,Turkiye,Western Asia,Asia,583404,Female,Girls,Gen A
-1950,TKM,TurkBoysistan,Central Asia,Asia,22144,Female,Girls,Baby Boomer
-1951,TKM,TurkBoysistan,Central Asia,Asia,22928,Female,Girls,Baby Boomer
-1952,TKM,TurkBoysistan,Central Asia,Asia,24212,Female,Girls,Baby Boomer
-1953,TKM,TurkBoysistan,Central Asia,Asia,25541,Female,Girls,Baby Boomer
-1954,TKM,TurkBoysistan,Central Asia,Asia,26963,Female,Girls,Baby Boomer
-1955,TKM,TurkBoysistan,Central Asia,Asia,28523,Female,Girls,Baby Boomer
-1956,TKM,TurkBoysistan,Central Asia,Asia,30233,Female,Girls,Baby Boomer
-1957,TKM,TurkBoysistan,Central Asia,Asia,32064,Female,Girls,Baby Boomer
-1958,TKM,TurkBoysistan,Central Asia,Asia,33931,Female,Girls,Baby Boomer
-1959,TKM,TurkBoysistan,Central Asia,Asia,35706,Female,Girls,Baby Boomer
-1960,TKM,TurkBoysistan,Central Asia,Asia,37265,Female,Girls,Baby Boomer
-1961,TKM,TurkBoysistan,Central Asia,Asia,38515,Female,Girls,Baby Boomer
-1962,TKM,TurkBoysistan,Central Asia,Asia,39396,Female,Girls,Baby Boomer
-1963,TKM,TurkBoysistan,Central Asia,Asia,39901,Female,Girls,Baby Boomer
-1964,TKM,TurkBoysistan,Central Asia,Asia,40080,Female,Girls,Baby Boomer
-1965,TKM,TurkBoysistan,Central Asia,Asia,40027,Female,Girls,Gen X
-1966,TKM,TurkBoysistan,Central Asia,Asia,39864,Female,Girls,Gen X
-1967,TKM,TurkBoysistan,Central Asia,Asia,39739,Female,Girls,Gen X
-1968,TKM,TurkBoysistan,Central Asia,Asia,39763,Female,Girls,Gen X
-1969,TKM,TurkBoysistan,Central Asia,Asia,39999,Female,Girls,Gen X
-1970,TKM,TurkBoysistan,Central Asia,Asia,40458,Female,Girls,Gen X
-1971,TKM,TurkBoysistan,Central Asia,Asia,41098,Female,Girls,Gen X
-1972,TKM,TurkBoysistan,Central Asia,Asia,41535,Female,Girls,Gen X
-1973,TKM,TurkBoysistan,Central Asia,Asia,42397,Female,Girls,Gen X
-1974,TKM,TurkBoysistan,Central Asia,Asia,43311,Female,Girls,Gen X
-1975,TKM,TurkBoysistan,Central Asia,Asia,44207,Female,Girls,Gen X
-1976,TKM,TurkBoysistan,Central Asia,Asia,45215,Female,Girls,Gen X
-1977,TKM,TurkBoysistan,Central Asia,Asia,46169,Female,Girls,Gen X
-1978,TKM,TurkBoysistan,Central Asia,Asia,46998,Female,Girls,Gen X
-1979,TKM,TurkBoysistan,Central Asia,Asia,48069,Female,Girls,Gen X
-1980,TKM,TurkBoysistan,Central Asia,Asia,49057,Female,Girls,Gen X
-1981,TKM,TurkBoysistan,Central Asia,Asia,50413,Female,Girls,Millennial
-1982,TKM,TurkBoysistan,Central Asia,Asia,51934,Female,Girls,Millennial
-1983,TKM,TurkBoysistan,Central Asia,Asia,54350,Female,Girls,Millennial
-1984,TKM,TurkBoysistan,Central Asia,Asia,56833,Female,Girls,Millennial
-1985,TKM,TurkBoysistan,Central Asia,Asia,59966,Female,Girls,Millennial
-1986,TKM,TurkBoysistan,Central Asia,Asia,62534,Female,Girls,Millennial
-1987,TKM,TurkBoysistan,Central Asia,Asia,64364,Female,Girls,Millennial
-1988,TKM,TurkBoysistan,Central Asia,Asia,64624,Female,Girls,Millennial
-1989,TKM,TurkBoysistan,Central Asia,Asia,64382,Female,Girls,Millennial
-1990,TKM,TurkBoysistan,Central Asia,Asia,62774,Female,Girls,Millennial
-1991,TKM,TurkBoysistan,Central Asia,Asia,62318,Female,Girls,Millennial
-1992,TKM,TurkBoysistan,Central Asia,Asia,62478,Female,Girls,Millennial
-1993,TKM,TurkBoysistan,Central Asia,Asia,62302,Female,Girls,Millennial
-1994,TKM,TurkBoysistan,Central Asia,Asia,60817,Female,Girls,Millennial
-1995,TKM,TurkBoysistan,Central Asia,Asia,59391,Female,Girls,Millennial
-1996,TKM,TurkBoysistan,Central Asia,Asia,57592,Female,Girls,Millennial
-1997,TKM,TurkBoysistan,Central Asia,Asia,56015,Female,Girls,Gen Z
-1998,TKM,TurkBoysistan,Central Asia,Asia,54539,Female,Girls,Gen Z
-1999,TKM,TurkBoysistan,Central Asia,Asia,53468,Female,Girls,Gen Z
-2000,TKM,TurkBoysistan,Central Asia,Asia,52510,Female,Girls,Gen Z
-2001,TKM,TurkBoysistan,Central Asia,Asia,51344,Female,Girls,Gen Z
-2002,TKM,TurkBoysistan,Central Asia,Asia,50338,Female,Girls,Gen Z
-2003,TKM,TurkBoysistan,Central Asia,Asia,50917,Female,Girls,Gen Z
-2004,TKM,TurkBoysistan,Central Asia,Asia,51504,Female,Girls,Gen Z
-2005,TKM,TurkBoysistan,Central Asia,Asia,52900,Female,Girls,Gen Z
-2006,TKM,TurkBoysistan,Central Asia,Asia,54387,Female,Girls,Gen Z
-2007,TKM,TurkBoysistan,Central Asia,Asia,56128,Female,Girls,Gen Z
-2008,TKM,TurkBoysistan,Central Asia,Asia,58517,Female,Girls,Gen Z
-2009,TKM,TurkBoysistan,Central Asia,Asia,61385,Female,Girls,Gen Z
-2010,TKM,TurkBoysistan,Central Asia,Asia,64496,Female,Girls,Gen Z
-2011,TKM,TurkBoysistan,Central Asia,Asia,67405,Female,Girls,Gen Z
-2012,TKM,TurkBoysistan,Central Asia,Asia,69906,Female,Girls,Gen Z
-2013,TKM,TurkBoysistan,Central Asia,Asia,71701,Female,Girls,Gen A
-2014,TKM,TurkBoysistan,Central Asia,Asia,72681,Female,Girls,Gen A
-2015,TKM,TurkBoysistan,Central Asia,Asia,72794,Female,Girls,Gen A
-2016,TKM,TurkBoysistan,Central Asia,Asia,72238,Female,Girls,Gen A
-2017,TKM,TurkBoysistan,Central Asia,Asia,71185,Female,Girls,Gen A
-2018,TKM,TurkBoysistan,Central Asia,Asia,69980,Female,Girls,Gen A
-2019,TKM,TurkBoysistan,Central Asia,Asia,68700,Female,Girls,Gen A
-2020,TKM,TurkBoysistan,Central Asia,Asia,67431,Female,Girls,Gen A
-2021,TKM,TurkBoysistan,Central Asia,Asia,66264,Female,Girls,Gen A
-2022,TKM,TurkBoysistan,Central Asia,Asia,64582,Female,Girls,Gen A
-2023,TKM,TurkBoysistan,Central Asia,Asia,63209,Female,Girls,Gen A
-2024,TKM,TurkBoysistan,Central Asia,Asia,62128,Female,Girls,Gen A
+1950,TKM,Turkmenistan,Central Asia,Asia,22144,Female,Girls,Baby Boomer
+1951,TKM,Turkmenistan,Central Asia,Asia,22928,Female,Girls,Baby Boomer
+1952,TKM,Turkmenistan,Central Asia,Asia,24212,Female,Girls,Baby Boomer
+1953,TKM,Turkmenistan,Central Asia,Asia,25541,Female,Girls,Baby Boomer
+1954,TKM,Turkmenistan,Central Asia,Asia,26963,Female,Girls,Baby Boomer
+1955,TKM,Turkmenistan,Central Asia,Asia,28523,Female,Girls,Baby Boomer
+1956,TKM,Turkmenistan,Central Asia,Asia,30233,Female,Girls,Baby Boomer
+1957,TKM,Turkmenistan,Central Asia,Asia,32064,Female,Girls,Baby Boomer
+1958,TKM,Turkmenistan,Central Asia,Asia,33931,Female,Girls,Baby Boomer
+1959,TKM,Turkmenistan,Central Asia,Asia,35706,Female,Girls,Baby Boomer
+1960,TKM,Turkmenistan,Central Asia,Asia,37265,Female,Girls,Baby Boomer
+1961,TKM,Turkmenistan,Central Asia,Asia,38515,Female,Girls,Baby Boomer
+1962,TKM,Turkmenistan,Central Asia,Asia,39396,Female,Girls,Baby Boomer
+1963,TKM,Turkmenistan,Central Asia,Asia,39901,Female,Girls,Baby Boomer
+1964,TKM,Turkmenistan,Central Asia,Asia,40080,Female,Girls,Baby Boomer
+1965,TKM,Turkmenistan,Central Asia,Asia,40027,Female,Girls,Gen X
+1966,TKM,Turkmenistan,Central Asia,Asia,39864,Female,Girls,Gen X
+1967,TKM,Turkmenistan,Central Asia,Asia,39739,Female,Girls,Gen X
+1968,TKM,Turkmenistan,Central Asia,Asia,39763,Female,Girls,Gen X
+1969,TKM,Turkmenistan,Central Asia,Asia,39999,Female,Girls,Gen X
+1970,TKM,Turkmenistan,Central Asia,Asia,40458,Female,Girls,Gen X
+1971,TKM,Turkmenistan,Central Asia,Asia,41098,Female,Girls,Gen X
+1972,TKM,Turkmenistan,Central Asia,Asia,41535,Female,Girls,Gen X
+1973,TKM,Turkmenistan,Central Asia,Asia,42397,Female,Girls,Gen X
+1974,TKM,Turkmenistan,Central Asia,Asia,43311,Female,Girls,Gen X
+1975,TKM,Turkmenistan,Central Asia,Asia,44207,Female,Girls,Gen X
+1976,TKM,Turkmenistan,Central Asia,Asia,45215,Female,Girls,Gen X
+1977,TKM,Turkmenistan,Central Asia,Asia,46169,Female,Girls,Gen X
+1978,TKM,Turkmenistan,Central Asia,Asia,46998,Female,Girls,Gen X
+1979,TKM,Turkmenistan,Central Asia,Asia,48069,Female,Girls,Gen X
+1980,TKM,Turkmenistan,Central Asia,Asia,49057,Female,Girls,Gen X
+1981,TKM,Turkmenistan,Central Asia,Asia,50413,Female,Girls,Millennial
+1982,TKM,Turkmenistan,Central Asia,Asia,51934,Female,Girls,Millennial
+1983,TKM,Turkmenistan,Central Asia,Asia,54350,Female,Girls,Millennial
+1984,TKM,Turkmenistan,Central Asia,Asia,56833,Female,Girls,Millennial
+1985,TKM,Turkmenistan,Central Asia,Asia,59966,Female,Girls,Millennial
+1986,TKM,Turkmenistan,Central Asia,Asia,62534,Female,Girls,Millennial
+1987,TKM,Turkmenistan,Central Asia,Asia,64364,Female,Girls,Millennial
+1988,TKM,Turkmenistan,Central Asia,Asia,64624,Female,Girls,Millennial
+1989,TKM,Turkmenistan,Central Asia,Asia,64382,Female,Girls,Millennial
+1990,TKM,Turkmenistan,Central Asia,Asia,62774,Female,Girls,Millennial
+1991,TKM,Turkmenistan,Central Asia,Asia,62318,Female,Girls,Millennial
+1992,TKM,Turkmenistan,Central Asia,Asia,62478,Female,Girls,Millennial
+1993,TKM,Turkmenistan,Central Asia,Asia,62302,Female,Girls,Millennial
+1994,TKM,Turkmenistan,Central Asia,Asia,60817,Female,Girls,Millennial
+1995,TKM,Turkmenistan,Central Asia,Asia,59391,Female,Girls,Millennial
+1996,TKM,Turkmenistan,Central Asia,Asia,57592,Female,Girls,Millennial
+1997,TKM,Turkmenistan,Central Asia,Asia,56015,Female,Girls,Gen Z
+1998,TKM,Turkmenistan,Central Asia,Asia,54539,Female,Girls,Gen Z
+1999,TKM,Turkmenistan,Central Asia,Asia,53468,Female,Girls,Gen Z
+2000,TKM,Turkmenistan,Central Asia,Asia,52510,Female,Girls,Gen Z
+2001,TKM,Turkmenistan,Central Asia,Asia,51344,Female,Girls,Gen Z
+2002,TKM,Turkmenistan,Central Asia,Asia,50338,Female,Girls,Gen Z
+2003,TKM,Turkmenistan,Central Asia,Asia,50917,Female,Girls,Gen Z
+2004,TKM,Turkmenistan,Central Asia,Asia,51504,Female,Girls,Gen Z
+2005,TKM,Turkmenistan,Central Asia,Asia,52900,Female,Girls,Gen Z
+2006,TKM,Turkmenistan,Central Asia,Asia,54387,Female,Girls,Gen Z
+2007,TKM,Turkmenistan,Central Asia,Asia,56128,Female,Girls,Gen Z
+2008,TKM,Turkmenistan,Central Asia,Asia,58517,Female,Girls,Gen Z
+2009,TKM,Turkmenistan,Central Asia,Asia,61385,Female,Girls,Gen Z
+2010,TKM,Turkmenistan,Central Asia,Asia,64496,Female,Girls,Gen Z
+2011,TKM,Turkmenistan,Central Asia,Asia,67405,Female,Girls,Gen Z
+2012,TKM,Turkmenistan,Central Asia,Asia,69906,Female,Girls,Gen Z
+2013,TKM,Turkmenistan,Central Asia,Asia,71701,Female,Girls,Gen A
+2014,TKM,Turkmenistan,Central Asia,Asia,72681,Female,Girls,Gen A
+2015,TKM,Turkmenistan,Central Asia,Asia,72794,Female,Girls,Gen A
+2016,TKM,Turkmenistan,Central Asia,Asia,72238,Female,Girls,Gen A
+2017,TKM,Turkmenistan,Central Asia,Asia,71185,Female,Girls,Gen A
+2018,TKM,Turkmenistan,Central Asia,Asia,69980,Female,Girls,Gen A
+2019,TKM,Turkmenistan,Central Asia,Asia,68700,Female,Girls,Gen A
+2020,TKM,Turkmenistan,Central Asia,Asia,67431,Female,Girls,Gen A
+2021,TKM,Turkmenistan,Central Asia,Asia,66264,Female,Girls,Gen A
+2022,TKM,Turkmenistan,Central Asia,Asia,64582,Female,Girls,Gen A
+2023,TKM,Turkmenistan,Central Asia,Asia,63209,Female,Girls,Gen A
+2024,TKM,Turkmenistan,Central Asia,Asia,62128,Female,Girls,Gen A
 1950,TCA,Turks and Caicos Islands,Caribbean,South America,119,Female,Girls,Baby Boomer
 1951,TCA,Turks and Caicos Islands,Caribbean,South America,119,Female,Girls,Baby Boomer
 1952,TCA,Turks and Caicos Islands,Caribbean,South America,119,Female,Girls,Baby Boomer
@@ -35324,81 +35324,81 @@ Year,ISO3_code,Country,Subregion,Continent,Population,Gender,G_Type,Generation
 2022,ESH,Western Sahara,Northern Africa,Africa,4562,Female,Girls,Gen A
 2023,ESH,Western Sahara,Northern Africa,Africa,4545,Female,Girls,Gen A
 2024,ESH,Western Sahara,Northern Africa,Africa,4529,Female,Girls,Gen A
-1950,YEM,YeBoys,Western Asia,Asia,120533,Female,Girls,Baby Boomer
-1951,YEM,YeBoys,Western Asia,Asia,122514,Female,Girls,Baby Boomer
-1952,YEM,YeBoys,Western Asia,Asia,124613,Female,Girls,Baby Boomer
-1953,YEM,YeBoys,Western Asia,Asia,127299,Female,Girls,Baby Boomer
-1954,YEM,YeBoys,Western Asia,Asia,129678,Female,Girls,Baby Boomer
-1955,YEM,YeBoys,Western Asia,Asia,132165,Female,Girls,Baby Boomer
-1956,YEM,YeBoys,Western Asia,Asia,134878,Female,Girls,Baby Boomer
-1957,YEM,YeBoys,Western Asia,Asia,137290,Female,Girls,Baby Boomer
-1958,YEM,YeBoys,Western Asia,Asia,140249,Female,Girls,Baby Boomer
-1959,YEM,YeBoys,Western Asia,Asia,143319,Female,Girls,Baby Boomer
-1960,YEM,YeBoys,Western Asia,Asia,146639,Female,Girls,Baby Boomer
-1961,YEM,YeBoys,Western Asia,Asia,150211,Female,Girls,Baby Boomer
-1962,YEM,YeBoys,Western Asia,Asia,153271,Female,Girls,Baby Boomer
-1963,YEM,YeBoys,Western Asia,Asia,156496,Female,Girls,Baby Boomer
-1964,YEM,YeBoys,Western Asia,Asia,160628,Female,Girls,Baby Boomer
-1965,YEM,YeBoys,Western Asia,Asia,164252,Female,Girls,Gen X
-1966,YEM,YeBoys,Western Asia,Asia,168384,Female,Girls,Gen X
-1967,YEM,YeBoys,Western Asia,Asia,172399,Female,Girls,Gen X
-1968,YEM,YeBoys,Western Asia,Asia,175685,Female,Girls,Gen X
-1969,YEM,YeBoys,Western Asia,Asia,178783,Female,Girls,Gen X
-1970,YEM,YeBoys,Western Asia,Asia,183147,Female,Girls,Gen X
-1971,YEM,YeBoys,Western Asia,Asia,187735,Female,Girls,Gen X
-1972,YEM,YeBoys,Western Asia,Asia,192693,Female,Girls,Gen X
-1973,YEM,YeBoys,Western Asia,Asia,196827,Female,Girls,Gen X
-1974,YEM,YeBoys,Western Asia,Asia,201871,Female,Girls,Gen X
-1975,YEM,YeBoys,Western Asia,Asia,208318,Female,Girls,Gen X
-1976,YEM,YeBoys,Western Asia,Asia,214138,Female,Girls,Gen X
-1977,YEM,YeBoys,Western Asia,Asia,220731,Female,Girls,Gen X
-1978,YEM,YeBoys,Western Asia,Asia,226415,Female,Girls,Gen X
-1979,YEM,YeBoys,Western Asia,Asia,236124,Female,Girls,Gen X
-1980,YEM,YeBoys,Western Asia,Asia,243851,Female,Girls,Gen X
-1981,YEM,YeBoys,Western Asia,Asia,251187,Female,Girls,Millennial
-1982,YEM,YeBoys,Western Asia,Asia,259679,Female,Girls,Millennial
-1983,YEM,YeBoys,Western Asia,Asia,268313,Female,Girls,Millennial
-1984,YEM,YeBoys,Western Asia,Asia,276337,Female,Girls,Millennial
-1985,YEM,YeBoys,Western Asia,Asia,285540,Female,Girls,Millennial
-1986,YEM,YeBoys,Western Asia,Asia,294425,Female,Girls,Millennial
-1987,YEM,YeBoys,Western Asia,Asia,303604,Female,Girls,Millennial
-1988,YEM,YeBoys,Western Asia,Asia,312594,Female,Girls,Millennial
-1989,YEM,YeBoys,Western Asia,Asia,320525,Female,Girls,Millennial
-1990,YEM,YeBoys,Western Asia,Asia,329366,Female,Girls,Millennial
-1991,YEM,YeBoys,Western Asia,Asia,337854,Female,Girls,Millennial
-1992,YEM,YeBoys,Western Asia,Asia,346640,Female,Girls,Millennial
-1993,YEM,YeBoys,Western Asia,Asia,354521,Female,Girls,Millennial
-1994,YEM,YeBoys,Western Asia,Asia,358637,Female,Girls,Millennial
-1995,YEM,YeBoys,Western Asia,Asia,360963,Female,Girls,Millennial
-1996,YEM,YeBoys,Western Asia,Asia,349701,Female,Girls,Millennial
-1997,YEM,YeBoys,Western Asia,Asia,353793,Female,Girls,Gen Z
-1998,YEM,YeBoys,Western Asia,Asia,355362,Female,Girls,Gen Z
-1999,YEM,YeBoys,Western Asia,Asia,362184,Female,Girls,Gen Z
-2000,YEM,YeBoys,Western Asia,Asia,364613,Female,Girls,Gen Z
-2001,YEM,YeBoys,Western Asia,Asia,365177,Female,Girls,Gen Z
-2002,YEM,YeBoys,Western Asia,Asia,369552,Female,Girls,Gen Z
-2003,YEM,YeBoys,Western Asia,Asia,378667,Female,Girls,Gen Z
-2004,YEM,YeBoys,Western Asia,Asia,385839,Female,Girls,Gen Z
-2005,YEM,YeBoys,Western Asia,Asia,393381,Female,Girls,Gen Z
-2006,YEM,YeBoys,Western Asia,Asia,403354,Female,Girls,Gen Z
-2007,YEM,YeBoys,Western Asia,Asia,409133,Female,Girls,Gen Z
-2008,YEM,YeBoys,Western Asia,Asia,416410,Female,Girls,Gen Z
-2009,YEM,YeBoys,Western Asia,Asia,422791,Female,Girls,Gen Z
-2010,YEM,YeBoys,Western Asia,Asia,430430,Female,Girls,Gen Z
-2011,YEM,YeBoys,Western Asia,Asia,439402,Female,Girls,Gen Z
-2012,YEM,YeBoys,Western Asia,Asia,447837,Female,Girls,Gen Z
-2013,YEM,YeBoys,Western Asia,Asia,456503,Female,Girls,Gen A
-2014,YEM,YeBoys,Western Asia,Asia,464618,Female,Girls,Gen A
-2015,YEM,YeBoys,Western Asia,Asia,470562,Female,Girls,Gen A
-2016,YEM,YeBoys,Western Asia,Asia,474722,Female,Girls,Gen A
-2017,YEM,YeBoys,Western Asia,Asia,477760,Female,Girls,Gen A
-2018,YEM,YeBoys,Western Asia,Asia,483698,Female,Girls,Gen A
-2019,YEM,YeBoys,Western Asia,Asia,487222,Female,Girls,Gen A
-2020,YEM,YeBoys,Western Asia,Asia,490705,Female,Girls,Gen A
-2021,YEM,YeBoys,Western Asia,Asia,490013,Female,Girls,Gen A
-2022,YEM,YeBoys,Western Asia,Asia,489870,Female,Girls,Gen A
-2023,YEM,YeBoys,Western Asia,Asia,491339,Female,Girls,Gen A
-2024,YEM,YeBoys,Western Asia,Asia,493710,Female,Girls,Gen A
+1950,YEM,Yemen,Western Asia,Asia,120533,Female,Girls,Baby Boomer
+1951,YEM,Yemen,Western Asia,Asia,122514,Female,Girls,Baby Boomer
+1952,YEM,Yemen,Western Asia,Asia,124613,Female,Girls,Baby Boomer
+1953,YEM,Yemen,Western Asia,Asia,127299,Female,Girls,Baby Boomer
+1954,YEM,Yemen,Western Asia,Asia,129678,Female,Girls,Baby Boomer
+1955,YEM,Yemen,Western Asia,Asia,132165,Female,Girls,Baby Boomer
+1956,YEM,Yemen,Western Asia,Asia,134878,Female,Girls,Baby Boomer
+1957,YEM,Yemen,Western Asia,Asia,137290,Female,Girls,Baby Boomer
+1958,YEM,Yemen,Western Asia,Asia,140249,Female,Girls,Baby Boomer
+1959,YEM,Yemen,Western Asia,Asia,143319,Female,Girls,Baby Boomer
+1960,YEM,Yemen,Western Asia,Asia,146639,Female,Girls,Baby Boomer
+1961,YEM,Yemen,Western Asia,Asia,150211,Female,Girls,Baby Boomer
+1962,YEM,Yemen,Western Asia,Asia,153271,Female,Girls,Baby Boomer
+1963,YEM,Yemen,Western Asia,Asia,156496,Female,Girls,Baby Boomer
+1964,YEM,Yemen,Western Asia,Asia,160628,Female,Girls,Baby Boomer
+1965,YEM,Yemen,Western Asia,Asia,164252,Female,Girls,Gen X
+1966,YEM,Yemen,Western Asia,Asia,168384,Female,Girls,Gen X
+1967,YEM,Yemen,Western Asia,Asia,172399,Female,Girls,Gen X
+1968,YEM,Yemen,Western Asia,Asia,175685,Female,Girls,Gen X
+1969,YEM,Yemen,Western Asia,Asia,178783,Female,Girls,Gen X
+1970,YEM,Yemen,Western Asia,Asia,183147,Female,Girls,Gen X
+1971,YEM,Yemen,Western Asia,Asia,187735,Female,Girls,Gen X
+1972,YEM,Yemen,Western Asia,Asia,192693,Female,Girls,Gen X
+1973,YEM,Yemen,Western Asia,Asia,196827,Female,Girls,Gen X
+1974,YEM,Yemen,Western Asia,Asia,201871,Female,Girls,Gen X
+1975,YEM,Yemen,Western Asia,Asia,208318,Female,Girls,Gen X
+1976,YEM,Yemen,Western Asia,Asia,214138,Female,Girls,Gen X
+1977,YEM,Yemen,Western Asia,Asia,220731,Female,Girls,Gen X
+1978,YEM,Yemen,Western Asia,Asia,226415,Female,Girls,Gen X
+1979,YEM,Yemen,Western Asia,Asia,236124,Female,Girls,Gen X
+1980,YEM,Yemen,Western Asia,Asia,243851,Female,Girls,Gen X
+1981,YEM,Yemen,Western Asia,Asia,251187,Female,Girls,Millennial
+1982,YEM,Yemen,Western Asia,Asia,259679,Female,Girls,Millennial
+1983,YEM,Yemen,Western Asia,Asia,268313,Female,Girls,Millennial
+1984,YEM,Yemen,Western Asia,Asia,276337,Female,Girls,Millennial
+1985,YEM,Yemen,Western Asia,Asia,285540,Female,Girls,Millennial
+1986,YEM,Yemen,Western Asia,Asia,294425,Female,Girls,Millennial
+1987,YEM,Yemen,Western Asia,Asia,303604,Female,Girls,Millennial
+1988,YEM,Yemen,Western Asia,Asia,312594,Female,Girls,Millennial
+1989,YEM,Yemen,Western Asia,Asia,320525,Female,Girls,Millennial
+1990,YEM,Yemen,Western Asia,Asia,329366,Female,Girls,Millennial
+1991,YEM,Yemen,Western Asia,Asia,337854,Female,Girls,Millennial
+1992,YEM,Yemen,Western Asia,Asia,346640,Female,Girls,Millennial
+1993,YEM,Yemen,Western Asia,Asia,354521,Female,Girls,Millennial
+1994,YEM,Yemen,Western Asia,Asia,358637,Female,Girls,Millennial
+1995,YEM,Yemen,Western Asia,Asia,360963,Female,Girls,Millennial
+1996,YEM,Yemen,Western Asia,Asia,349701,Female,Girls,Millennial
+1997,YEM,Yemen,Western Asia,Asia,353793,Female,Girls,Gen Z
+1998,YEM,Yemen,Western Asia,Asia,355362,Female,Girls,Gen Z
+1999,YEM,Yemen,Western Asia,Asia,362184,Female,Girls,Gen Z
+2000,YEM,Yemen,Western Asia,Asia,364613,Female,Girls,Gen Z
+2001,YEM,Yemen,Western Asia,Asia,365177,Female,Girls,Gen Z
+2002,YEM,Yemen,Western Asia,Asia,369552,Female,Girls,Gen Z
+2003,YEM,Yemen,Western Asia,Asia,378667,Female,Girls,Gen Z
+2004,YEM,Yemen,Western Asia,Asia,385839,Female,Girls,Gen Z
+2005,YEM,Yemen,Western Asia,Asia,393381,Female,Girls,Gen Z
+2006,YEM,Yemen,Western Asia,Asia,403354,Female,Girls,Gen Z
+2007,YEM,Yemen,Western Asia,Asia,409133,Female,Girls,Gen Z
+2008,YEM,Yemen,Western Asia,Asia,416410,Female,Girls,Gen Z
+2009,YEM,Yemen,Western Asia,Asia,422791,Female,Girls,Gen Z
+2010,YEM,Yemen,Western Asia,Asia,430430,Female,Girls,Gen Z
+2011,YEM,Yemen,Western Asia,Asia,439402,Female,Girls,Gen Z
+2012,YEM,Yemen,Western Asia,Asia,447837,Female,Girls,Gen Z
+2013,YEM,Yemen,Western Asia,Asia,456503,Female,Girls,Gen A
+2014,YEM,Yemen,Western Asia,Asia,464618,Female,Girls,Gen A
+2015,YEM,Yemen,Western Asia,Asia,470562,Female,Girls,Gen A
+2016,YEM,Yemen,Western Asia,Asia,474722,Female,Girls,Gen A
+2017,YEM,Yemen,Western Asia,Asia,477760,Female,Girls,Gen A
+2018,YEM,Yemen,Western Asia,Asia,483698,Female,Girls,Gen A
+2019,YEM,Yemen,Western Asia,Asia,487222,Female,Girls,Gen A
+2020,YEM,Yemen,Western Asia,Asia,490705,Female,Girls,Gen A
+2021,YEM,Yemen,Western Asia,Asia,490013,Female,Girls,Gen A
+2022,YEM,Yemen,Western Asia,Asia,489870,Female,Girls,Gen A
+2023,YEM,Yemen,Western Asia,Asia,491339,Female,Girls,Gen A
+2024,YEM,Yemen,Western Asia,Asia,493710,Female,Girls,Gen A
 1950,ZMB,Zambia,Eastern Africa,Africa,56018,Female,Girls,Baby Boomer
 1951,ZMB,Zambia,Eastern Africa,Africa,57609,Female,Girls,Baby Boomer
 1952,ZMB,Zambia,Eastern Africa,Africa,59376,Female,Girls,Baby Boomer
