@@ -56,7 +56,7 @@ continent = df['Continent'].loc[df['Country'] == selected_country].drop_duplicat
 
 with col2:
     gender_list = df['Gender'].drop_duplicates()
-    selected_gender = st.selectbox('Gender:', gender_list)
+    selected_gender = st.radio('Gender:', gender_list)
 
 g_type = df['G_Type'].loc[df['Country'] == selected_country].values[0]
 
