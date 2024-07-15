@@ -154,33 +154,19 @@ if st.button('Create Story'):
     )
     story.add_slide(slide2)
 
-    pop3 = df[(df['Subregion'] == subregion) & (df['Year'] == selected_year) & (df['Gender'] == selected_gender)]['Population'].sum()
-    title3 = f"You are one of {format_population(pop3)} {g_type} born in {selected_year} ({subregion})"
+    pop3 = df[(df['Subregion'] == subregion) & (df['Year'] == selected_year)]['Population'].sum()
+    title3 = f"You are one of {format_population(pop3)} people born in {selected_year} ({subregion})"
 
     slide3 = Slide()
     slide3.add_step(
         Step(
-            Data.filter(f"record['Subregion'] == '{subregion}' && record['Year'] == {selected_year} && record['Gender'] == '{selected_gender}'"),
+            Data.filter(f"record['Subregion'] == '{subregion}' && record['Year'] == {selected_year}"),
             Config(
                 {
                     'size': 'Population',
                     'geometry': 'circle',
                     'color': 'Country',
-                    'label': 'ISO3_code',
-                    'legend': None,
-                    'title': title3
-                }
-            )
-        )
-    )
-    slide3.add_step(
-        Step(
-            Config(
-                {
-                    'size': 'Population',
-                    'geometry': 'circle',
-                    'color': 'Country',
-                    'label': 'Population',
+                    'label': ['ISO3_code', 'Population'],
                     'legend': None,
                     'title': title3
                 }
@@ -201,20 +187,7 @@ if st.button('Create Story'):
                     'size': 'Population',
                     'geometry': 'circle',
                     'color': 'Country',
-                    'label': 'ISO3_code',
-                    'title': title4
-                }
-            )
-        )
-    )
-    slide4.add_step(
-        Step(
-        Config(
-                {
-                    'size': 'Population',
-                    'geometry': 'circle',
-                    'color': 'Country',
-                    'label': 'Population',
+                    'label': ['ISO3_code', 'Population'],
                     'title': title4
                 }
             )
